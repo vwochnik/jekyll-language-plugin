@@ -1,0 +1,17 @@
+Gem::Specification.new do |spec|
+  spec.name          = "jekyll-language-plugin"
+  spec.version       = "1.0.0"
+  spec.authors       = ["Vincent Wochnik"]
+  spec.email         = ["v.wochnik@gmail.com"]
+  spec.description   = %q{Jekyll 3.0-compatible multi-language plugin for posts, pages and includes}
+  spec.summary       = %q{This plugin enables Jekyll to run multilingual websites where pages and posts can automatically be translated into different languages.}
+  spec.homepage      = "https://github.com/vwochnik/jekyll-language-plugin"
+  spec.license       = "MIT"
+
+  spec.files         = [*Dir["lib/**/*.rb"], "README.md", "LICENSE"]
+  spec.require_paths = ["lib"]
+
+  spec.add_runtime_dependency 'jekyll', '~> 3.0'
+  spec.add_development_dependency "bundler", "~> 1.3"
+  spec.add_development_dependency "rake", "~> 0"
+end
