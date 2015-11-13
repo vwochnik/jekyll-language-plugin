@@ -36,6 +36,7 @@ module Jekyll
         str
       end
     end
+  end
 end
 
 Liquid::Template.register_tag('t', Jekyll::Tags::LanguageTag)
