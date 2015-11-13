@@ -1,0 +1,8 @@
+*~
+*.old
+_site
+.sass-cache
+.vendor
+.jekyll-metadata
+Gemfile.lock
+

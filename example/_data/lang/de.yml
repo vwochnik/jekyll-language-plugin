@@ -1,0 +1,15 @@
+---
+404:
+  title: Datei Nicht Gefunden
+  lead: 404
+  slogan: Datei Nicht Gefunden
+index:
+  title: Beispielseite
+  lead: Beispielseite
+  slogan: Eine Beispielseite mit jekyll-language-plugin.
+  description: >
+    Diese Seite ist so einfach wie möglich gestaltet, damit der Umgang mit dem
+    Plugin effektiv demonstriert werden kann. Weitere Informationen, wie das
+    Plugin zu verwenden ist finden sich auf GitHub.
+  posts: Beiträge
+footnote: Copyright (c) Beispielseite 2015. Alle Rechte vorbehalten.

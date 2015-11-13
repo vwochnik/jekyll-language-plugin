@@ -1,0 +1,14 @@
+# Site settings
+title: Example Website
+email: example@example.org
+description: Very basic example website using jekyll-language-plugin.
+url: "http://example.org"
+
+# Build settings
+markdown: kramdown
+
+gems:
+- jekyll-language-plugin
+
+language_data: data.lang.%%
+language_includes_dir: _i18n

@@ -27,10 +27,8 @@ module Jekyll
 
         data = get_language_data(context, page_language)
         if page_alias and data.include?(page_alias) and data[page_alias].include?(key)
-          $stdout.puts("Heya")
           "#{data[page_alias][key]}"
         elsif data.include?(key)
-          $stdout.puts("Heyo")
           "#{data[key]}"
         else
           ""

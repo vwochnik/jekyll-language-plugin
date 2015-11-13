@@ -1,0 +1,15 @@
+---
+404:
+  title: File Not Found
+  lead: 404
+  slogan: File Not Found
+index:
+  title: Example Site
+  lead: Example Site
+  slogan: An example site using jekyll-language-plugin.
+  description: >
+    This site is as simple as possible to effectively demonstrate the usage
+    of this plugin. Further information on how to use the plugin can be found
+    on GitHub.
+  posts: Posts
+footnote: Copyright (c) Example Site 2015. All rights reserved.

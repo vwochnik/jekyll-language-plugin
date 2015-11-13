@@ -1,0 +1,19 @@
+---
+layout: default
+alias: index
+languages:
+- en
+- de
+---
+<h1>{% t lead %}</h1>
+<p><em>{% t slogan %}</em></p>
+<p>{% t description %}</p>
+<blockquote>{% tinclude lorem.txt %}</blockquote>
+<h2>{% t posts %}</h2>
+<ul>
+{% for post in site.posts %}
+  {% if post.language == page.language %}
+    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+  {% endif %}
+{% endfor %}
+</ul>
