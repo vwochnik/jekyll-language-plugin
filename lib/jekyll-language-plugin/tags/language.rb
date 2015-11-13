@@ -18,12 +18,19 @@ module Jekyll
 
       def get_language_string(context, key)
         page_language = context['page']['language']
+
+        if not page_language
+          return ""
+        end
+
         page_alias = context['page']['alias']
 
         data = get_language_data(context, page_language)
         if page_alias and data.include?(page_alias) and data[page_alias].include?(key)
+          $stdout.puts("Heya")
           "#{data[page_alias][key]}"
         elsif data.include?(key)
+          $stdout.puts("Heyo")
           "#{data[key]}"
         else
           ""
