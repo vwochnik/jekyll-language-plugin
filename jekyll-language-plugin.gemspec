@@ -1,6 +1,6 @@
 Gem::Specification.new do |spec|
   spec.name          = "jekyll-language-plugin"
-  spec.version       = "1.0.1"
+  spec.version       = "1.0.2"
   spec.authors       = ["Vincent Wochnik"]
   spec.email         = ["v.wochnik@gmail.com"]
   spec.description   = %q{Jekyll 3.0-compatible multi-language plugin for posts, pages and includes}
