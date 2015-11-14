@@ -2,7 +2,7 @@ module Jekyll
   module Tags
     class LanguageIncludeTag < IncludeTag
       def tag_includes_dir(context)
-        context.registers[:site].config['language_includes_dir'].freeze
+        (context.registers[:site].config['language_includes_dir'].to_s || '_i18n').freeze
       end
 
       def page_language(context)

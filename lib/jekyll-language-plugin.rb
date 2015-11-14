@@ -1,4 +1,5 @@
 # require all files in jekyll-language-plugin subdirectory
+require 'jekyll-language-plugin/plugin_exception.rb'
 require 'jekyll-language-plugin/liquid_context.rb'
 require 'jekyll-language-plugin/date_localizer.rb'
 

@@ -4,8 +4,8 @@
     <meta charset="utf-8">
     <meta name="keywords" content="{{ site.keywords }}">
     <meta name="description" content="{{ site.description }}">
-    <title>{% t title %} | {{ site.title }}</title>
-    <link rel="canonical" href="{{ site.url }}/{{ page.language }}{{ page.url | replace:'index.html','' }}">
+    <title>{% if page.layout == 'post' %}{{ page.title }}{% else %}{% t title %}{% endif %} | {{ site.title }} | {{ site.title }}</title>
+    <link rel="canonical" href="{{ site.url }}{{ page.url | replace:'index.html','' }}">
   </head>
 <body>
   {{ content }}

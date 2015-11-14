@@ -4,7 +4,7 @@ module JekyllLanguagePlugin
       translation = JekyllLanguagePlugin::LiquidContext.get_language_data(context, 'date')
 
       # validate language translation
-      return nil if translation.nil? ||
+      raise JekyllLanguagePlugin::PluginError.new('Localized date is missing translation.') if translation.nil? ||
         !['abbr_daynames', 'daynames', 'abbr_monthnames', 'monthnames'].all? {|s| translation.key?(s) && translation[s].is_a?(Array) } ||
         translation['abbr_daynames'].size < 7 || translation['daynames'].size < 7 ||
         translation['abbr_monthnames'].size < 12 || translation['monthnames'].size < 12
@@ -25,7 +25,7 @@ module JekyllLanguagePlugin
                 when 'b'; translation['abbr_monthnames'][self.mon-1]
                 when 'B'; translation['monthnames'][self.mon-1]
                 else
-                  raise "Date#strftime: InputError"
+                  raise JekyllLanguagePlugin::PluginError.new('Internal error.')
               end
             })
         if defined? @@encoding_converter
