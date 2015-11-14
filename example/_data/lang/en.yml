@@ -13,4 +13,10 @@ index:
     on GitHub.
   posts: Posts
 post_published: Published
+post_date_format: '%B %d, %Y'
 footnote: Copyright (c) Example Site 2015. All rights reserved.
+date:
+  abbr_daynames: ['Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat']
+  daynames: ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday']
+  abbr_monthnames: ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec']
+  monthnames: ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']

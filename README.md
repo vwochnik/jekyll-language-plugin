@@ -11,6 +11,7 @@ This plugin has been developed with user-simplicity in mind. It does not require
 * Translates pages and posts into multiple languages
 * Supports all template languages that your Liquid pipeline supports.
 * Uses liquid tags in your HTML for including translated strings and language-specific includes.
+* Supports localized dates via liquid filter
 * Works with `jekyll serve --watch`
 * Supports includes translated into multiple languages
 
@@ -134,11 +135,33 @@ Currently, there are two liquid tags provided by this plugin.
 
 The `t` liquid tag provides a convenient way of accessing language-specific translations from the language data referred to in the configuration file.
 
-If an alias is given by the page's or post's front-matter, `t` will look into the language-specific alias first. Only if the key cannot be found there, it will perform another lookup without the alias. This can be useful for common translations like a copyright notice.
+If an alias is given by the page's or post's front-matter, `t` will look into the language-specific alias first. Only if the key cannot be found there, it will perform another lookup without the alias. This can be useful for common translations like a copyright notice. The key can also be a dot-notation of multiple keys which are traversed upon lookup.
+
+*Example*: `{% t homepage_welcome %}`
 
 ### Language-Specific Include Tag
 
 The `tinclude` liquid tag works just like the Jekyll-standard `include` tag. But unlike `include`, `tinclude` will not look into the `_includes` directory. Instead it will look into the directory specified by the `language_includes_dir` configuration setting, here `_i18n`. Then it travels one subdirectory down for the language name. If you `{% tinclude lorem.txt %}`, `tinclude` will look for the file in `_i18n/en/lorem.txt` if the language is English.
+
+*Example*: `{% tinclude imprint.html %}`
+
+### Language-Specific Date Filter
+
+The `tdate` liquid filter provides localized date-formatting using the day and month names specified in the language data for each language. Note that if you are using this filter, a `date` key must be present for every supported language.
+
+The `tdate` filter takes one argument, the date format language key. A lookup is performed just like the `t` tag does.
+
+The following excerpt shows the english date translation:
+
+```
+date:
+  abbr_daynames: ['Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat']
+  daynames: ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday']
+  abbr_monthnames: ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec']
+  monthnames: ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
+```
+
+*Example*: `{{ post.date | tdate: 'post_date_format' }}`
 
 # Example Site
 

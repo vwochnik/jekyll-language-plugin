@@ -13,4 +13,10 @@ index:
     Plugin zu verwenden ist finden sich auf GitHub.
   posts: Beiträge
 post_published: Veröffentlicht
+post_date_format: '%d. %B %Y'
 footnote: Copyright (c) Beispielseite 2015. Alle Rechte vorbehalten.
+date:
+  abbr_daynames: ['So', 'Mo', 'Di', 'Mi', 'Do', 'Fr', 'Sa']
+  daynames: ['Sonntag', 'Montag', 'Dienstag', 'Mitwoch', 'Donnerstag', 'Freitag', 'Samstag']
+  abbr_monthnames: ['Jan', 'Feb', 'Mär', 'Apr', 'Mai', 'Jun', 'Jul', 'Aug', 'Sep', 'Okt', 'Nov', 'Dez']
+  monthnames: ['Januar', 'Februar', 'März', 'April', 'Mai', 'Juni', 'Juli', 'August', 'September', 'Oktober', 'November', 'Dezember']

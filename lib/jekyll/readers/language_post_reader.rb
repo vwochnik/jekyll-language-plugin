@@ -8,7 +8,7 @@ module Jekyll
         ldocument.read
 
         languages = ldocument.languages.is_a?(Enumerable) ? ldocument.languages : []
-        if ldocument.language and not languages.include?(ldocument.language)
+        if ldocument.language && !languages.include?(ldocument.language)
           languages.push(ldocument.language)
         end
 

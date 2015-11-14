@@ -2,5 +2,5 @@
 layout: default
 ---
 <h1>{{ page.title }}</h1>
-<p><i>{% t post_published %}: <time datetime="{{ page.date | date_to_xmlschema }}" pubdate="pubdate">{{ page.date | date: "%Y-%m-%d" }}</time></i></p>
+<p><i>{% t post_published %}: <time datetime="{{ page.date | date_to_xmlschema }}" pubdate="pubdate">{{ page.date | tdate: 'post_date_format' }}</time></i></p>
 {{ content }}
