@@ -23,9 +23,9 @@ module JekyllLanguagePlugin
       data = self.get_language_data(context)
       return "" if data.nil?
 
-      page_alias = context.registers[:page]['alias']
-      if (!page_alias.to_s.empty? &&
-          !(str = traverse_hash(traverse_hash(data, page_alias), key)).to_s.empty?) ||
+      language_subset = context.registers[:page]['subset']
+      if (!language_subset.to_s.empty? &&
+          !(str = traverse_hash(traverse_hash(data, language_subset), key)).to_s.empty?) ||
          !(str = traverse_hash(data, key)).to_s.empty?
         return str
       end

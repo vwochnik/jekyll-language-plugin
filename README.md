@@ -53,7 +53,7 @@ The first key, `language_data`, tells the plugin where it can find the translati
 
 ## Usage
 
-Every page or post, that needs to be translated must either have a `language` key or a `languages` array inside its YAML front-matter. Additionally, it may also have an `alias` key which tells the plugin to traverse one step further into the language data. So for example, if `alias` is `home` and the `language_data` configuration setting is `data.lang.%%` and the language is `en`, the plugin will look into `data.lang.en.home` for the translation keys used by the liquid tag. Of course, only pages and layouts can use the translation liquid tag but layouts used by posts can therefore benefit from an `alias`.
+Every page or post, that needs to be translated must either have a `language` key or a `languages` array inside its YAML front-matter. Additionally, it may also have an `subset` key which tells the plugin to traverse one step further into the language data. So for example, if `subset` is `home` and the `language_data` configuration setting is `data.lang.%%` and the language is `en`, the plugin will look into `data.lang.en.home` for the translation keys used by the liquid tag. Of course, only pages and layouts can use the translation liquid tag but layouts used by posts can therefore benefit from an `subset`.
 
 ### Example
 
@@ -62,7 +62,7 @@ This is a page optimized for the language plugin, `home.html`:
 ```
 ---
 layout: default
-alias: home
+subset: home
 languages:
 - en
 - de
@@ -107,7 +107,7 @@ Create a new file `_layouts/default.html` which will contain the default layout:
 </html>
 ```
 
-As a sidenote, if an `alias` is given and the translation liquid tag can not find a key within the alias of a given language, it will look without the `alias`, basically one level upwards.
+As a side note, if a `subset` is given and the translation liquid tag can not find a key within the given subset of the specified language, it will perform another lookup without the given subset.
 
 So if `footnote` is common to all pages and posts, it can be placed within the root of each language file. For the English language, add the following to `_data/lang/en.yml`:
 
@@ -125,7 +125,7 @@ If you now run `jekyll build`, you will obtain two separate `home.html` files in
 
 ### Posts
 
-Similar to pages, posts can also have the `languages` or `language` keys in its YAML front-matter. The `alias` key is also supported. Unlike pages, posts cannot use the translation liquid tag but the layout used by the post can. The post is rendered for each language specified, just like pages are.
+Similar to pages, posts can also have the `languages` or `language` keys as well as the `subset` key in its YAML front-matter. You can use all supported liquid tags and filters to translate posts but you can also create multiple posts, one for each language.
 
 ## Liquid tags
 
@@ -135,9 +135,9 @@ Currently, there are two liquid tags provided by this plugin.
 
 The `t` liquid tag provides a convenient way of accessing language-specific translations from the language data referred to in the configuration file.
 
-If an alias is given by the page's or post's front-matter, `t` will look into the language-specific alias first. Only if the key cannot be found there, it will perform another lookup without the alias. This can be useful for common translations like a copyright notice. The key can also be a dot-notation of multiple keys which are traversed upon lookup.
+If a `subset` is given by the page's or post's front-matter, `t` will look into the given `subset` of the language specified. Only if the key cannot be found there, it will perform another lookup without traversing into the given subset. This can be useful for common translations like a copyright notice. The key can also be a dot-notation of cascaded keys which are traversed upon lookup.
 
-*Example*: `{% t homepage_welcome %}`
+*Example*: `{% t homepage_welcome %}` or `{% t homepage.welcome %}`
 
 ### Language-Specific Include Tag
 
