@@ -12,8 +12,9 @@ index:
     Plugin effektiv demonstriert werden kann. Weitere Informationen, wie das
     Plugin zu verwenden ist finden sich auf GitHub.
   posts: Beiträge
-post_published: Veröffentlicht
-post_date_format: '%d. %B %Y'
+post:
+  published: Veröffentlicht
+  date_format: '%d. %B %Y'
 footnote: Copyright (c) Beispielseite 2015. Alle Rechte vorbehalten.
 date:
   abbr_daynames: ['So', 'Mo', 'Di', 'Mi', 'Do', 'Fr', 'Sa']

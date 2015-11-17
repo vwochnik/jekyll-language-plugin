@@ -127,6 +127,8 @@ If you now run `jekyll build`, you will obtain two separate `home.html` files in
 
 Similar to pages, posts can also have the `languages` or `language` keys as well as the `subset` key in its YAML front-matter. You can use all supported liquid tags and filters to translate posts but you can also create multiple posts, one for each language.
 
+It is recommended not to make excessive use of the liquid tags in posts but instead create a post for each translation.
+
 ## Liquid tags
 
 Currently, there are two liquid tags provided by this plugin.
