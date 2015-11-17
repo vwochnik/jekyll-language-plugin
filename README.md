@@ -62,10 +62,10 @@ This is a page optimized for the language plugin, `home.html`:
 ```
 ---
 layout: default
-subset: home
 languages:
 - en
 - de
+subset: home
 ---
 <h1>{% t title %}</h1>
 <p>{% t description %}</p>

@@ -1,5 +1,5 @@
 ---
-404:
+err:
   title: File Not Found
   lead: 404
   slogan: File Not Found
