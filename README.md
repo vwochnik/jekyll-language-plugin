@@ -67,9 +67,11 @@ languages:
 - de
 subset: home
 ---
-<h1>{% t title %}</h1>
-<p>{% t description %}</p>
+<h1>{% t 'title' %}</h1>
+<p>{% t 'description' %}</p>
 ```
+
+Notice the `' '` quotation marks around the language key. Those are necessary since the `t` tag also supports variables containing the language key for more flexibility.
 
 `t` is the translation tag. In this case, it will look for `data.lang.en.home.title` and `data.lang.en.home.description` for the English language or `data.lang.de.home.title` and `data.lang.de.home.description` for the German language.
 
@@ -96,13 +98,13 @@ Create a new file `_layouts/default.html` which will contain the default layout:
 ```
 <!DOCTYPE html>
 <html>
-  <head{% if page.language %} lang="{{ page.language }}"{% endif %}>
+  <head lang="{{ page.language }}">
     <meta charset="utf-8">
-    <title>{% t title %} | {{ site.title }}</title>
+    <title>{% t 'title' %} | {{ site.title }}</title>
   </head>
 <body>
   {{ content }}
-  <p><small>{% t footnote %} | <a href="{{ site.baseurl }}/en/" title="English">en</a> | <a href="{{ site.baseurl }}/de/" title="German">de</a></small></p>
+  <p><small>{% t 'footnote' %}</small></p>
 </body>
 </html>
 ```
@@ -137,9 +139,11 @@ Currently, there are two liquid tags provided by this plugin.
 
 The `t` liquid tag provides a convenient way of accessing language-specific translations from the language data referred to in the configuration file.
 
+The `t` tag evaluates the passed expression for variables. `'hello'` is evaluated to `hello` and `hello` is evaluated to the contents of the variable `hello` within the liquid context.
+
 If a `subset` is given by the page's or post's front-matter, `t` will look into the given `subset` of the language specified. Only if the key cannot be found there, it will perform another lookup without traversing into the given subset. This can be useful for common translations like a copyright notice. The key can also be a dot-notation of cascaded keys which are traversed upon lookup.
 
-*Example*: `{% t homepage_welcome %}` or `{% t homepage.welcome %}`
+*Example*: `{% t 'homepage_welcome' %}` or `{% t 'homepage.welcome' %}` or `{% t variable_containing_key %}`
 
 ### Language-Specific Include Tag
 
