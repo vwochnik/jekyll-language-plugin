@@ -11,6 +11,7 @@ require 'jekyll/readers/language_page_reader.rb'
 require 'jekyll/readers/language_post_reader.rb'
 require 'jekyll/filters/language_date.rb'
 require 'jekyll/tags/language.rb'
+require 'jekyll/tags/language_name.rb'
 require 'jekyll/tags/language_include.rb'
 
 # replace Jekyll::Reader upon page reset with Jekyll::LanguageReader extension

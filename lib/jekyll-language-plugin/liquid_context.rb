@@ -33,6 +33,15 @@ module JekyllLanguagePlugin
       raise JekyllLanguagePlugin::PluginError.new("Language string #{key} not found.")
     end
 
+    def self.get_language_name(context, name)
+      translation = self.get_language_data(context, 'lang')
+
+      raise JekyllLanguagePlugin::PluginError.new('Language name not found in translation.') if translation.nil? ||
+        !translation.key?(name)
+
+      translation[name]
+    end
+
     def self.traverse_hash(hash, keys)
       return nil if hash.nil? || keys.to_s.empty?
       keys = keys.split('.') if keys.is_a?(String)
