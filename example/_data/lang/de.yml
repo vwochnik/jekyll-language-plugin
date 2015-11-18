@@ -16,6 +16,9 @@ post:
   published: Veröffentlicht
   date_format: '%d. %B %Y'
 footnote: Copyright (c) Beispielseite 2015. Alle Rechte vorbehalten.
+lang:
+  en: Englisch
+  de: Deutsch
 date:
   abbr_daynames: ['So', 'Mo', 'Di', 'Mi', 'Do', 'Fr', 'Sa']
   daynames: ['Sonntag', 'Montag', 'Dienstag', 'Mitwoch', 'Donnerstag', 'Freitag', 'Samstag']

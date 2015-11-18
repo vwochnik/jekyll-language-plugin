@@ -16,6 +16,9 @@ post:
   published: Published
   date_format: '%B %d, %Y'
 footnote: Copyright (c) Example Site 2015. All rights reserved.
+lang:
+  en: English
+  de: German
 date:
   abbr_daynames: ['Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat']
   daynames: ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday']

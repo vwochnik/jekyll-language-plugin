@@ -4,11 +4,15 @@
     <meta charset="utf-8">
     <meta name="keywords" content="{{ site.keywords }}">
     <meta name="description" content="{{ site.description }}">
-    <title>{% if page.layout == 'post' %}{{ page.title }}{% else %}{% t title %}{% endif %} | {{ site.title }} | {{ site.title }}</title>
+    <title>{% if page.layout == 'post' %}{{ page.title }}{% else %}{% t 'title' %}{% endif %} | {{ site.title }} | {{ site.title }}</title>
     <link rel="canonical" href="{{ site.url }}{{ page.url | replace:'index.html','' }}">
   </head>
 <body>
   {{ content }}
-  <p><small>{% t footnote %} | <a href="{{ site.baseurl }}/en/" title="English">en</a> | <a href="{{ site.baseurl }}/de/" title="German">de</a></small></p>
+  <p><small>{% t 'footnote' %}
+  {% for language in site.languages %}
+   <span> | </span><a href="{{ site.baseurl }}/{{ language }}/" title="{% tl language %}">{% tl language %}</a>
+  {% endfor %}
+  </p>
 </body>
 </html>
