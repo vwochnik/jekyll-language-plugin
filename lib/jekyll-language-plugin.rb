@@ -18,3 +18,21 @@ require 'jekyll/tags/language_include.rb'
 Jekyll::Hooks.register :site, :after_reset do |site|
   site.reader = Jekyll::LanguageReader.new(site)
 end
+
+# monkey patch URL.sanitize_url for handling of triple slashes
+module Jekyll
+  class URL
+    def sanitize_url(in_url)
+      url = in_url \
+        # Remove empty URL segments and every URL segment that consists solely of dots
+        .split('/').reject{ |s| s.empty? || s =~ /^\.+$/ }.join('/') \
+        # Always add a leading slash
+        .gsub(/\A([^\/])/, '/\1')
+
+      # Append a trailing slash to the URL if the unsanitized URL had one
+      url << "/" if in_url.end_with?("/")
+      
+      url
+    end
+  end
+end
