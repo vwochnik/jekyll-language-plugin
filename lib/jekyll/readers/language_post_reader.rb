@@ -8,13 +8,8 @@ module Jekyll
         ldocument.read
 
         languages = ldocument.languages.is_a?(Enumerable) ? ldocument.languages : []
-        if ldocument.language && !languages.include?(ldocument.language)
-          languages.push(ldocument.language)
-        end
-
-        if languages.size == 0
-          return [document]
-        end
+        languages.push(ldocument.language) if ldocument.language && !languages.include?(ldocument.language)
+        return [document] if languages.size == 0
 
         languages.map do |language|
           ldocument2 = LanguageDocument.new(document.path, { site: @site, collection: @site.posts })

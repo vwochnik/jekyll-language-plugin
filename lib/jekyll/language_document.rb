@@ -14,16 +14,14 @@ module Jekyll
     end
 
     def url_template
-      if language
-        return "/:language" + url_template_orig
-      end
+      return "/:language" + url_template_orig if !language.nil?
       url_template_orig
     end
 
     def url_placeholders
-      p = url_placeholders_orig
-      p['language'] = language
-      p
+      url_placeholders_orig.merge!({
+        language: language
+      })
     end
   end
 end
