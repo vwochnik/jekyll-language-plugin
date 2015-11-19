@@ -54,7 +54,8 @@ Fork this repository, make your changes and then issue a pull request. If you fi
 
 # Copyright
 
-Copyright (c) Vincent Wochnik 2015.
+Copyright (c) 2015 Vincent Wochnik.
+
 License: MIT
 
 [jekyll]: https://github.com/mojombo/jekyll
