@@ -3,6 +3,9 @@ err:
   title: File Not Found
   lead: 404
   slogan: File Not Found
+root:
+  title: Choose your Language
+  description: "Please select your language from the list below:"
 index:
   title: Example Site
   lead: Example Site

@@ -1,0 +1,13 @@
+---
+layout: default
+language: en
+subset: root
+permalink: /
+---
+<h1>{% t 'title' %}</h1>
+<p>{% t 'description' %}</p>
+<ul>
+{% for language in site.languages %}
+  <li><a href="{{ site.baseurl }}/{{ language }}/" title="{% tl language %}">{% tl language %}</a></li>
+{% endfor %}
+</ul>
