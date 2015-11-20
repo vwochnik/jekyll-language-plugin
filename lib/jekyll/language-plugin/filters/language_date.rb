@@ -22,7 +22,7 @@ module Jekyll
           format = LiquidContext.get_language_string(@context, fkey)
           return "" if format.nil?
 
-          DateLocalizer.localize_date(date, format, @context).to_s
+          Jekyll::LanguagePlugin::DateLocalizer.localize_date(date, format, @context).to_s
         end
       end
     end
