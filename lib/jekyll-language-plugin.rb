@@ -1,18 +1,25 @@
-# require all files in jekyll-language-plugin subdirectory
-require 'jekyll-language-plugin/plugin_exception.rb'
-require 'jekyll-language-plugin/liquid_context.rb'
-require 'jekyll-language-plugin/date_localizer.rb'
+module Jekyll
 
-# require all files in jekyll subdirectory
-require 'jekyll/language_reader.rb'
-require 'jekyll/language_page.rb'
-require 'jekyll/language_document.rb'
-require 'jekyll/readers/language_page_reader.rb'
-require 'jekyll/readers/language_post_reader.rb'
-require 'jekyll/filters/language_date.rb'
-require 'jekyll/tags/language.rb'
-require 'jekyll/tags/language_name.rb'
-require 'jekyll/tags/language_include.rb'
+  # internal requires for plugin
+  autoload :LanguageReader,     'jekyll/language_reader.rb'
+  autoload :LanguagePage,       'jekyll/language_page.rb'
+  autoload :LanguageDocument,   'jekyll/language_document.rb'
+  autoload :LanguagePageReader, 'jekyll/readers/language_page_reader.rb'
+  autoload :LanguagePostReader, 'jekyll/readers/language_post_reader.rb'
+
+  module LanguagePlugin
+
+    # plugin requires
+    autoload :PluginException,    'jekyll/language-plugin/plugin_exception.rb'
+    autoload :LiquidContext,      'jekyll/language-plugin/liquid_context.rb'
+    autoload :DateLocalizer,      'jekyll/language-plugin/date_localizer.rb'
+    autoload :VERSION,            'jekyll/language-plugin/version'
+  end
+end
+
+# require liquid tags and filters
+Dir[File.join(File.dirname(__FILE__), 'jekyll/language-plugin/tags/*.rb')].each{ |f| require f }
+require 'jekyll/language-plugin/filters/language_date.rb'
 
 # replace Jekyll::Reader upon page reset with Jekyll::LanguageReader extension
 Jekyll::Hooks.register :site, :after_reset do |site|

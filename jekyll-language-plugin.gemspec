@@ -1,6 +1,11 @@
+# coding: utf-8
+lib = File.expand_path('../lib', __FILE__)
+$LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
+require 'jekyll/language-plugin/version'
+
 Gem::Specification.new do |spec|
   spec.name          = "jekyll-language-plugin"
-  spec.version       = "1.1.4"
+  spec.version       = Jekyll::LanguagePlugin::VERSION
   spec.authors       = ["Vincent Wochnik"]
   spec.email         = ["v.wochnik@gmail.com"]
   spec.description   = %q{Jekyll 3.0-compatible multi-language plugin for posts, pages and includes}
