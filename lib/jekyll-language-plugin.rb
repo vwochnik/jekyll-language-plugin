@@ -10,7 +10,7 @@ module Jekyll
   module LanguagePlugin
 
     # plugin requires
-    autoload :PluginException,    'jekyll/language-plugin/plugin_exception.rb'
+    autoload :PluginError,        'jekyll/language-plugin/plugin_error.rb'
     autoload :LiquidContext,      'jekyll/language-plugin/liquid_context.rb'
     autoload :DateLocalizer,      'jekyll/language-plugin/date_localizer.rb'
     autoload :VERSION,            'jekyll/language-plugin/version'
