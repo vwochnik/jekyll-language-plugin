@@ -1,0 +1,14 @@
+<header class="site-header" role="header">
+  <nav class="site-navigation" role="navigation">
+    <ul>
+      {% for page2 in site.pages %}
+        {% if page2.language == page.language %}
+          {% if page2.subset %}
+            {% assign page2_title_key = page2.subset | append: '.title' %}
+            <li><a href="{{ site.baseurl }}{{ page2.url }}">{% t page2_title_key %}</a></li>
+          {% endif %}
+        {% endif %}
+      {% endfor %}
+    </ul>
+  </nav>
+</header>

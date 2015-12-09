@@ -1,0 +1,7 @@
+<footer class="site-footer">
+  <p><small>{% t 'footnote' %}
+  {% for language in site.languages %}
+   <span> | </span><a href="{{ site.baseurl }}/{{ language }}/" title="{% tl language %}">{% tl language %}</a>
+  {% endfor %}
+  </p>
+</footer>

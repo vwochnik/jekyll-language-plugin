@@ -11,6 +11,7 @@ languages: ['en', 'de']
 markdown: kramdown
 
 gems:
+- jekyll-sitemap
 - jekyll-language-plugin
 
 language_data: data.lang.%%

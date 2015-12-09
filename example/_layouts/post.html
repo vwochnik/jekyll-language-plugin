@@ -1,6 +1,10 @@
 ---
-layout: default
+layout: skeleton
 ---
-<h1>{{ page.title }}</h1>
-<p><i>{% t 'post.published' %}: <time datetime="{{ page.date | date_to_xmlschema }}" pubdate="pubdate">{{ page.date | tdate: 'post.date_format' }}</time></i></p>
-{{ content }}
+{% include site-header.html %}
+<main class="site-content" role="main">
+  <h1>{{ page.title }}</h1>
+  <p><i>{% t 'post.published' %}: <time datetime="{{ page.date | date_to_xmlschema }}" pubdate="pubdate">{{ page.date | tdate: 'post.date_format' }}</time></i></p>
+  {{ content }}
+</main>
+{% include site-footer.html %}

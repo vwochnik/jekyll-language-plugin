@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 languages:
 - en
 - de

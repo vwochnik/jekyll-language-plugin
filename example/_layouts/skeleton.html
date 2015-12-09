@@ -14,12 +14,7 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
     <script src="{{ site.baseurl }}/js/language-redirect.js" type="text/javascript"></script>
   </head>
-<body>
-  {{ content }}
-  <p><small>{% t 'footnote' %}
-  {% for language in site.languages %}
-   <span> | </span><a href="{{ site.baseurl }}/{{ language }}/" title="{% tl language %}">{% tl language %}</a>
-  {% endfor %}
-  </p>
-</body>
+  <body>
+    {{ content }}
+  </body>
 </html>
