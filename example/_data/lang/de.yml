@@ -12,6 +12,9 @@ index:
     Plugin effektiv demonstriert werden kann. Weitere Informationen, wie das
     Plugin zu verwenden ist finden sich auf GitHub.
   posts: Beiträge
+  visit-about-us: Besuchen Sie unsere Über-Seite.
+about:
+  title: Über Uns
 post:
   published: Veröffentlicht
   date_format: '%d. %B %Y'

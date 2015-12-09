@@ -9,6 +9,7 @@ subset: index
 <p><em>{% t 'slogan' %}</em></p>
 <p>{% t 'description' %}</p>
 <blockquote>{% tinclude lorem.txt %}</blockquote>
+<p><a href="{{ site.baseurl }}/{{ page.language }}/about.html" title="{% t 'visit-about-us' %}">{% t 'visit-about-us' %}</a></p>
 <h2>{% t 'posts' %}</h2>
 <ul>
 {% for post in site.posts %}

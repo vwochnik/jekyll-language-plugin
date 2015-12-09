@@ -15,6 +15,9 @@ index:
     of this plugin. Further information on how to use the plugin can be found
     on GitHub.
   posts: Posts
+  visit-about-us: Visit our about site.
+about:
+  title: About Us
 post:
   published: Published
   date_format: '%B %d, %Y'
