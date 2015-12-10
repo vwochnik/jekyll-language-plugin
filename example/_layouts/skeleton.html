@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html>
-  <head{% if page.language %} lang="{{ page.language }}"{% endif %}>
+  <head lang="{{ page.language }}">
     <meta charset="utf-8">
-    <meta name="keywords" content="{{ site.keywords }}">
-    <meta name="description" content="{{ site.description }}">
-    <title>{% if page.layout == 'post' %}{{ page.title }}{% else %}{% t 'title' %}{% endif %} | {{ site.title }} | {{ site.title }}</title>
+    <meta name="keywords" content="{% t 'site.keywords' %}">
+    <meta name="description" content="{% t 'site.description' %}">
+    <title>{% if page.title %}{{ page.title }}{% else %}{% t 'title' %}{% endif %} | {% t 'site.title' %}</title>
     <link rel="canonical" href="{{ site.url }}{{ site.baseurl }}{{ page.url }}">
     {% for language in page.languages %}
       {% if page.language != language %}

@@ -1,7 +1,5 @@
 # Site meta data
-title: Example Website
 email: example@example.org
-description: Very basic example website using jekyll-language-plugin.
 url: "http://example.org"
 
 # not used by plugin but by liquid template

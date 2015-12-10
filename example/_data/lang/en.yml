@@ -1,4 +1,10 @@
 ---
+site:
+  title: Example Website
+  description: Very basic example website using jekyll-language-plugin.
+  keywords: >
+    example site, example, site, jekyll, jekyll-language-plugin, language,
+    plugin
 err:
   title: File Not Found
   lead: 404

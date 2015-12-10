@@ -1,4 +1,10 @@
 ---
+site:
+  title: Beispielseite
+  description: Eine sehr einfache Beispielseite mit jekyll-language-plugin.
+  keywords: >
+    beispielseite, beispiel, seite, jekyll, jekyll-language-plugin, language,
+    plugin, sprache, sprachplugin
 err:
   title: Datei Nicht Gefunden
   lead: 404
