@@ -2,6 +2,11 @@
 
 > Jekyll 3.0-compatible multi-language plugin for posts, pages and includes
 
+<div align="center">
+<img src="https://raw.githubusercontent.com/vwochnik/jekyll-language-plugin/master/images/jekyll-i18n-logo.png" alt="Jekll Language Plugin">
+</div>
+
+
 Jekyll Language Plugin is an internationalization plugin for [Jekyll][jekyll]. It diversifies pages, posts and includes that have been optimized for the use with this plugin into different languages which are organized into subdirectories named after the language name.
 
 This plugin has been developed with user-simplicity in mind. It does not require a complex setup process unlike some other internationalization plugins.
