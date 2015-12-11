@@ -1,7 +1,7 @@
 module Jekyll
   module LanguagePlugin
     class LanguageData
-      attr_reader :site, :Language
+      attr_reader :site, :language
 
       def initialize(site, language)
         @site = site
