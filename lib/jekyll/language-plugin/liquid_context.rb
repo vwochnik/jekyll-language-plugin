@@ -18,9 +18,6 @@ module Jekyll
       def self.get_language_string(context, key)
         language_data = self.get_language_data(context)
 
-        if language_data.nil?
-          $stdout.puts("language data is nil")
-        end
         subset = context.registers[:page]['subset']
         if !subset.to_s.empty? && language_data.has?([subset, key])
           return language_data.get([subset, key])
