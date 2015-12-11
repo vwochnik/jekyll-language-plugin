@@ -1,61 +1,37 @@
 module Jekyll
   module LanguagePlugin
     module LiquidContext
-      def self.get_language_data(context, keys = nil)
+      def self.get_language_data(context)
+        if context.registers.has_key?(:language_data)
+          return context.registers[:language_data]
+        end
+
+        language = context.registers[:page]['language']
+        return nil if language.to_s.empty?
+
         site = context.registers[:site]
-        language_data = site.config['language_data'].to_s || 'data.lang.%%'
-
-        page_language = context.registers[:page]['language']
-        return nil if page_language.to_s.empty?
-
-        keys2 = language_data.gsub("%%", page_language).split('.')
-        language_data = site.send(keys2.shift)
-        language_data = self.traverse_hash(language_data, keys2)
-        raise Jekyll::LanguagePlugin::PluginError.new('Invalid language data configuration.') if language_data.nil?
-
-        return language_data if keys.to_s.empty? # can also return nil
-
-        language_data = self.traverse_hash(language_data, keys)
-        raise Jekyll::LanguagePlugin::PluginError.new("Language subset #{keys.to_s} not found.") if language_data.nil?
-        language_data
+        context.registers[:language_data] = LanguageData.new(site, language)
       end
 
       def self.get_language_string(context, key)
-        data = self.get_language_data(context)
-        return "" if data.nil?
+        language_data = self.get_language_data(context)
 
-        language_subset = context.registers[:page]['subset']
-        if (!language_subset.to_s.empty? &&
-            !(str = traverse_hash(traverse_hash(data, language_subset), key)).to_s.empty?) ||
-           !(str = traverse_hash(data, key)).to_s.empty?
-          return str
+        subset = context.registers[:page]['subset']
+        if !subset.to_s.empty? && language_data.has?([subset, key])
+          return language_data.get([subset, key])
         end
 
-        raise Jekyll::LanguagePlugin::PluginError.new("Language string #{key} not found.")
+        language_data.get(key)
       end
 
       def self.get_language_name(context, name)
-        translation = self.get_language_data(context, 'lang')
+        language_data = self.get_language_data(context)
+        translation = language_data.get('lang')
 
         raise Jekyll::LanguagePlugin::PluginError.new('Language name not found in translation.') if translation.nil? ||
           !translation.key?(name)
 
         translation[name]
-      end
-
-      def self.traverse_hash(hash, keys)
-        return nil if hash.nil? || keys.to_s.empty?
-        keys = keys.split('.') if keys.is_a?(String)
-
-        for key in keys
-          if !hash.is_a?(Hash)
-            return hash
-          elsif !hash.key?(key)
-            return nil
-          end
-          hash = hash[key]
-        end
-        hash
       end
     end
   end
