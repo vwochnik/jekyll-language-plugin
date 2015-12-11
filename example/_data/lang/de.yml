@@ -20,6 +20,7 @@ index:
   posts: Beiträge
   visit-about-us: Besuchen Sie unsere Über-Seite.
 about:
+  slug: ueber-uns
   title: Über Uns
 post:
   published: Veröffentlicht

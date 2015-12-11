@@ -13,6 +13,11 @@ module Jekyll
       data['languages']
     end
 
+    def subset
+      return nil if data.nil? || data['subset'].nil?
+      data['subset']
+    end
+
     def url_template
       return "/:language" + url_template_orig if !language.nil?
       url_template_orig
@@ -20,7 +25,8 @@ module Jekyll
 
     def url_placeholders
       url_placeholders_orig.merge!({
-        language: language
+        language: language,
+        subset: subset
       })
     end
   end

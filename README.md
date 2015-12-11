@@ -14,6 +14,7 @@ This plugin has been developed with user-simplicity in mind. It does not require
 * Supports all template languages that your Liquid pipeline supports.
 * Uses liquid tags in your HTML for including translated strings and language-specific includes.
 * Supports localized dates via liquid filter
+* Supports localized URLs
 * Works with `jekyll serve --watch`
 * Supports includes translated into multiple languages
 

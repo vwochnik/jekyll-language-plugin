@@ -7,7 +7,10 @@ module Jekyll
         end
 
         def page_language(context)
-            context.registers[:page].nil? ? "." : context.registers[:page]["language"]
+          if context.registers[:page].nil? || context.registers[:page]['language'].to_s.empty?
+            raise Jekyll::LanguagePlugin::PluginError.new('No language specified for current page or post.')
+          end
+          context.registers[:page].nil? ? "." : context.registers[:page]["language"]
         end
 
         def resolved_includes_dir(context)

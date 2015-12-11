@@ -13,15 +13,30 @@ module Jekyll
       data['languages']
     end
 
+    def subset
+      return nil if data.nil? || data['subset'].nil?
+      data['subset']
+    end
+
     def template
       return "/:language" + template_orig if !language.nil?
       template_orig
     end
 
     def url_placeholders
-      url_placeholders_orig.merge!({
-        language: language
+      result = url_placeholders_orig.merge!({
+        language: language,
+        subset: subset
       })
+
+      if !language.nil? && !subset.nil?
+        @language_data ||= LanguagePlugin::LanguageData.new(@site, language)
+
+        data = @language_data.get(subset).reject{ |k, v| v.is_a?(Enumerable) }
+        result.merge!(Hash[data.map{ |k, v| ["t.#{k}", v] }])
+      end
+
+      result
     end
   end
 end

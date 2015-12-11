@@ -5,7 +5,9 @@ module Jekyll
     def read(files)
       read_orig(files).flat_map do |page|
         lpages = []
-        lpage = LanguagePage.new(@site, @site.source, page.dir, page.name)
+        #TODO: this is a bit hacky. It would be better to directly have access to @dir instance variable
+        path = page.url_placeholders[:path]
+        lpage = LanguagePage.new(@site, @site.source, path, page.name)
         if lpage.languages
           for language in lpage.languages do
             if lpage.language == language
@@ -14,7 +16,7 @@ module Jekyll
               lpage.data['language'] = language
               lpages << lpage
             else
-              lpage2 = LanguagePage.new(@site, @site.source, page.dir, page.name)
+              lpage2 = LanguagePage.new(@site, @site.source, path, page.name)
               lpage2.data['language'] = language
               lpages << lpage2
             end

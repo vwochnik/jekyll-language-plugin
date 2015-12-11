@@ -23,6 +23,7 @@ index:
   posts: Posts
   visit-about-us: Visit our about site.
 about:
+  slug: about-us
   title: About Us
 post:
   published: Published

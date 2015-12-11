@@ -2,12 +2,14 @@ module Jekyll
   module LanguagePlugin
     module LiquidContext
       def self.get_language_data(context)
-        if context.registers.has_key?(:language_data)
+        if !context.registers[:language_data].nil?
           return context.registers[:language_data]
         end
 
         language = context.registers[:page]['language']
-        return nil if language.to_s.empty?
+        if language.to_s.empty?
+          raise Jekyll::LanguagePlugin::PluginError.new('No language specified for current page or post.')
+        end
 
         site = context.registers[:site]
         context.registers[:language_data] = LanguageData.new(site, language)
@@ -16,6 +18,9 @@ module Jekyll
       def self.get_language_string(context, key)
         language_data = self.get_language_data(context)
 
+        if language_data.nil?
+          $stdout.puts("language data is nil")
+        end
         subset = context.registers[:page]['subset']
         if !subset.to_s.empty? && language_data.has?([subset, key])
           return language_data.get([subset, key])
