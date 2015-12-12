@@ -5,11 +5,13 @@ module Jekyll
         language_data = Jekyll::LanguagePlugin::LiquidContext.get_language_data(context)
         translation = language_data.get('date')
 
+        raise Jekyll::LanguagePlugin::PluginError.new('No localized date available.') if translation.nil?
+
         # validate language translation
         if !['abbr_daynames', 'daynames', 'abbr_monthnames', 'monthnames'].all? {|s| translation.key?(s) && translation[s].is_a?(Array) } ||
            translation['abbr_daynames'].size < 7 || translation['daynames'].size < 7 ||
            translation['abbr_monthnames'].size < 12 || translation['monthnames'].size < 12
-          raise Jekyll::LanguagePlugin::PluginError.new('Localized date is missing translation.')
+          raise Jekyll::LanguagePlugin::PluginError.new('Invalid localized date translation.')
         end
 
         date.strftime(

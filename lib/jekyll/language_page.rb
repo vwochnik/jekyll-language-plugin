@@ -32,8 +32,12 @@ module Jekyll
       if !language.nil? && !subset.nil?
         @language_data ||= LanguagePlugin::LanguageData.new(@site, language)
 
-        data = @language_data.get(subset).reject{ |k, v| v.is_a?(Enumerable) }
-        result.merge!(Hash[data.map{ |k, v| ["t.#{k}", v] }])
+        data = @language_data.get(subset)
+
+        if !data.nil?
+          filtered = data.reject{ |k, v| v.is_a?(Enumerable) }
+          result.merge!(Hash[filtered.map{ |k, v| ["t.#{k}", v] }])
+        end
       end
 
       result

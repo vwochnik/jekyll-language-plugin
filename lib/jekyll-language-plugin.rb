@@ -15,8 +15,26 @@ module Jekyll
     autoload :LiquidContext,      'jekyll/language-plugin/liquid_context.rb'
     autoload :DateLocalizer,      'jekyll/language-plugin/date_localizer.rb'
     autoload :VERSION,            'jekyll/language-plugin/version'
+
+    module Loaders
+      autoload :BaseLoader,       'jekyll/language-plugin/loaders/base_loader.rb'
+    end
+
+    class << self
+      def loaders
+        @loaders ||= []
+      end
+
+      def register_loader(loader)
+        loaders.push(loader)
+      end
+    end
   end
 end
+
+# require data loaders
+require 'jekyll/language-plugin/loaders/jekyll_data_loader.rb'
+require 'jekyll/language-plugin/loaders/rails_i18n_loader.rb'
 
 # require liquid tags and filters
 Dir[File.join(File.dirname(__FILE__), 'jekyll/language-plugin/tags/*.rb')].each{ |f| require f }

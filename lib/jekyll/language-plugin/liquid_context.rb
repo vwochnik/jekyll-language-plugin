@@ -19,11 +19,11 @@ module Jekyll
         language_data = self.get_language_data(context)
 
         subset = context.registers[:page]['subset']
-        if !subset.to_s.empty? && language_data.has?([subset, key])
-          return language_data.get([subset, key])
-        end
+        str = language_data.get([subset, key]) unless subset.to_s.empty?
+        str ||= language_data.get(key)
 
-        language_data.get(key)
+        raise Jekyll::LanguagePlugin::PluginError.new('Key #{key} not found intranslation.') if str.nil?
+        str
       end
 
       def self.get_language_name(context, name)
