@@ -2,6 +2,7 @@ module Jekyll
 
   # internal requires for plugin
   autoload :LanguageReader,     'jekyll/language_reader.rb'
+  autoload :LanguageProperties, 'jekyll/language_properties.rb'
   autoload :LanguagePage,       'jekyll/language_page.rb'
   autoload :LanguageDocument,   'jekyll/language_document.rb'
   autoload :LanguagePageReader, 'jekyll/readers/language_page_reader.rb'
