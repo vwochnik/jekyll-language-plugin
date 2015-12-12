@@ -32,7 +32,7 @@ module Jekyll
   end
 end
 
-# require data loaders
+# require data built-in loaders
 require 'jekyll/language-plugin/loaders/jekyll_data_loader.rb'
 require 'jekyll/language-plugin/loaders/rails_i18n_loader.rb'
 
