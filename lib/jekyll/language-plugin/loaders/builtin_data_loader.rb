@@ -27,7 +27,8 @@ module Jekyll
 
         def get(key, language)
           return nil unless loaded?(language)
-          traverse_hash(@data, [language, key])
+
+          traverse_hash(@data, resolve_dot_notation([language, key]))
         end
       end
     end

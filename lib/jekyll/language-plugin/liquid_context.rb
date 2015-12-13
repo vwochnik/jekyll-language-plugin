@@ -22,7 +22,7 @@ module Jekyll
         str = language_data.get([subset, key]) unless subset.to_s.empty?
         str ||= language_data.get(key)
 
-        raise Jekyll::LanguagePlugin::PluginError.new('Key #{key} not found intranslation.') if str.nil?
+        raise Jekyll::LanguagePlugin::PluginError.new("Key #{key} not found in translation.") if str.nil?
         str
       end
 
