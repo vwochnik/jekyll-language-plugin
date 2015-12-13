@@ -35,7 +35,7 @@ end
 
 # require data built-in loaders
 require 'jekyll/language-plugin/loaders/jekyll_data_loader.rb'
-require 'jekyll/language-plugin/loaders/rails_i18n_loader.rb'
+require 'jekyll/language-plugin/loaders/builtin_data_loader.rb'
 
 # require liquid tags and filters
 Dir[File.join(File.dirname(__FILE__), 'jekyll/language-plugin/tags/*.rb')].each{ |f| require f }

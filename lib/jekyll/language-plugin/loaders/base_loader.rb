@@ -2,19 +2,19 @@ module Jekyll
   module LanguagePlugin
     module Loaders
       class BaseLoader
-        attr_reader :site, :is_loaded
+        attr_reader :site
 
         def initialize(site)
           @site = site
           @is_loaded = false
         end
 
-        def loaded?
-          @is_loaded
+        def loaded?(language)
+          false
         end
 
-        def load
-          @is_loaded
+        def load(language)
+          true
         end
 
         def get(key, language)

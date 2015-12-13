@@ -10,7 +10,7 @@ module Jekyll
 
       def get(key)
         @loaders.inject(nil) do |result, loader|
-          loader.load unless loader.loaded?
+          loader.load(@language) unless loader.loaded?(@language)
           result = loader.get(key, @language)
           break result unless result.nil?
         end

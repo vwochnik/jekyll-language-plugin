@@ -4,9 +4,8 @@ module Jekyll
       class JekyllDataLoader < BaseLoader
         def initialize(site)
           super
-          @is_loaded = true
         end
-        
+
         def get(key, language)
           key = resolve_dot_notation(key)
 
