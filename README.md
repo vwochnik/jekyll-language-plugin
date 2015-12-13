@@ -17,6 +17,7 @@ This plugin has been developed with user-simplicity in mind. It does not require
 * Supports localized URLs
 * Works with `jekyll serve --watch`
 * Supports includes translated into multiple languages
+* Includes language and date translations for 27 languages
 
 ## Installation
 
