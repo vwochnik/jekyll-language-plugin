@@ -1,0 +1,37 @@
+---
+it:
+  date:
+    date:
+      abbr_daynames: [dom, lun, mar, mer, gio, ven, sab]
+      abbr_monthnames: [gen, feb, mar, apr, mag, giu, lug, ago, set, ott, nov, dic]
+      daynames: [domenica, lunedì, martedì, mercoledì, giovedì, venerdì, sabato]
+      monthnames: [gennaio, febbraio, marzo, aprile, maggio, giugno, luglio, agosto,
+        settembre, ottobre, novembre, dicembre]
+  lang:
+    bg: Bulgaro
+    cs: Ceco
+    da: Danese
+    de: Tedesco
+    el: Greco
+    en: Inglese
+    es: Spagnolo
+    et: Estone
+    fi: Finnico
+    fr: Francese
+    hr: Croato
+    hu: Ungherese
+    is: Islandese
+    it: Italiano
+    ja: Giapponese
+    lt: Lituano
+    lv: Lettone
+    nl: Olandese
+    pl: Polacco
+    pt: Portoghese
+    ro: Rumeno
+    ru: Russo
+    sk: Slovacco
+    sl: Sloveno
+    sv: Svedese
+    tr: Turco
+    uk: Ucraino

@@ -1,0 +1,38 @@
+---
+lt:
+  date:
+    date:
+      abbr_daynames: [Sek, Pir, Ant, Tre, Ket, Pen, Šeš]
+      abbr_monthnames: [Sau, Vas, Kov, Bal, Geg, Bir, Lie, Rgp, Rgs, Spa, Lap, Grd]
+      daynames: [sekmadienis, pirmadienis, antradienis, trečiadienis, ketvirtadienis,
+        penktadienis, šeštadienis]
+      monthnames: [sausio, vasario, kovo, balandžio, gegužės, birželio, liepos, rugpjūčio,
+        rugsėjo, spalio, lapkričio, gruodžio]
+  lang:
+    bg: Bulgarų
+    cs: Čekų
+    da: Danų
+    de: Vokiečių
+    el: graikų
+    en: Anglų
+    es: Ispanų
+    et: Estų
+    fi: Suomių
+    fr: Prancūzų
+    hr: Kroatų
+    hu: Vengrų
+    is: Islandų
+    it: Italų
+    ja: Japonų
+    lt: Lietuvių
+    lv: Latvių
+    nl: Olandų
+    pl: Lenkų
+    pt: Portugalų
+    ro: Rumunų
+    ru: Rusų
+    sk: Slovakų
+    sl: Slovėnų
+    sv: Švedų
+    tr: Turkų
+    uk: Ukrainiečių

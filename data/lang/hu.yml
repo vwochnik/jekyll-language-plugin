@@ -1,0 +1,38 @@
+---
+hu:
+  date:
+    date:
+      abbr_daynames: [v., h., k., sze., cs., p., szo.]
+      abbr_monthnames: [jan., febr., márc., ápr., máj., jún., júl., aug., szept.,
+        okt., nov., dec.]
+      daynames: [vasárnap, hétfő, kedd, szerda, csütörtök, péntek, szombat]
+      monthnames: [január, február, március, április, május, június, július, augusztus,
+        szeptember, október, november, december]
+  lang:
+    bg: Bolgár
+    cs: Cseh
+    da: Dán
+    de: Német
+    el: görög
+    en: Angol
+    es: Spanyol
+    et: Észt
+    fi: Finn
+    fr: Francia
+    hr: Horvát
+    hu: Magyar
+    is: Izlandi
+    it: Olasz
+    ja: Japán
+    lt: Litván
+    lv: Lett
+    nl: Holland
+    pl: Lengyel
+    pt: Portugál
+    ro: Román
+    ru: Orosz
+    sk: Szlovák
+    sl: Szlovén
+    sv: svéd
+    tr: Török
+    uk: Ukrán

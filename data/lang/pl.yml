@@ -1,0 +1,37 @@
+---
+pl:
+  date:
+    date:
+      abbr_daynames: [nie, pon, wto, śro, czw, pią, sob]
+      abbr_monthnames: [sty, lut, mar, kwi, maj, cze, lip, sie, wrz, paź, lis, gru]
+      daynames: [niedziela, poniedziałek, wtorek, środa, czwartek, piątek, sobota]
+      monthnames: [styczeń, luty, marzec, kwiecień, maj, czerwiec, lipiec, sierpień,
+        wrzesień, październik, listopad, grudzień]
+  lang:
+    bg: Bułgarski
+    cs: Czeski
+    da: Duński
+    de: Niemiecki
+    el: Grecki
+    en: Angielski
+    es: Hiszpański
+    et: Estoński
+    fi: Fiński
+    fr: Francuski
+    hr: Chorwacki
+    hu: Węgierski
+    is: Islandzki
+    it: Włoski
+    ja: Japoński
+    lt: Litewski
+    lv: Łotewski
+    nl: Holenderski
+    pl: Polski
+    pt: Portugalski
+    ro: Rumuński
+    ru: Rosyjski
+    sk: Słowacki
+    sl: Słoweński
+    sv: Szwedzki
+    tr: Turecki
+    uk: Ukraiński

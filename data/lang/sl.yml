@@ -1,0 +1,37 @@
+---
+sl:
+  date:
+    date:
+      abbr_daynames: [ned, pon, tor, sre, čet, pet, sob]
+      abbr_monthnames: [jan, feb, mar, apr, maj, jun, jul, avg, sep, okt, nov, dec]
+      daynames: [nedelja, ponedeljek, torek, sreda, četrtek, petek, sobota]
+      monthnames: [januar, februar, marec, april, maj, junij, julij, avgust, september,
+        oktober, november, december]
+  lang:
+    bg: Bolgarščina
+    cs: Češčina
+    da: Danščina
+    de: Nemščina
+    el: Grščina
+    en: Angleščina
+    es: Španščina
+    et: Estonščina
+    fi: Finščina
+    fr: Francoščina
+    hr: Hrvaščina
+    hu: Madžarščina
+    is: Islandščina
+    it: Italijanščina
+    ja: Japonščina
+    lt: Litvanščina
+    lv: Latvijščina
+    nl: Nizozemščina
+    pl: Poljščina
+    pt: Protugalščina
+    ro: Romunščina
+    ru: Ruščina
+    sk: Slovaščina
+    sl: Slovenščina
+    sv: Švedščina
+    tr: Turščina
+    uk: Ukrajinščina

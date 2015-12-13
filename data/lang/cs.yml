@@ -1,0 +1,37 @@
+---
+cs:
+  date:
+    date:
+      abbr_daynames: [Ne, Po, Út, St, Čt, Pá, So]
+      abbr_monthnames: [led, úno, bře, dub, kvě, čvn, čvc, srp, zář, říj, lis, pro]
+      daynames: [neděle, pondělí, úterý, středa, čtvrtek, pátek, sobota]
+      monthnames: [leden, únor, březen, duben, květen, červen, červenec, srpen, září,
+        říjen, listopad, prosinec]
+  lang:
+    bg: Bulharština
+    cs: Čeština
+    da: Dánština
+    de: Němčina
+    el: Řečtina
+    en: Angličtina
+    es: Španělština
+    et: Estonština
+    fi: Finština
+    fr: Francouzština
+    hr: Chorvatština
+    hu: Maďarština
+    is: Islandština
+    it: Italština
+    ja: Japonština
+    lt: Litevština
+    lv: Lotyšština
+    nl: Nizozemština (holandština)
+    pl: Polština
+    pt: Portugalština
+    ro: Rumunština
+    ru: Ruština
+    sk: Slovenština
+    sl: Slovinština
+    sv: Švédština
+    tr: Turečtina
+    uk: Ukrajinština

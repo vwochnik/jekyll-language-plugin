@@ -1,0 +1,37 @@
+---
+sk:
+  date:
+    date:
+      abbr_daynames: [Ne, Po, Ut, St, Št, Pi, So]
+      abbr_monthnames: [Jan, Feb, Mar, Apr, Máj, Jún, Júl, Aug, Sep, Okt, Nov, Dec]
+      daynames: [Nedeľa, Pondelok, Utorok, Streda, Štvrtok, Piatok, Sobota]
+      monthnames: [Január, Február, Marec, Apríl, Máj, Jún, Júl, August, September,
+        Október, November, December]
+  lang:
+    bg: Bulharčina
+    cs: Čeština
+    da: Dánčina
+    de: Nemčina
+    el: Gréčtina
+    en: Angličtina
+    es: Španielčina
+    et: Estónčina
+    fi: Fínčina
+    fr: Francúzština
+    hr: Chorvátčina
+    hu: Maďarčina
+    is: Islandčina
+    it: Taliančina
+    ja: Japončina
+    lt: Litovčina
+    lv: Lotyština
+    nl: Holandčina
+    pl: Poľština
+    pt: Portugalčina
+    ro: Rumunčina
+    ru: Ruština
+    sk: Slovenčina
+    sl: Slovinčina
+    sv: Švédčina
+    tr: Turečtina
+    uk: Ukrajinčina

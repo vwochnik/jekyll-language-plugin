@@ -1,0 +1,37 @@
+---
+ro:
+  date:
+    date:
+      abbr_daynames: [Dum, Lun, Mar, Mie, Joi, Vin, Sâm]
+      abbr_monthnames: [Ian, Feb, Mar, Apr, Mai, Iun, Iul, Aug, Sep, Oct, Noi, Dec]
+      daynames: [Duminică, Luni, Marți, Miercuri, Joi, Vineri, Sâmbată]
+      monthnames: [Ianuarie, Februarie, Martie, Aprilie, Mai, Iunie, Iulie, August,
+        Septembrie, Octombrie, Noiembrie, Decembrie]
+  lang:
+    bg: Bulgară
+    cs: Cehă
+    da: Daneză
+    de: Germană
+    el: Greacă
+    en: Engleză
+    es: Spaniolă
+    et: Estoniană
+    fi: Finlandeză
+    fr: Franceză
+    hr: Croată
+    hu: Maghiară
+    is: Islandeză
+    it: Italiană
+    ja: Japoneză
+    lt: Lituaniană
+    lv: Letonă
+    nl: Olandeză
+    pl: Polonă
+    pt: Portugheză
+    ro: Română
+    ru: Rusă
+    sk: Slovacă
+    sl: Slovenă
+    sv: Suedeză
+    tr: Turcă
+    uk: Ucrainiană

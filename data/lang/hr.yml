@@ -1,0 +1,37 @@
+---
+hr:
+  date:
+    date:
+      abbr_daynames: [Ned, Pon, Uto, Sri, Čet, Pet, Sub]
+      abbr_monthnames: [Sij, Veǉ, Ožu, Tra, Svi, Lip, Srp, Kol, Ruj, Lis, Stu, Pro]
+      daynames: [Nedjelja, Ponedjeljak, Utorak, Srijeda, Četvrtak, Petak, Subota]
+      monthnames: [Siječanj, Veljača, Ožujak, Travanj, Svibanj, Lipanj, Srpanj, Kolovoz,
+        Rujan, Listopad, Studeni, Prosinac]
+  lang:
+    bg: Bugarski
+    cs: Češki
+    da: Danski
+    de: Njemački
+    el: Grčki
+    en: Engleski
+    es: Španjolski
+    et: Estonski
+    fi: Finski
+    fr: Francuski
+    hr: Hrvatski
+    hu: Mađarski
+    is: Islandski
+    it: Talijanski
+    ja: Japanski
+    lt: Litavski
+    lv: Latvijski
+    nl: Nizozemski
+    pl: Poljski
+    pt: Portugalski
+    ro: Rumunjski
+    ru: Ruski
+    sk: Slovački
+    sl: Slovenski
+    sv: Švedski
+    tr: Turski
+    uk: Ukrajinski

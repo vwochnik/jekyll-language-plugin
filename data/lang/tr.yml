@@ -1,0 +1,37 @@
+---
+tr:
+  date:
+    date:
+      abbr_daynames: [Pzr, Pzt, Sal, Çrş, Prş, Cum, Cts]
+      abbr_monthnames: [Oca, Şub, Mar, Nis, May, Haz, Tem, Ağu, Eyl, Eki, Kas, Ara]
+      daynames: [Pazar, Pazartesi, Salı, Çarşamba, Perşembe, Cuma, Cumartesi]
+      monthnames: [Ocak, Şubat, Mart, Nisan, Mayıs, Haziran, Temmuz, Ağustos, Eylül,
+        Ekim, Kasım, Aralık]
+  lang:
+    bg: Bulgarca
+    cs: Çekçe
+    da: Danca
+    de: Almanca
+    el: Yunanca
+    en: İngilizce
+    es: İspanyolca
+    et: Estonca
+    fi: Fince
+    fr: Fransızca
+    hr: Hırvatça
+    hu: Macarca
+    is: İzlandaca
+    it: İtalyanca
+    ja: Japonca
+    lt: Litvanca
+    lv: Letonca
+    nl: Hollandaca
+    pl: Lehçe
+    pt: Portekizce
+    ro: Rumence
+    ru: Rusça
+    sk: Slovakça
+    sl: Slovence
+    sv: İsveççe
+    tr: Türkçe
+    uk: Ukraynaca

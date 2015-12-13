@@ -1,0 +1,37 @@
+---
+en:
+  date:
+    date:
+      abbr_daynames: [Sun, Mon, Tue, Wed, Thu, Fri, Sat]
+      abbr_monthnames: [Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec]
+      daynames: [Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday]
+      monthnames: [January, February, March, April, May, June, July, August, September,
+        October, November, December]
+  lang:
+    bg: Bulgarian
+    cs: Czech
+    da: Danish
+    de: German
+    el: Greek
+    en: English
+    es: Spanish
+    et: Estonian
+    fi: Finnish
+    fr: French
+    hr: Croatian
+    hu: Hungarian
+    is: Icelandic
+    it: Italian
+    ja: Japanese
+    lt: Lithuanian
+    lv: Latvian
+    nl: Dutch
+    pl: Polish
+    pt: Portuguese
+    ro: Romanian
+    ru: Russian
+    sk: Slovak
+    sl: Slovenian
+    sv: Swedish
+    tr: Turkish
+    uk: Ukrainian

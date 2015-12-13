@@ -13,7 +13,7 @@ Gem::Specification.new do |spec|
   spec.homepage      = "https://github.com/vwochnik/jekyll-language-plugin"
   spec.license       = "MIT"
 
-  spec.files         = ["lib/jekyll-language-plugin.rb", *Dir["lib/**/*.rb"], "README.md", "LICENSE.md"]
+  spec.files         = ["lib/jekyll-language-plugin.rb", *Dir["lib/**/*.rb"], *Dir["data/**/*.yml"], "README.md", "LICENSE.md"]
   spec.require_paths = ["lib"]
 
   spec.add_development_dependency 'jekyll', '~> 3.0'

@@ -1,0 +1,37 @@
+---
+da:
+  date:
+    date:
+      abbr_daynames: [søn, man, tir, ons, tor, fre, lør]
+      abbr_monthnames: [jan, feb, mar, apr, maj, jun, jul, aug, sep, okt, nov, dec]
+      daynames: [søndag, mandag, tirsdag, onsdag, torsdag, fredag, lørdag]
+      monthnames: [januar, februar, marts, april, maj, juni, juli, august, september,
+        oktober, november, december]
+  lang:
+    bg: Bulgarsk
+    cs: Tjekkisk
+    da: Dansk
+    de: Tysk
+    el: Græsk
+    en: Engelsk
+    es: Spansk
+    et: Estisk
+    fi: Finsk
+    fr: Fransk
+    hr: Kroatisk
+    hu: Ungarsk
+    is: Islandsk
+    it: Italiensk
+    ja: Japansk
+    lt: Litauisk
+    lv: Lettisk
+    nl: Hollandsk
+    pl: Polsk
+    pt: Portugisisk
+    ro: Rumænsk
+    ru: Russisk
+    sk: Slovakisk
+    sl: Slovensk
+    sv: Svensk
+    tr: Tyrkisk
+    uk: Ukrainsk

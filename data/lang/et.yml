@@ -1,0 +1,38 @@
+---
+et:
+  date:
+    date:
+      abbr_daynames: [P, E, T, K, N, R, L]
+      abbr_monthnames: [jaan., veebr., märts, apr., mai, juuni, juuli, aug., sept.,
+        okt., nov., dets.]
+      daynames: [pühapäev, esmaspäev, teisipäev, kolmapäev, neljapäev, reede, laupäev]
+      monthnames: [jaanuar, veebruar, märts, aprill, mai, juuni, juuli, august, september,
+        oktoober, november, detsember]
+  lang:
+    bg: Bulgaaria
+    cs: Tšehhi
+    da: Taani
+    de: Saksa
+    el: Kreeka
+    en: Inglise
+    es: Hispaania
+    et: Eesti
+    fi: Soome
+    fr: Prantsuse
+    hr: Horvaadi
+    hu: Ungari
+    is: Islandi
+    it: Itaalia
+    ja: Jaapani
+    lt: Leedu
+    lv: Läti
+    nl: Hollandi
+    pl: Poola
+    pt: Portugali
+    ro: Rumeenia
+    ru: Vene
+    sk: Slovaki
+    sl: Sloveeni
+    sv: Rootsi
+    tr: Türgi
+    uk: Ukraina
