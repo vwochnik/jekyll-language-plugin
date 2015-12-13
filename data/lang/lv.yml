@@ -1,14 +1,13 @@
 ---
 lv:
   date:
-    date:
-      abbr_daynames: [Sv., P., O., T., C., Pk., S.]
-      abbr_monthnames: [Janv, Febr, Marts, Apr, Maijs, Jūn, Jūl, Aug, Sept, Okt, Nov,
-        Dec]
-      daynames: [svētdiena, pirmdiena, otrdiena, trešdiena, ceturtdiena, piektdiena,
-        sestdiena]
-      monthnames: [Janvāris, Februāris, Marts, Aprīlis, Maijs, Jūnijs, Jūlijs, Augusts,
-        Septembris, Oktobris, Novembris, Decembris]
+    abbr_daynames: [Sv., P., O., T., C., Pk., S.]
+    abbr_monthnames: [Janv, Febr, Marts, Apr, Maijs, Jūn, Jūl, Aug, Sept, Okt, Nov,
+      Dec]
+    daynames: [svētdiena, pirmdiena, otrdiena, trešdiena, ceturtdiena, piektdiena,
+      sestdiena]
+    monthnames: [Janvāris, Februāris, Marts, Aprīlis, Maijs, Jūnijs, Jūlijs, Augusts,
+      Septembris, Oktobris, Novembris, Decembris]
   lang:
     bg: Bulgāru
     cs: Čehu

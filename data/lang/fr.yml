@@ -1,13 +1,12 @@
 ---
 fr:
   date:
-    date:
-      abbr_daynames: [dim, lun, mar, mer, jeu, ven, sam]
-      abbr_monthnames: [jan., fév., mar., avr., mai, juin, juil., août, sept., oct.,
-        nov., déc.]
-      daynames: [dimanche, lundi, mardi, mercredi, jeudi, vendredi, samedi]
-      monthnames: [janvier, février, mars, avril, mai, juin, juillet, août, septembre,
-        octobre, novembre, décembre]
+    abbr_daynames: [dim, lun, mar, mer, jeu, ven, sam]
+    abbr_monthnames: [jan., fév., mar., avr., mai, juin, juil., août, sept., oct.,
+      nov., déc.]
+    daynames: [dimanche, lundi, mardi, mercredi, jeudi, vendredi, samedi]
+    monthnames: [janvier, février, mars, avril, mai, juin, juillet, août, septembre,
+      octobre, novembre, décembre]
   lang:
     bg: Bulgare
     cs: Tchèque

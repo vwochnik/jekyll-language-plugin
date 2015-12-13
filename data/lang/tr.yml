@@ -1,12 +1,11 @@
 ---
 tr:
   date:
-    date:
-      abbr_daynames: [Pzr, Pzt, Sal, Çrş, Prş, Cum, Cts]
-      abbr_monthnames: [Oca, Şub, Mar, Nis, May, Haz, Tem, Ağu, Eyl, Eki, Kas, Ara]
-      daynames: [Pazar, Pazartesi, Salı, Çarşamba, Perşembe, Cuma, Cumartesi]
-      monthnames: [Ocak, Şubat, Mart, Nisan, Mayıs, Haziran, Temmuz, Ağustos, Eylül,
-        Ekim, Kasım, Aralık]
+    abbr_daynames: [Pzr, Pzt, Sal, Çrş, Prş, Cum, Cts]
+    abbr_monthnames: [Oca, Şub, Mar, Nis, May, Haz, Tem, Ağu, Eyl, Eki, Kas, Ara]
+    daynames: [Pazar, Pazartesi, Salı, Çarşamba, Perşembe, Cuma, Cumartesi]
+    monthnames: [Ocak, Şubat, Mart, Nisan, Mayıs, Haziran, Temmuz, Ağustos, Eylül,
+      Ekim, Kasım, Aralık]
   lang:
     bg: Bulgarca
     cs: Çekçe

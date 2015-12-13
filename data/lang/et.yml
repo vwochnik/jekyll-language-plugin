@@ -1,13 +1,12 @@
 ---
 et:
   date:
-    date:
-      abbr_daynames: [P, E, T, K, N, R, L]
-      abbr_monthnames: [jaan., veebr., märts, apr., mai, juuni, juuli, aug., sept.,
-        okt., nov., dets.]
-      daynames: [pühapäev, esmaspäev, teisipäev, kolmapäev, neljapäev, reede, laupäev]
-      monthnames: [jaanuar, veebruar, märts, aprill, mai, juuni, juuli, august, september,
-        oktoober, november, detsember]
+    abbr_daynames: [P, E, T, K, N, R, L]
+    abbr_monthnames: [jaan., veebr., märts, apr., mai, juuni, juuli, aug., sept.,
+      okt., nov., dets.]
+    daynames: [pühapäev, esmaspäev, teisipäev, kolmapäev, neljapäev, reede, laupäev]
+    monthnames: [jaanuar, veebruar, märts, aprill, mai, juuni, juuli, august, september,
+      oktoober, november, detsember]
   lang:
     bg: Bulgaaria
     cs: Tšehhi

@@ -1,12 +1,11 @@
 ---
 hr:
   date:
-    date:
-      abbr_daynames: [Ned, Pon, Uto, Sri, Čet, Pet, Sub]
-      abbr_monthnames: [Sij, Veǉ, Ožu, Tra, Svi, Lip, Srp, Kol, Ruj, Lis, Stu, Pro]
-      daynames: [Nedjelja, Ponedjeljak, Utorak, Srijeda, Četvrtak, Petak, Subota]
-      monthnames: [Siječanj, Veljača, Ožujak, Travanj, Svibanj, Lipanj, Srpanj, Kolovoz,
-        Rujan, Listopad, Studeni, Prosinac]
+    abbr_daynames: [Ned, Pon, Uto, Sri, Čet, Pet, Sub]
+    abbr_monthnames: [Sij, Veǉ, Ožu, Tra, Svi, Lip, Srp, Kol, Ruj, Lis, Stu, Pro]
+    daynames: [Nedjelja, Ponedjeljak, Utorak, Srijeda, Četvrtak, Petak, Subota]
+    monthnames: [Siječanj, Veljača, Ožujak, Travanj, Svibanj, Lipanj, Srpanj, Kolovoz,
+      Rujan, Listopad, Studeni, Prosinac]
   lang:
     bg: Bugarski
     cs: Češki

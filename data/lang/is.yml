@@ -1,13 +1,12 @@
 ---
 is:
   date:
-    date:
-      abbr_daynames: [sun, mán, þri, mið, fim, fös, lau]
-      abbr_monthnames: [jan, feb, mar, apr, maí, jún, júl, ágú, sep, okt, nóv, des]
-      daynames: [sunnudaginn, mánudaginn, þriðjudaginn, miðvikudaginn, fimmtudaginn,
-        föstudaginn, laugardaginn]
-      monthnames: [janúar, febrúar, mars, apríl, maí, júní, júlí, ágúst, september,
-        október, nóvember, desember]
+    abbr_daynames: [sun, mán, þri, mið, fim, fös, lau]
+    abbr_monthnames: [jan, feb, mar, apr, maí, jún, júl, ágú, sep, okt, nóv, des]
+    daynames: [sunnudaginn, mánudaginn, þriðjudaginn, miðvikudaginn, fimmtudaginn,
+      föstudaginn, laugardaginn]
+    monthnames: [janúar, febrúar, mars, apríl, maí, júní, júlí, ágúst, september,
+      október, nóvember, desember]
   lang:
     bg: Búlgarska
     cs: Tékkneska

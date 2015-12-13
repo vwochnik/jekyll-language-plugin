@@ -1,12 +1,11 @@
 ---
 ro:
   date:
-    date:
-      abbr_daynames: [Dum, Lun, Mar, Mie, Joi, Vin, Sâm]
-      abbr_monthnames: [Ian, Feb, Mar, Apr, Mai, Iun, Iul, Aug, Sep, Oct, Noi, Dec]
-      daynames: [Duminică, Luni, Marți, Miercuri, Joi, Vineri, Sâmbată]
-      monthnames: [Ianuarie, Februarie, Martie, Aprilie, Mai, Iunie, Iulie, August,
-        Septembrie, Octombrie, Noiembrie, Decembrie]
+    abbr_daynames: [Dum, Lun, Mar, Mie, Joi, Vin, Sâm]
+    abbr_monthnames: [Ian, Feb, Mar, Apr, Mai, Iun, Iul, Aug, Sep, Oct, Noi, Dec]
+    daynames: [Duminică, Luni, Marți, Miercuri, Joi, Vineri, Sâmbată]
+    monthnames: [Ianuarie, Februarie, Martie, Aprilie, Mai, Iunie, Iulie, August,
+      Septembrie, Octombrie, Noiembrie, Decembrie]
   lang:
     bg: Bulgară
     cs: Cehă

@@ -1,12 +1,11 @@
 ---
 sv:
   date:
-    date:
-      abbr_daynames: [sön, mån, tis, ons, tor, fre, lör]
-      abbr_monthnames: [jan, feb, mar, apr, maj, jun, jul, aug, sep, okt, nov, dec]
-      daynames: [söndag, måndag, tisdag, onsdag, torsdag, fredag, lördag]
-      monthnames: [januari, februari, mars, april, maj, juni, juli, augusti, september,
-        oktober, november, december]
+    abbr_daynames: [sön, mån, tis, ons, tor, fre, lör]
+    abbr_monthnames: [jan, feb, mar, apr, maj, jun, jul, aug, sep, okt, nov, dec]
+    daynames: [söndag, måndag, tisdag, onsdag, torsdag, fredag, lördag]
+    monthnames: [januari, februari, mars, april, maj, juni, juli, augusti, september,
+      oktober, november, december]
   lang:
     bg: Bulgariska
     cs: Tjeckiska

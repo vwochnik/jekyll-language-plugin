@@ -1,12 +1,11 @@
 ---
 it:
   date:
-    date:
-      abbr_daynames: [dom, lun, mar, mer, gio, ven, sab]
-      abbr_monthnames: [gen, feb, mar, apr, mag, giu, lug, ago, set, ott, nov, dic]
-      daynames: [domenica, lunedì, martedì, mercoledì, giovedì, venerdì, sabato]
-      monthnames: [gennaio, febbraio, marzo, aprile, maggio, giugno, luglio, agosto,
-        settembre, ottobre, novembre, dicembre]
+    abbr_daynames: [dom, lun, mar, mer, gio, ven, sab]
+    abbr_monthnames: [gen, feb, mar, apr, mag, giu, lug, ago, set, ott, nov, dic]
+    daynames: [domenica, lunedì, martedì, mercoledì, giovedì, venerdì, sabato]
+    monthnames: [gennaio, febbraio, marzo, aprile, maggio, giugno, luglio, agosto,
+      settembre, ottobre, novembre, dicembre]
   lang:
     bg: Bulgaro
     cs: Ceco

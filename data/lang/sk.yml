@@ -1,12 +1,11 @@
 ---
 sk:
   date:
-    date:
-      abbr_daynames: [Ne, Po, Ut, St, Št, Pi, So]
-      abbr_monthnames: [Jan, Feb, Mar, Apr, Máj, Jún, Júl, Aug, Sep, Okt, Nov, Dec]
-      daynames: [Nedeľa, Pondelok, Utorok, Streda, Štvrtok, Piatok, Sobota]
-      monthnames: [Január, Február, Marec, Apríl, Máj, Jún, Júl, August, September,
-        Október, November, December]
+    abbr_daynames: [Ne, Po, Ut, St, Št, Pi, So]
+    abbr_monthnames: [Jan, Feb, Mar, Apr, Máj, Jún, Júl, Aug, Sep, Okt, Nov, Dec]
+    daynames: [Nedeľa, Pondelok, Utorok, Streda, Štvrtok, Piatok, Sobota]
+    monthnames: [Január, Február, Marec, Apríl, Máj, Jún, Júl, August, September,
+      Október, November, December]
   lang:
     bg: Bulharčina
     cs: Čeština

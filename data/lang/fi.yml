@@ -1,13 +1,12 @@
 ---
 fi:
   date:
-    date:
-      abbr_daynames: [su, ma, ti, ke, to, pe, la]
-      abbr_monthnames: [tammi, helmi, maalis, huhti, touko, kesä, heinä, elo, syys,
-        loka, marras, joulu]
-      daynames: [sunnuntai, maanantai, tiistai, keskiviikko, torstai, perjantai, lauantai]
-      monthnames: [tammikuu, helmikuu, maaliskuu, huhtikuu, toukokuu, kesäkuu, heinäkuu,
-        elokuu, syyskuu, lokakuu, marraskuu, joulukuu]
+    abbr_daynames: [su, ma, ti, ke, to, pe, la]
+    abbr_monthnames: [tammi, helmi, maalis, huhti, touko, kesä, heinä, elo, syys,
+      loka, marras, joulu]
+    daynames: [sunnuntai, maanantai, tiistai, keskiviikko, torstai, perjantai, lauantai]
+    monthnames: [tammikuu, helmikuu, maaliskuu, huhtikuu, toukokuu, kesäkuu, heinäkuu,
+      elokuu, syyskuu, lokakuu, marraskuu, joulukuu]
   lang:
     bg: Bulgaria
     cs: Tšekki

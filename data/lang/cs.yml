@@ -1,12 +1,11 @@
 ---
 cs:
   date:
-    date:
-      abbr_daynames: [Ne, Po, Út, St, Čt, Pá, So]
-      abbr_monthnames: [led, úno, bře, dub, kvě, čvn, čvc, srp, zář, říj, lis, pro]
-      daynames: [neděle, pondělí, úterý, středa, čtvrtek, pátek, sobota]
-      monthnames: [leden, únor, březen, duben, květen, červen, červenec, srpen, září,
-        říjen, listopad, prosinec]
+    abbr_daynames: [Ne, Po, Út, St, Čt, Pá, So]
+    abbr_monthnames: [led, úno, bře, dub, kvě, čvn, čvc, srp, zář, říj, lis, pro]
+    daynames: [neděle, pondělí, úterý, středa, čtvrtek, pátek, sobota]
+    monthnames: [leden, únor, březen, duben, květen, červen, červenec, srpen, září,
+      říjen, listopad, prosinec]
   lang:
     bg: Bulharština
     cs: Čeština
