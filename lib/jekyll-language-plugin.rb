@@ -41,8 +41,12 @@ Jekyll::Hooks.register :site, :after_reset do |site|
   # replace Jekyll::Reader with Jekyll::LanguageReader extension
   site.reader = Jekyll::LanguageReader.new(site)
 
-  # add dynamic languageData property and load language data
-  site.class.module_eval { attr_accessor :languageData }
+  # add dynamic languageData property
+  unless site.respond_to?(:languageData) && site.respond_to?(:languageData=)
+    site.class.module_eval { attr_accessor :languageData }
+  end
+
+  # create new language data instance
   site.languageData = Jekyll::LanguagePlugin::LanguageData.new(site)
 end
 
