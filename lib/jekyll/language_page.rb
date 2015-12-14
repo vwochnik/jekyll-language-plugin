@@ -17,9 +17,9 @@ module Jekyll
       })
 
       if !language.nil? && !subset.nil?
-        @language_data ||= LanguagePlugin::LanguageData.new(@site, language)
+        language_data = @site.languageData || LanguagePlugin::LanguageData.new(@site)
 
-        data = @language_data.get(subset)
+        data = language_data.get(subset, language)
 
         if !data.nil?
           filtered = data.reject{ |k, v| v.is_a?(Enumerable) }

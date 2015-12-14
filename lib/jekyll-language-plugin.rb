@@ -22,12 +22,8 @@ module Jekyll
     end
 
     class << self
-      def loaders
-        @loaders ||= []
-      end
-
       def register_loader(loader)
-        loaders.push(loader)
+        LanguageData.register_loader(loader)
       end
     end
   end
@@ -41,9 +37,13 @@ require 'jekyll/language-plugin/loaders/builtin_data_loader.rb'
 Dir[File.join(File.dirname(__FILE__), 'jekyll/language-plugin/tags/*.rb')].each{ |f| require f }
 require 'jekyll/language-plugin/filters/language_date.rb'
 
-# replace Jekyll::Reader upon page reset with Jekyll::LanguageReader extension
 Jekyll::Hooks.register :site, :after_reset do |site|
+  # replace Jekyll::Reader with Jekyll::LanguageReader extension
   site.reader = Jekyll::LanguageReader.new(site)
+
+  # add dynamic languageData property and load language data
+  site.class.module_eval { attr_accessor :languageData }
+  site.languageData = Jekyll::LanguagePlugin::LanguageData.new(site)
 end
 
 # monkey patch URL.sanitize_url for handling of triple slashes

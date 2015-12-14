@@ -19,10 +19,7 @@ module Jekyll
           end
 
           return "" if !date.is_a?(Time)
-          format = LiquidContext.get_language_string(@context, fkey)
-          return "" if format.nil?
-
-          Jekyll::LanguagePlugin::DateLocalizer.localize_date(date, format, @context).to_s
+          LiquidContext.get_localized_date(@context, date, fkey)
         end
       end
     end

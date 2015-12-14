@@ -23,11 +23,8 @@ module Jekyll
 
         def traverse_hash(hash, keys)
           for key in keys
-            if !hash.is_a?(Hash)
-              return hash
-            elsif !hash.key?(key)
-              return nil
-            end
+            return hash unless hash.is_a?(Hash)
+            return nil unless hash.key?(key)
             hash = hash[key]
           end
           hash
