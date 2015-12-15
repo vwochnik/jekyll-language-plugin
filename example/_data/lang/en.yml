@@ -20,8 +20,9 @@ index:
     This site is as simple as possible to effectively demonstrate the usage
     of this plugin. Further information on how to use the plugin can be found
     on GitHub.
+  custom_loader: User-defined Data Loader
+  custom_loader_test: Test string
   posts: Posts
-  visit-about-us: Visit our about site.
 about:
   slug: about-us
   title: About Us

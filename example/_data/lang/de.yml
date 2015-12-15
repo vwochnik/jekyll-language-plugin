@@ -17,8 +17,9 @@ index:
     Diese Seite ist so einfach wie möglich gestaltet, damit der Umgang mit dem
     Plugin effektiv demonstriert werden kann. Weitere Informationen, wie das
     Plugin zu verwenden ist finden sich auf GitHub.
+  custom_loader: Benutzerdefinierter Datenlader
+  custom_loader_test: Testzeichenkette
   posts: Beiträge
-  visit-about-us: Besuchen Sie unsere Über-Seite.
 about:
   slug: ueber-uns
   title: Über Uns

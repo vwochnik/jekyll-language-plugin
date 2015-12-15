@@ -9,18 +9,18 @@ module Jekyll
       end
 
       def get(key, language)
-        inject_loaders(language) do |result, loader|
+        inject_loader(language) do |loader|
           loader.get(key, language)
         end
       end
 
       def get_with_placeholders(key, tokens, language)
-        inject_loaders(language) do |result, loader|
+        inject_loader(language) do |loader|
           loader.get_with_placeholders(key, tokens, language)
         end
       end
 
-      def inject_loaders(language)
+      def inject_loader(language)
         self.class.loaders.inject(nil) do |result, loader|
           unless l_inst = @l_inst_ary.detect { |l| l.is_a?(loader) }
             l_inst = loader.new(@site)
@@ -28,7 +28,7 @@ module Jekyll
           end
 
           l_inst.load(language) unless l_inst.loaded?(language)
-          result = yield result, l_inst
+          result = yield l_inst
           break result unless result.nil?
         end
       end
