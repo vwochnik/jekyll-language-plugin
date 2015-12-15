@@ -15,13 +15,23 @@ module Jekyll
         language
       end
 
-      def self.get_language_string(context, key)
+      def self.get_language_string(context, key, tokens=nil)
         language_data = self.get_language_data(context)
         language = self.get_language(context)
 
         subset = context.registers[:page]['subset']
-        str = language_data.get([subset, key], language) unless subset.to_s.empty?
-        str ||= language_data.get(key, language)
+
+        if tokens.is_a?(Array) && tokens.length > 0
+          unless subset.to_s.empty?
+            str = language_data.get_with_placeholders([subset, key], tokens, language)
+          end
+          str ||= language_data.get_with_placeholders(key, tokens, language)
+        else
+          unless subset.to_s.empty?
+            str = language_data.get([subset, key], language)
+          end
+          str ||= language_data.get(key, language)
+        end
 
         if str.nil?
           raise Jekyll::LanguagePlugin::PluginError.new("Key #{key} not found in translation.")

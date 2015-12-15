@@ -35,4 +35,5 @@ module Jekyll
   end
 end
 
+$stdout.puts("Registering!")
 Jekyll::LanguagePlugin.register_loader(Jekyll::LanguagePlugin::Loaders::BuiltinDataLoader)

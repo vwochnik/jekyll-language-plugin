@@ -13,20 +13,18 @@ module Jekyll
           key = context.evaluate(name)
           raise Liquid::SyntaxError.new("Invalid language key expression: #{exp}") if key.nil?
 
-          # get language string from evaluated key
-          str = Jekyll::LanguagePlugin::LiquidContext.get_language_string(context, key)
-
+          tokens = Array.new
           if p.consume?(:colon)
             loop do
               arg = Liquid::Expression.parse(exp = p.expression)
-              argstr = context.evaluate(arg)
-              raise Liquid::SyntaxError.new("Invalid parameter expression: #{exp}") if argstr.nil?
-              raise Jekyll::LanguagePlugin::PluginError.new("Language string is lacking parameter placeholder.") unless str.include?("%%")
-              str.sub!("%%", argstr)
+              token = context.evaluate(arg)
+              raise Liquid::SyntaxError.new("Invalid parameter expression: #{exp}") if token.nil?
+              tokens.push(token)
               break if !p.consume?(:comma)
             end
           end
-          str
+
+           Jekyll::LanguagePlugin::LiquidContext.get_language_string(context, key, tokens)
         end
       end
     end

@@ -10,7 +10,7 @@ module Jekyll
         end
 
         def loaded?(language)
-          false
+          true
         end
 
         def load(language)
@@ -19,6 +19,12 @@ module Jekyll
 
         def get(key, language)
           nil
+        end
+
+        def get_with_placeholders(key, tokens, language)
+          res = get(key, language)
+          return nil if res.nil?
+          res.gsub(/%%/).with_index { |m, i| tokens[i] || m }
         end
 
         def traverse_hash(hash, keys)

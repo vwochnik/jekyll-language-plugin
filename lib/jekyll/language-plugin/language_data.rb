@@ -1,16 +1,34 @@
 module Jekyll
   module LanguagePlugin
     class LanguageData
-      attr_reader :language
+      attr_reader :site, :language
 
       def initialize(site)
-        @loaders = self.class.loaders.map{ |l| l.new(site) }
+        @site = site
+        @l_inst_ary = Array.new
       end
 
       def get(key, language)
-        @loaders.inject(nil) do |result, loader|
-          loader.load(language) unless loader.loaded?(language)
-          result = loader.get(key, language)
+        inject_loaders(language) do |result, loader|
+          loader.get(key, language)
+        end
+      end
+
+      def get_with_placeholders(key, tokens, language)
+        inject_loaders(language) do |result, loader|
+          loader.get_with_placeholders(key, tokens, language)
+        end
+      end
+
+      def inject_loaders(language)
+        self.class.loaders.inject(nil) do |result, loader|
+          unless l_inst = @l_inst_ary.detect { |l| l.is_a?(loader) }
+            l_inst = loader.new(@site)
+            @l_inst_ary.push(l_inst)
+          end
+
+          l_inst.load(language) unless l_inst.loaded?(language)
+          result = yield result, l_inst
           break result unless result.nil?
         end
       end
