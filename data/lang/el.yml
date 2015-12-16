@@ -1,36 +1,233 @@
 ---
+# Greek
+# ελληνικά
 el:
   date:
-    abbr_daynames: [Κυρ, Δευ, Τρί, Τετ, Πέμ, Παρ, Σάβ]
-    abbr_monthnames: [Ιαν, Φεβ, Μαρ, Απρ, Μαϊ, Ιουν, Ιουλ, Αυγ, Σεπ, Οκτ, Νοε, Δεκ]
-    daynames: [Κυριακή, Δευτέρα, Τρίτη, Τετάρτη, Πέμπτη, Παρασκευή, Σάββατο]
-    monthnames: [Ιανουάριος, Φεβρουάριος, Μάρτιος, Απρίλιος, Μάιος, Ιούνιος, Ιούλιος,
-      Αύγουστος, Σεπτέμβριος, Οκτώβριος, Νοέμβριος, Δεκέμβριος]
+    abbr_daynames:
+    - Κυρ
+    - Δευ
+    - Τρί
+    - Τετ
+    - Πέμ
+    - Παρ
+    - Σάβ
+    abbr_monthnames:
+    - Ιαν
+    - Φεβ
+    - Μαρ
+    - Απρ
+    - Μαϊ
+    - Ιουν
+    - Ιουλ
+    - Αυγ
+    - Σεπ
+    - Οκτ
+    - Νοε
+    - Δεκ
+    daynames:
+    - Κυριακή
+    - Δευτέρα
+    - Τρίτη
+    - Τετάρτη
+    - Πέμπτη
+    - Παρασκευή
+    - Σάββατο
+    monthnames:
+    - Ιανουάριος
+    - Φεβρουάριος
+    - Μάρτιος
+    - Απρίλιος
+    - Μάιος
+    - Ιούνιος
+    - Ιούλιος
+    - Αύγουστος
+    - Σεπτέμβριος
+    - Οκτώβριος
+    - Νοέμβριος
+    - Δεκέμβριος
   lang:
-    bg: βουλγαρικά
-    cs: τσεχικά
-    da: δανικά
-    de: γερμανικά
-    el: ελληνικά
-    en: αγγλικά
-    es: ισπανικά
-    et: εσθονικά
-    fi: φινλανδικά
-    fr: γαλλικά
-    hr: κροατικά
-    hu: ουγρικά
-    is: ισλανδικά
-    it: ιταλικά
-    ja: ιαπωνικά
-    lt: λιθουανικά
-    lv: λεττονικά
-    nl: ολλανδικά
-    pl: πολωνικά
-    pt: πορτογαλικά
-    ro: ρουμανικά
-    ru: ρωσικά
-    sk: σλοβακικά
-    sl: σλοβενικά
+    aa: Afar
+    ab: Abkhazian
+    af: Afrikaans
+    ak: Akan
+    sq: Αλβανικά
+    am: Amharic
+    ar: Αραβικά
+    an: Aragonese
+    hy: Αρμένικα
+    as: Assamese
+    av: Αβαρικά
+    ae: Avestan
+    ay: Aymara
+    az: Αζερμπαϊτζιανά
+    ba: Bashkir
+    bm: Bambara
+    eu: Βασκικά
+    be: Λευκωρωσικά
+    bn: Βεγκάζης
+    bh: Νοηματικές γλώσσες
+    bi: Bislama
+    bs: Βοσνιακά
+    br: Βρετονικά
+    bg: Βουλγάρικα
+    my: Burmese
+    ca: Catalan
+    ch: Chamorro
+    ce: Τσετσένικα
+    zh: Κινέζικα
+    cu: Church Slavic
+    cv: Chuvash
+    kw: Cornish
+    co: Κορσικανικά
+    cr: Cree
+    cs: Τσέχικα
+    da: Δανέζικα
+    dv: Divehi
+    nl: Dutch
+    dz: Dzongkha
+    en: Αγγλικά
+    eo: Εσπεράντο
+    et: Εσθονικά
+    ee: Ewe
+    fo: Faroese
+    fj: Fijian
+    fi: Φινλανδικά
+    fr: Γαλλικά
+    fy: Western Frisian
+    ff: Fulah
+    ka: Γεωργιανά
+    de: Γερμανικά
+    gd: Σκωτσέζικα Κέλτικα
+    ga: Ιρλανδέζικα
+    gl: Galician
+    gv: Manx
+    el: Ελληνικά
+    gn: Guarani
+    gu: Gujarati
+    ht: Haitian
+    ha: Hausa
+    he: Εβραϊκά
+    hz: Herero
+    hi: Ινδουικά
+    ho: Hiri Motu
+    hr: Κροατικά
+    hu: Ουγγρικά
+    ig: Igbo
+    is: Ισλανδικά
+    io: Ido
+    ii: Sichuan Yi
+    iu: Inuktitut
+    ie: Interlingue
+    ia: Interlingua
+    id: Ινδονησιακά
+    ik: Inupiaq
+    it: Ιταλικά
+    jv: Javanese
+    ja: Γιαπωνέζικα
+    kl: Γροιλανδικά (Kalaallisut)
+    kn: Kannada
+    ks: Kashmiri
+    kr: Kanuri
+    kk: Kazakh
+    km: Central Khmer
+    ki: Kikuyu
+    rw: Kinyarwanda
+    ky: Kirghiz
+    kv: Komi
+    kg: Κονγκολέζικα
+    ko: Κορεάτικα
+    kj: Kuanyama
+    ku: Κούρδικα
+    lo: Lao
+    la: Λατινικά
+    lv: Λετονέζικα
+    li: Limburgan
+    ln: Lingala
+    lt: Λιθουανικά
+    lb: Luxembourgish
+    lu: Luba-Katanga
+    lg: Ganda
+    mk: Σλαβομακεδονικά
+    mh: Marshallese
+    ml: Malayalam
+    mi: Maori
+    mr: Marathi
+    ms: Malay
+    mg: Malagasy
+    mt: Maltese
+    mo: Μολδαβιανά
+    mn: Μογκολικά
+    na: Nauru
+    nv: Navajo
+    nr: South Ndebele
+    nd: North Ndebele
+    ng: Ndonga
+    ne: Nepali
+    nn: Νορβηγικά Nynorsk
+    nb: Norwegian Bokmål
+    no: Νορβηγικά
+    ny: Chichewa
+    oc: Occitan
+    oj: Ojibwa
+    or: Oriya
+    om: Oromo
+    os: Ossetian
+    pa: Panjabi
+    fa: Περσικά
+    pi: Pali
+    pl: Πολωνέζικα
+    pt: Πορτογαλικά
+    ps: Pushto
+    qu: Quechua
+    rm: Ρουμάνικα
+    ro: Ρουμάνικα
+    rn: Rundi
+    ru: Ρώσικα
+    sg: Sango
+    sa: Σανσκριτικά
+    si: Sinhala
+    sk: Σλοβακικά
+    sl: Σλοβενικά
+    se: Northern Sami
+    sm: Samoan
+    sn: Shona
+    sd: Sindhi
+    so: Σομαλικά
+    st: Southern Sotho
+    es: Ισπανικά
+    sc: Sardinian
+    sr: Σερβικά
+    ss: Swati
+    su: Sundanese
+    sw: Σουαχίλι
     sv: Σουηδικά
-    tr: Tουρκικά
-    uk: ουκρανικά
+    ty: Tahitian
+    ta: Ταϊλανδέζικα
+    tt: Tatar
+    te: Telugu
+    tg: Tajik
+    tl: Tagalog
+    th: Ταϊλανδέζικη
+    bo: Θιβετιανά
+    ti: Tigrinya
+    to: Tonga
+    tn: Tswana
+    ts: Tsonga
+    tk: Turkmen
+    tr: Τουρκικά
+    tw: Twi
+    ug: Uighur
+    uk: Ουκρανικά
+    ur: Urdu
+    uz: Uzbek
+    ve: Venda
+    vi: Βιετναμέζικα
+    vo: Volapük
+    cy: Ουαλικά
+    wa: Walloon
+    wo: Wolof
+    xh: Xhosa
+    yi: Yiddish
+    yo: Yoruba
+    za: Zhuang
+    zu: Zulu

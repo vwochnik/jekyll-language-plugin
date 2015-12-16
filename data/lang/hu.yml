@@ -1,37 +1,233 @@
 ---
+# Hungarian
+# magyar
 hu:
   date:
-    abbr_daynames: [v., h., k., sze., cs., p., szo.]
-    abbr_monthnames: [jan., febr., márc., ápr., máj., jún., júl., aug., szept., okt.,
-      nov., dec.]
-    daynames: [vasárnap, hétfő, kedd, szerda, csütörtök, péntek, szombat]
-    monthnames: [január, február, március, április, május, június, július, augusztus,
-      szeptember, október, november, december]
+    abbr_daynames:
+    - v.
+    - h.
+    - k.
+    - sze.
+    - cs.
+    - p.
+    - szo.
+    abbr_monthnames:
+    - jan.
+    - febr.
+    - márc.
+    - ápr.
+    - máj.
+    - jún.
+    - júl.
+    - aug.
+    - szept.
+    - okt.
+    - nov.
+    - dec.
+    daynames:
+    - vasárnap
+    - hétfő
+    - kedd
+    - szerda
+    - csütörtök
+    - péntek
+    - szombat
+    monthnames:
+    - január
+    - február
+    - március
+    - április
+    - május
+    - június
+    - július
+    - augusztus
+    - szeptember
+    - október
+    - november
+    - december
   lang:
-    bg: Bolgár
-    cs: Cseh
-    da: Dán
-    de: Német
-    el: görög
-    en: Angol
-    es: Spanyol
-    et: Észt
-    fi: Finn
-    fr: Francia
-    hr: Horvát
-    hu: Magyar
-    is: Izlandi
-    it: Olasz
-    ja: Japán
-    lt: Litván
-    lv: Lett
-    nl: Holland
-    pl: Lengyel
-    pt: Portugál
-    ro: Román
-    ru: Orosz
-    sk: Szlovák
-    sl: Szlovén
+    aa: afar
+    ab: abház
+    af: afrikaans
+    ak: akan
+    sq: albán
+    am: amhara
+    ar: arab
+    an: aragóniai
+    hy: örmény
+    as: asszami
+    av: avar
+    ae: avesztai
+    ay: ajmara
+    az: azeri
+    ba: baskír
+    bm: bambara
+    eu: baszk
+    be: belorusz
+    bn: bengáli
+    bh: bihari nyelvek
+    bi: biszlama
+    bs: bosnyák
+    br: breton
+    bg: bolgár
+    my: burmai
+    ca: katalán
+    ch: csamorro
+    ce: csecsen
+    zh: kínai
+    cu: Church Slavic
+    cv: csuvas
+    kw: cornwalli
+    co: korzikai
+    cr: krí
+    cs: cseh
+    da: dán
+    dv: divehi
+    nl: flamand holland
+    dz: dzongkha
+    en: angol
+    eo: eszperantó
+    et: észt
+    ee: eve
+    fo: feröeri
+    fj: fidzsi
+    fi: finn
+    fr: francia
+    fy: nyugati fríz
+    ff: ful
+    ka: grúz
+    de: német
+    gd: kelta
+    ga: ír
+    gl: galíciai
+    gv: manx
+    el: modern görög
+    gn: guarani
+    gu: gudzsaráti
+    ht: haiti
+    ha: hausza
+    he: héber
+    hz: herero
+    hi: hindi
+    ho: hiri-motu
+    hr: horvát
+    hu: magyar
+    ig: igbo
+    is: izlandi
+    io: ido
+    ii: Szecsuán Yi
+    iu: inuktitut
+    ie: interlingue
+    ia: interlingva
+    id: indonéz
+    ik: inupiak
+    it: olasz
+    jv: jávai
+    ja: japán
+    kl: kalaallisut
+    kn: kannada
+    ks: kasmíri
+    kr: kanuri
+    kk: kazak
+    km: középkhmer
+    ki: kikuju
+    rw: kinyarvanda
+    ky: kirgiz
+    kv: komi
+    kg: kongo
+    ko: koreai
+    kj: kuanyama
+    ku: kurd
+    lo: lao
+    la: latin
+    lv: lett
+    li: limburgi
+    ln: lingala
+    lt: litván
+    lb: luxemburgi
+    lu: luba-katanga
+    lg: ganda
+    mk: macedón
+    mh: Marshall-szigeteki
+    ml: malajálam
+    mi: maori
+    mr: maráthi
+    ms: maláj
+    mg: malagas
+    mt: máltai
+    mo: Moldvai
+    mn: mongol
+    na: nauru
+    nv: navaho
+    nr: déli ndebele
+    nd: északi ndebele
+    ng: ndonga
+    ne: nepáli
+    nn: norvég nynorsk
+    nb: norvég bokmal
+    no: norvég
+    ny: csicseva
+    oc: okcitán
+    oj: ozsibva
+    or: orija
+    om: oromo
+    os: oszét
+    pa: pandzsábi
+    fa: perzsa
+    pi: páli
+    pl: lengyel
+    pt: portugál
+    ps: Pushto
+    qu: kecsua
+    rm: rétoromán
+    ro: román
+    rn: rundi
+    ru: orosz
+    sg: szango
+    sa: szankszrit
+    si: szimhala
+    sk: szlovák
+    sl: szlovén
+    se: északi lapp
+    sm: szamoai
+    sn: sona
+    sd: szindhi
+    so: szomáli
+    st: déli szoto
+    es: kasztíliai spanyol
+    sc: szárd
+    sr: szerb
+    ss: szvázi
+    su: szundai
+    sw: szuahéli
     sv: svéd
-    tr: Török
-    uk: Ukrán
+    ty: tahiti
+    ta: tamil
+    tt: tatár
+    te: telugu
+    tg: tádzsik
+    tl: tagalog
+    th: thai
+    bo: tibeti
+    ti: tigrinya
+    to: tonga
+    tn: csvana
+    ts: conga
+    tk: türkmen
+    tr: török
+    tw: tvi
+    ug: ujgur
+    uk: ukrán
+    ur: urdu
+    uz: üzbég
+    ve: venda
+    vi: vietnami
+    vo: volapük
+    cy: walesi
+    wa: vallon
+    wo: wolof
+    xh: xhosza
+    yi: jiddis
+    yo: joruba
+    za: dzsuang
+    zu: zulu

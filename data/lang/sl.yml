@@ -1,36 +1,233 @@
 ---
+# Slovene
+# slovenski jezik
 sl:
   date:
-    abbr_daynames: [ned, pon, tor, sre, čet, pet, sob]
-    abbr_monthnames: [jan, feb, mar, apr, maj, jun, jul, avg, sep, okt, nov, dec]
-    daynames: [nedelja, ponedeljek, torek, sreda, četrtek, petek, sobota]
-    monthnames: [januar, februar, marec, april, maj, junij, julij, avgust, september,
-      oktober, november, december]
+    abbr_daynames:
+    - ned
+    - pon
+    - tor
+    - sre
+    - čet
+    - pet
+    - sob
+    abbr_monthnames:
+    - jan
+    - feb
+    - mar
+    - apr
+    - maj
+    - jun
+    - jul
+    - avg
+    - sep
+    - okt
+    - nov
+    - dec
+    daynames:
+    - nedelja
+    - ponedeljek
+    - torek
+    - sreda
+    - četrtek
+    - petek
+    - sobota
+    monthnames:
+    - januar
+    - februar
+    - marec
+    - april
+    - maj
+    - junij
+    - julij
+    - avgust
+    - september
+    - oktober
+    - november
+    - december
   lang:
-    bg: Bolgarščina
-    cs: Češčina
-    da: Danščina
-    de: Nemščina
-    el: Grščina
-    en: Angleščina
-    es: Španščina
-    et: Estonščina
-    fi: Finščina
-    fr: Francoščina
-    hr: Hrvaščina
-    hu: Madžarščina
-    is: Islandščina
-    it: Italijanščina
-    ja: Japonščina
-    lt: Litvanščina
-    lv: Latvijščina
-    nl: Nizozemščina
-    pl: Poljščina
-    pt: Protugalščina
-    ro: Romunščina
-    ru: Ruščina
-    sk: Slovaščina
-    sl: Slovenščina
-    sv: Švedščina
-    tr: Turščina
-    uk: Ukrajinščina
+    aa: afarščina
+    ab: abhaščina
+    af: afrikanščina
+    ak: akanščina
+    sq: albanščina
+    am: amharščina
+    ar: arabščina
+    an: aragonščina
+    hy: armenščina
+    as: asamščina
+    av: avarščina
+    ae: avestščina
+    ay: ajmarščina
+    az: azerbajdžanščina,azerščina
+    ba: baškirščina
+    bm: bambarščina
+    eu: baskovščina
+    be: beloruščina
+    bn: bengalščina
+    bh: biharski jeziki
+    bi: bislamščina
+    bs: bošnjaščina
+    br: bretonščina
+    bg: bolgarščina
+    my: burmanščina
+    ca: katalonščina
+    ch: čamorščina
+    ce: čečenščina
+    zh: kitajščina
+    cu: Church Slavic
+    cv: čuvaščina
+    kw: kornijščina
+    co: korzijščina
+    cr: krijščina
+    cs: češčina
+    da: danščina
+    dv: diveščina
+    nl: nizozemščina
+    dz: dzonka
+    en: angleščina
+    eo: esperanto
+    et: estonščina
+    ee: evenščina
+    fo: ferščina
+    fj: fidžijščina
+    fi: finščina
+    fr: francoščina
+    fy: zahodna frizijščina
+    ff: fulščina
+    ka: gruzinščina
+    de: nemščina
+    gd: gelščina, škotska gelščina
+    ga: irščina
+    gl: galicijščina
+    gv: manska gelščina
+    el: grščina
+    gn: gvaranijščina
+    gu: gudžaratščina
+    ht: haitijska kreolščina
+    ha: havščina
+    he: hebrejščina
+    hz: herero
+    hi: hindijščina
+    ho: hiri motu
+    hr: hrvaščina
+    hu: madžarščina
+    ig: igboščina
+    is: islandščina
+    io: ido
+    ii: sečuanski ji
+    iu: inuktituščina
+    ie: interlingve
+    ia: interlingva
+    id: indonezijščina
+    ik: inupiaščina
+    it: italijanščina
+    jv: javanščina
+    ja: japonščina
+    kl: grenlandščina
+    kn: kanareščina
+    ks: kašmirščina
+    kr: kanurščina
+    kk: kazaščina
+    km: kmerščina
+    ki: kikujščina
+    rw: ruandščina
+    ky: kirgiščina
+    kv: komijščina
+    kg: kongovščina
+    ko: korejščina
+    kj: kvanjama
+    ku: kurdščina
+    lo: laoščina
+    la: latinščina
+    lv: latvijščina
+    li: limburščina
+    ln: lingala
+    lt: litovščina
+    lb: luksemburščina
+    lu: lubakatangščina
+    lg: ganda
+    mk: makedonščina
+    mh: maršalščina
+    ml: malajalščina
+    mi: maorščina
+    mr: maratščina
+    ms: malajščina
+    mg: malgaščina
+    mt: malteščina
+    mo: moldavščina
+    mn: mongolščina
+    na: naurujščina
+    nv: navaščina
+    nr: južna ndebelščina
+    nd: severna ndebelščina
+    ng: ndongščina
+    ne: nepalščina
+    nn: novonorveščina
+    nb: knjižna norveščina
+    no: norveščina
+    ny: čevščina
+    oc: okcitanščina
+    oj: anašinabščina
+    or: orijščina
+    om: oromščina
+    os: osetinščina
+    pa: pandžabščina
+    fa: perzijščina
+    pi: pali
+    pl: poljščina
+    pt: portugalščina
+    ps: paštunščina
+    qu: kečvanščina
+    rm: retoromanščina
+    ro: romunščina
+    rn: rundščina
+    ru: ruščina
+    sg: sango
+    sa: sanskrt
+    si: singalščina
+    sk: slovaščina
+    sl: slovenščina
+    se: severna samijščina
+    sm: samoanščina
+    sn: šonščina
+    sd: sindščina
+    so: somalijščina
+    st: južna sotščina
+    es: španščina
+    sc: sardinščina
+    sr: srbščina
+    ss: svazijščina
+    su: sundščina
+    sw: svahilščina
+    sv: švedščina
+    ty: tahitijščina
+    ta: tamilščina
+    tt: tatarščina
+    te: teluščina
+    tg: tadžiščina
+    tl: tagaloščina
+    th: tajščina
+    bo: tibetanščina
+    ti: tigrajščina
+    to: tonganščina
+    tn: cvanščina
+    ts: congščina
+    tk: turkmenščina
+    tr: turščina
+    tw: tvi
+    ug: ujgurščina
+    uk: ukrajinščina
+    ur: urdu
+    uz: uzbeščina
+    ve: vendščina
+    vi: vietnamščina
+    vo: volapuk
+    cy: valižanščina
+    wa: valonščina
+    wo: volofščina
+    xh: koščina
+    yi: jidiš
+    yo: jorubščina
+    za: džuanščina
+    zu: zulujščina

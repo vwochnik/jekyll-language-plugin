@@ -1,0 +1,233 @@
+---
+# Indonesian
+# Bahasa Indonesia
+id:
+  date:
+    abbr_daynames:
+    - Min
+    - Sen
+    - Sel
+    - Rab
+    - Kam
+    - Jum
+    - Sab
+    abbr_monthnames:
+    - Jan
+    - Feb
+    - Mar
+    - Apr
+    - Mei
+    - Jun
+    - Jul
+    - Agu
+    - Sep
+    - Okt
+    - Nov
+    - Des
+    daynames:
+    - Minggu
+    - Senin
+    - Selasa
+    - Rabu
+    - Kamis
+    - Jumat
+    - Sabtu
+    monthnames:
+    - Januari
+    - Februari
+    - Maret
+    - April
+    - Mei
+    - Juni
+    - Juli
+    - Agustus
+    - September
+    - Oktober
+    - November
+    - Desember
+  lang:
+    aa: Afar
+    ab: Abkhazian
+    af: Afrika
+    ak: Akan
+    sq: Albania
+    am: Amharic
+    ar: Arab
+    an: Aragonese
+    hy: Armenia
+    as: Assam
+    av: Avaric
+    ae: Avestan
+    ay: Aymara
+    az: Azerbaijani
+    ba: Bashkir
+    bm: Bambara
+    eu: Basque
+    be: Belarusia
+    bn: Bengal
+    bh: Bahasa Bihari
+    bi: Bislama
+    bs: Bosnia
+    br: Breton
+    bg: Bulgaria
+    my: Burma
+    ca: Catalan
+    ch: Chamorro
+    ce: Chechen
+    zh: Cina
+    cu: Church Slavic
+    cv: Chuvash
+    kw: Cornish
+    co: Korsika
+    cr: Cree
+    cs: Ceko
+    da: Denmark
+    dv: Divehi
+    nl: Belanda
+    dz: Dzongkha
+    en: Inggris
+    eo: Esperanto
+    et: Estonia
+    ee: Ewe
+    fo: Faro
+    fj: Fiji
+    fi: Finlandia
+    fr: Prancis
+    fy: Frisian Bagian Barat
+    ff: Fulah
+    ka: Georgian
+    de: Jerman
+    gd: Gaelic
+    ga: Irlandia
+    gl: Galicia
+    gv: Manx
+    el: Yunani
+    gn: Guarani
+    gu: Gujarati
+    ht: Haitian
+    ha: Hausa
+    he: Israel
+    hz: Herero
+    hi: Hindi
+    ho: Hiri Motu
+    hr: Kroasia
+    hu: Hungaria
+    ig: Igbo
+    is: Islandia
+    io: Ido
+    ii: Sichuan Yi
+    iu: Inuktitut
+    ie: Interlingue
+    ia: Interlingua
+    id: Bahasa Indonesia
+    ik: Inupiaq
+    it: Italia
+    jv: Bahasa Jawa
+    ja: Jepang
+    kl: Kalaallisut
+    kn: Kannada
+    ks: Kashmir
+    kr: Kanuri
+    kk: Kazakh
+    km: Khmer Tengah
+    ki: Kikuyu
+    rw: Kinyarwanda
+    ky: Kirghiz
+    kv: Komi
+    kg: Kongo
+    ko: Korea
+    kj: Kuanyama
+    ku: Kurdish
+    lo: Lao
+    la: Latin
+    lv: Latvia
+    li: Limburgan
+    ln: Lingala
+    lt: Lithuania
+    lb: Luxembourgish
+    lu: Luba-Katanga
+    lg: Ganda
+    mk: Masedonian
+    mh: Marshallese
+    ml: Malayalam
+    mi: Maori
+    mr: Marathi
+    ms: Malay
+    mg: Malagasi
+    mt: Maltese
+    mo: Moldavian
+    mn: Mongolia
+    na: Nauru
+    nv: Navajo
+    nr: Ndebele Selatan
+    nd: Ndebele Utara
+    ng: Ndonga
+    ne: Nepal
+    nn: Norwegian Nynorsk
+    nb: Norwegian Bokmål
+    no: Norwegia
+    ny: Chichewa
+    oc: Occitan
+    oj: Ojibwa
+    or: Oriya
+    om: Oromo
+    os: Ossetian
+    pa: Panjabi
+    fa: Persia
+    pi: Pali
+    pl: Polandia
+    pt: Portugis
+    ps: Pushto
+    qu: Quechua
+    rm: Romansh
+    ro: Rumania
+    rn: Rundi
+    ru: Rusia
+    sg: Sango
+    sa: Sanskrit
+    si: Sinhala
+    sk: Slovakia
+    sl: Slovenia
+    se: Northern Sami
+    sm: Samoan
+    sn: Shona
+    sd: Sindhi
+    so: Somali
+    st: Southern Sotho
+    es: Spanish
+    sc: Sardinian
+    sr: Serbia
+    ss: Swati
+    su: Sundan
+    sw: Swahili
+    sv: Swedia
+    ty: Tahiti
+    ta: Tamil
+    tt: Tatar
+    te: Telugu
+    tg: Tajik
+    tl: Tagalog
+    th: Thailand
+    bo: Tibet
+    ti: Tigrinya
+    to: Tonga
+    tn: Tswana
+    ts: Tsonga
+    tk: Turkmen
+    tr: Turki
+    tw: Twi
+    ug: Uighur
+    uk: Ukrainia
+    ur: Urdu
+    uz: Uzbek
+    ve: Venda
+    vi: Vietnam
+    vo: Volapük
+    cy: Welsh
+    wa: Wallon
+    wo: Wolof
+    xh: Xhosa
+    yi: Yiddish
+    yo: Yoruba
+    za: Zhuang
+    zu: Zulu

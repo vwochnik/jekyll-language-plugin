@@ -1,36 +1,233 @@
 ---
+# Romanian
+# limba română
 ro:
   date:
-    abbr_daynames: [Dum, Lun, Mar, Mie, Joi, Vin, Sâm]
-    abbr_monthnames: [Ian, Feb, Mar, Apr, Mai, Iun, Iul, Aug, Sep, Oct, Noi, Dec]
-    daynames: [Duminică, Luni, Marți, Miercuri, Joi, Vineri, Sâmbată]
-    monthnames: [Ianuarie, Februarie, Martie, Aprilie, Mai, Iunie, Iulie, August,
-      Septembrie, Octombrie, Noiembrie, Decembrie]
+    abbr_daynames:
+    - Dum
+    - Lun
+    - Mar
+    - Mie
+    - Joi
+    - Vin
+    - Sâm
+    abbr_monthnames:
+    - Ian
+    - Feb
+    - Mar
+    - Apr
+    - Mai
+    - Iun
+    - Iul
+    - Aug
+    - Sep
+    - Oct
+    - Noi
+    - Dec
+    daynames:
+    - Duminică
+    - Luni
+    - Marți
+    - Miercuri
+    - Joi
+    - Vineri
+    - Sâmbată
+    monthnames:
+    - Ianuarie
+    - Februarie
+    - Martie
+    - Aprilie
+    - Mai
+    - Iunie
+    - Iulie
+    - August
+    - Septembrie
+    - Octombrie
+    - Noiembrie
+    - Decembrie
   lang:
+    aa: Afară
+    ab: Abhază
+    af: Afrikaans
+    ak: Akană
+    sq: Albaneză
+    am: Amharică
+    ar: Arabă
+    an: Aragoneză
+    hy: Armeană
+    as: Asameză
+    av: Avară
+    ae: Avestană
+    ay: Aimară
+    az: Azeră
+    ba: Bașchiră
+    bm: Bambară
+    eu: Bască
+    be: Bielorusă
+    bn: Bengaleză
+    bh: Limbi Bihari
+    bi: Bislamă
+    bs: Bosniacă
+    br: Bretonă
     bg: Bulgară
+    my: Burmeză
+    ca: Catalană
+    ch: Chamorro
+    ce: Cecenă
+    zh: Chineză
+    cu: Church Slavic
+    cv: Ciuvașă
+    kw: Corneză
+    co: Corsicană
+    cr: Creenă
     cs: Cehă
     da: Daneză
-    de: Germană
-    el: Greacă
+    dv: Divehineză
+    nl: Olandeză
+    dz: Dzongkhană
     en: Engleză
-    es: Spaniolă
-    et: Estoniană
+    eo: Esperanto
+    et: Estonă
+    ee: Ewe
+    fo: Feroeză
+    fj: Fijiană
     fi: Finlandeză
     fr: Franceză
+    fy: Frizona occidentală
+    ff: Fulah
+    ka: Georgiană
+    de: Germană
+    gd: Gaelică
+    ga: Irlandeză
+    gl: Galiciană
+    gv: Manxă
+    el: Greacă
+    gn: Guarană
+    gu: Gujaratineză
+    ht: Haitiană
+    ha: Hausă
+    he: Ebraică
+    hz: Hereră
+    hi: Hindusă
+    ho: Hiri Motuneză
     hr: Croată
     hu: Maghiară
+    ig: Igboneză
     is: Islandeză
+    io: Idoneză
+    ii: Sichuan Yi
+    iu: Inuktitut
+    ie: Interlingue
+    ia: Interlingua
+    id: Indoneziană
+    ik: Inupiacă
     it: Italiană
+    jv: Javaneză
     ja: Japoneză
-    lt: Lituaniană
+    kl: Kalaallisută
+    kn: Kannada
+    ks: Cașmiră
+    kr: Kanurineză
+    kk: Cazacă
+    km: Khmeră centrală
+    ki: Kikuyuneză
+    rw: Chiniaruandeză
+    ky: Kârgâză
+    kv: Komi
+    kg: Kongo
+    ko: Coreeană
+    kj: Kuanyamană
+    ku: Curdă
+    lo: Loațiană
+    la: Latină
     lv: Letonă
-    nl: Olandeză
-    pl: Polonă
+    li: Limburgă
+    ln: Lingală
+    lt: Lituaniană
+    lb: Luxemburgheză
+    lu: Luba-Katanganeză
+    lg: Ganda
+    mk: Macedoneană
+    mh: Marșaleză
+    ml: Malayalam
+    mi: Maură
+    mr: Marathi
+    ms: Malaeză
+    mg: Malgașă
+    mt: Malteză
+    mo: Română
+    mn: Mongolă
+    na: Naură
+    nv: Navajo
+    nr: Ndebele sudică
+    nd: Ndebele nordică
+    ng: Ndongă
+    ne: Nepaleză
+    nn: Norvegiană nynorsk
+    nb: Norvegiană bokmål
+    no: Norvegiană
+    ny: Chichewaneză
+    oc: Occitană
+    oj: Ojibwaneză
+    or: Oriană
+    om: Oromă
+    os: Osețiană
+    pa: Punjabă
+    fa: Persană
+    pi: Pali
+    pl: Poloneză
     pt: Portugheză
+    ps: Paștună
+    qu: Quechua
+    rm: Retoromană
     ro: Română
+    rn: Rundi
     ru: Rusă
+    sg: Sangă
+    sa: Sanscrită
+    si: Sinhaleză
     sk: Slovacă
     sl: Slovenă
+    se: Sami nordică
+    sm: Samoană
+    sn: Șonă
+    sd: Sindi
+    so: Somaleză
+    st: Soto sudică
+    es: Spaniolă
+    sc: Sardiniană
+    sr: Sârbă
+    ss: Suată
+    su: Sudaneză
+    sw: Swahili
     sv: Suedeză
+    ty: Tahitiană
+    ta: Tamilă
+    tt: Tătară
+    te: Teluguă
+    tg: Tajikă
+    tl: Tagalogă
+    th: Thailandeză
+    bo: Tibetană
+    ti: Tigriniană
+    to: Tonga
+    tn: Tswană
+    ts: Tsongă
+    tk: Turcmenă
     tr: Turcă
-    uk: Ucrainiană
+    tw: Twi
+    ug: Uighură
+    uk: Ucraineană
+    ur: Urdu
+    uz: Uzbecă
+    ve: Vendă
+    vi: Vietnameză
+    vo: Volapük
+    cy: Galeză
+    wa: Walloon
+    wo: Wolofă
+    xh: Xhosă
+    yi: Idiș
+    yo: Iorubă
+    za: Chuangoneză
+    zu: Zulu

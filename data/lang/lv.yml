@@ -1,38 +1,233 @@
 ---
+# Latvian
+# latviešu valoda
 lv:
   date:
-    abbr_daynames: [Sv., P., O., T., C., Pk., S.]
-    abbr_monthnames: [Janv, Febr, Marts, Apr, Maijs, Jūn, Jūl, Aug, Sept, Okt, Nov,
-      Dec]
-    daynames: [svētdiena, pirmdiena, otrdiena, trešdiena, ceturtdiena, piektdiena,
-      sestdiena]
-    monthnames: [Janvāris, Februāris, Marts, Aprīlis, Maijs, Jūnijs, Jūlijs, Augusts,
-      Septembris, Oktobris, Novembris, Decembris]
+    abbr_daynames:
+    - Sv.
+    - P.
+    - O.
+    - T.
+    - C.
+    - Pk.
+    - S.
+    abbr_monthnames:
+    - Janv
+    - Febr
+    - Marts
+    - Apr
+    - Maijs
+    - Jūn
+    - Jūl
+    - Aug
+    - Sept
+    - Okt
+    - Nov
+    - Dec
+    daynames:
+    - svētdiena
+    - pirmdiena
+    - otrdiena
+    - trešdiena
+    - ceturtdiena
+    - piektdiena
+    - sestdiena
+    monthnames:
+    - Janvāris
+    - Februāris
+    - Marts
+    - Aprīlis
+    - Maijs
+    - Jūnijs
+    - Jūlijs
+    - Augusts
+    - Septembris
+    - Oktobris
+    - Novembris
+    - Decembris
   lang:
+    aa: Afāru
+    ab: Abhāzu
+    af: Afrikandu
+    ak: Akanu
+    sq: Albāņu
+    am: Amharu
+    ar: Arābu
+    an: Aragoniešu
+    hy: Armēņu
+    as: Asamiešu
+    av: Avāru
+    ae: Avesta
+    ay: Aimaru
+    az: Azerbaidžāņu
+    ba: Baškīru
+    bm: Bambaru
+    eu: Basku
+    be: Baltkrievu
+    bn: Bengāļu
+    bh: Biharu
+    bi: Bišlamā
+    bs: Bosniešu
+    br: Bretoņu
     bg: Bulgāru
+    my: Birmiešu
+    ca: Katalāņu
+    ch: Čamorru
+    ce: Čečenu
+    zh: Ķīniešu
+    cu: Church Slavic
+    cv: Čuvašu
+    kw: Korniešu
+    co: Korsikāņu
+    cr: Krī
     cs: Čehu
     da: Dāņu
-    de: Vācu
-    el: grieķu
+    dv: Maldīviešu
+    nl: Holandiešu
+    dz: Dzongke
     en: Angļu
-    es: Spāņu
+    eo: Esperanto
     et: Igauņu
+    ee: Evu
+    fo: Fēru
+    fj: Fidžiešu
     fi: Somu
     fr: Franču
+    fy: Rietumfrīzu
+    ff: Fulu
+    ka: Gruzīnu
+    de: Vācu
+    gd: Gēlu
+    ga: Īru
+    gl: Galisiešu
+    gv: Meniešu
+    el: Grieķu
+    gn: Gvaranu
+    gu: Gudžaratu
+    ht: Haitiešu
+    ha: Hausu
+    he: Ivrits
+    hz: Hereru
+    hi: Hindi
+    ho: Hirimotu
     hr: Horvātu
     hu: Ungāru
+    ig: Igbo
     is: Islandiešu
-    it: Itāļu
+    io: Ido
+    ii: Sičuaņas ji
+    iu: Inuītu
+    ie: Interlingve
+    ia: Interlingva
+    id: Indonēziešu
+    ik: Inupiaku
+    it: Itāliešu
+    jv: Javiešu
     ja: Japāņu
-    lt: Lietuviešu
+    kl: Grenlandiešu
+    kn: Kannadu
+    ks: Kašmiriešu
+    kr: Kanuru
+    kk: Kazahu
+    km: Khmeru
+    ki: Kikuju
+    rw: Kiņaruanda
+    ky: Kirgīzu
+    kv: Komiešu
+    kg: Kongu
+    ko: Korejiešu
+    kj: Kvaņamu
+    ku: Kurdu
+    lo: Laosiešu
+    la: Latīņu
     lv: Latviešu
-    nl: Nīderlandiešu
+    li: Limburgiešu
+    ln: Lingala
+    lt: Lietuviešu
+    lb: Luksemburgiešu
+    lu: Lubakatanga
+    lg: Gandu
+    mk: Maķedoniešu
+    mh: Māršaliešu
+    ml: Malajalu
+    mi: Maoru
+    mr: Maratu
+    ms: Malajiešu
+    mg: Malagasu
+    mt: Maltiešu
+    mo: Moldāvu
+    mn: Mongoļu
+    na: Nauruiešu
+    nv: Navahu
+    nr: Dienvidndebelu
+    nd: Ziemeļndebelu
+    ng: Ndongu
+    ne: Nepāliešu
+    nn: Jaunnorvēģu
+    nb: Norvēģu bukmols
+    no: Norvēģu
+    ny: Čičeva
+    oc: Oksitāņu
+    oj: Odžibvu
+    or: Oriju
+    om: Oromu
+    os: Osetīnu
+    pa: Pandžabu
+    fa: Persiešu
+    pi: Pāli
     pl: Poļu
     pt: Portugāļu
+    ps: Puštu
+    qu: Kečvu
+    rm: Retoromāņu
     ro: Rumāņu
+    rn: Rundu
     ru: Krievu
+    sg: Sangu
+    sa: Sanskrits
+    si: Singāļu
     sk: Slovāku
     sl: Slovēņu
+    se: Ziemeļsāmu
+    sm: Samoāņu
+    sn: Šonu
+    sd: Sindhu
+    so: Somāļu
+    st: Sesoto
+    es: Spāņu
+    sc: Sardīniešu
+    sr: Serbu
+    ss: Svatu
+    su: Sundaniešu
+    sw: Svahili
     sv: Zviedru
+    ty: Taitiešu
+    ta: Tamilu
+    tt: Tatāru
+    te: Telugu
+    tg: Tadžiku
+    tl: Tagalu
+    th: Taju
+    bo: Tibetiešu
+    ti: Tigrinja
+    to: Tongu
+    tn: Cvanu
+    ts: Congu
+    tk: Turkmēņu
     tr: Turku
+    tw: Tvī
+    ug: Uiguru
     uk: Ukraiņu
+    ur: Urdu
+    uz: Uzbeku
+    ve: Vendu
+    vi: Vjetnamiešu
+    vo: Volapiks
+    cy: Velsiešu
+    wa: Valoņu
+    wo: Volofu
+    xh: Khosu
+    yi: Jidišs
+    yo: Jorubu
+    za: Džuanu
+    zu: Zulu

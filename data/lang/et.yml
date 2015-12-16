@@ -1,37 +1,233 @@
 ---
+# Estonian
+# eesti
 et:
   date:
-    abbr_daynames: [P, E, T, K, N, R, L]
-    abbr_monthnames: [jaan., veebr., märts, apr., mai, juuni, juuli, aug., sept.,
-      okt., nov., dets.]
-    daynames: [pühapäev, esmaspäev, teisipäev, kolmapäev, neljapäev, reede, laupäev]
-    monthnames: [jaanuar, veebruar, märts, aprill, mai, juuni, juuli, august, september,
-      oktoober, november, detsember]
+    abbr_daynames:
+    - P
+    - E
+    - T
+    - K
+    - N
+    - R
+    - L
+    abbr_monthnames:
+    - jaan.
+    - veebr.
+    - märts
+    - apr.
+    - mai
+    - juuni
+    - juuli
+    - aug.
+    - sept.
+    - okt.
+    - nov.
+    - dets.
+    daynames:
+    - pühapäev
+    - esmaspäev
+    - teisipäev
+    - kolmapäev
+    - neljapäev
+    - reede
+    - laupäev
+    monthnames:
+    - jaanuar
+    - veebruar
+    - märts
+    - aprill
+    - mai
+    - juuni
+    - juuli
+    - august
+    - september
+    - oktoober
+    - november
+    - detsember
   lang:
+    aa: Afar
+    ab: Abkhazian
+    af: Lõuna-Aafrika
+    ak: Lõuna-Aafrika
+    sq: Albaania
+    am: Araabia
+    ar: Araabia
+    an: Fääri
+    hy: Armenian
+    as: Assamese
+    av: Araabia
+    ae: Avestan
+    ay: Aymara
+    az: Aserbaidžaani
+    ba: Bashkir
+    bm: Bambara
+    eu: Baski
+    be: Valgevene
+    bn: Balti
+    bh: Korea
+    bi: Bislama
+    bs: Rumeenia
+    br: Breton
     bg: Bulgaaria
+    my: Burmese
+    ca: Catalan
+    ch: Chamorro
+    ce: Tšehhi
+    zh: Hiina
+    cu: Church Slavic
+    cv: Chuvash
+    kw: Värvid
+    co: Corsican
+    cr: Kreeka
     cs: Tšehhi
     da: Taani
-    de: Saksa
-    el: Kreeka
+    dv: Divehi
+    nl: Dutch
+    dz: Dzongkha
     en: Inglise
-    es: Hispaania
+    eo: Esperanto
     et: Eesti
+    ee: Ewe
+    fo: Fääri
+    fj: Otsi
     fi: Soome
     fr: Prantsuse
-    hr: Horvaadi
+    fy: Ukraina
+    ff: Fulah
+    ka: Georgian
+    de: Saksa
+    gd: Gaelic
+    ga: Iiri
+    gl: Galeon
+    gv: Manx
+    el: Greek
+    gn: Guarani
+    gu: Gujarati
+    ht: Haitian
+    ha: Paus
+    he: Heebrea
+    hz: Heebrea
+    hi: Otsi
+    ho: Otsi
+    hr: Horvaatia
     hu: Ungari
+    ig: Igbo
     is: Islandi
+    io: Ido
+    ii: Leedu
+    iu: Inuktitut
+    ie: Renderdamine
+    ia: Interlingua
+    id: Indoneesia
+    ik: India
     it: Itaalia
+    jv: Jaapani
     ja: Jaapani
-    lt: Leedu
+    kl: Kalaallisut
+    kn: Kannada
+    ks: Kashmiri
+    kr: Türgi
+    kk: Kazakh
+    km: Central Khmer
+    ki: Kikuyu
+    rw: Kinyarwanda
+    ky: Kirghiz
+    kv: Komi
+    kg: Kongo
+    ko: Korea
+    kj: Kuanyama
+    ku: Türgi
+    lo: Lao
+    la: Asukoht
     lv: Läti
-    nl: Hollandi
+    li: Limburgan
+    ln: Le_gal
+    lt: Leedu
+    lb: Luxembourgish
+    lu: Luba-Katanga
+    lg: Ganda
+    mk: Makedoonia
+    mh: ei
+    ml: Malayalam
+    mi: Ääred
+    mr: Marathi
+    ms: Malay
+    mg: Malagasy
+    mt: ei
+    mo: Moldavian
+    mn: Mongolian
+    na: Nauru
+    nv: Navajo
+    nr: South Ndebele
+    nd: North Ndebele
+    ng: Ndonga
+    ne: Nepali
+    nn: Norra
+    nb: Norwegian Bokmål
+    no: Norra
+    ny: Chichewa
+    oc: Occitan
+    oj: Ojibwa
+    or: Oriya
+    om: alates
+    os: Vene
+    pa: Panjabi
+    fa: Prindi
+    pi: Poola
     pl: Poola
     pt: Portugali
+    ps: Pushto
+    qu: Quechua
+    rm: Rumeenia
     ro: Rumeenia
+    rn: Rundi
     ru: Vene
-    sk: Slovaki
-    sl: Sloveeni
+    sg: Sango
+    sa: seriifideta
+    si: Vietnami
+    sk: Slovakkia
+    sl: Sloveenia
+    se: Northern Sami
+    sm: Samoan
+    sn: Shona
+    sd: Otsi
+    so: Somali
+    st: Southern Sotho
+    es: Spanish
+    sc: Makedoonia
+    sr: Serbia
+    ss: Swati
+    su: Sundanese
+    sw: Swahili
     sv: Rootsi
+    ty: Läti
+    ta: Tai
+    tt: Tatar
+    te: Telugu
+    tg: Tai
+    tl: Tagalog
+    th: Tai
+    bo: Tibetan
+    ti: Türgi
+    to: Tonga
+    tn: Tswana
+    ts: Tsonga
+    tk: Turkmen
     tr: Türgi
+    tw: Twi
+    ug: Uighur
     uk: Ukraina
+    ur: Urdu
+    uz: Uzbek
+    ve: Venda
+    vi: Vietnami
+    vo: Volapük
+    cy: Welsh
+    wa: Walloon
+    wo: Wolof
+    xh: Xhosa
+    yi: Yiddish
+    yo: Yoruba
+    za: Zhuang
+    zu: Zulu

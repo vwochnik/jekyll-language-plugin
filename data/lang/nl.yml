@@ -1,36 +1,233 @@
 ---
+# Dutch
+# Vlaams
 nl:
   date:
-    abbr_daynames: [zo, ma, di, wo, do, vr, za]
-    abbr_monthnames: [jan, feb, mrt, apr, mei, jun, jul, aug, sep, okt, nov, dec]
-    daynames: [zondag, maandag, dinsdag, woensdag, donderdag, vrijdag, zaterdag]
-    monthnames: [januari, februari, maart, april, mei, juni, juli, augustus, september,
-      oktober, november, december]
+    abbr_daynames:
+    - zo
+    - ma
+    - di
+    - wo
+    - do
+    - vr
+    - za
+    abbr_monthnames:
+    - jan
+    - feb
+    - mrt
+    - apr
+    - mei
+    - jun
+    - jul
+    - aug
+    - sep
+    - okt
+    - nov
+    - dec
+    daynames:
+    - zondag
+    - maandag
+    - dinsdag
+    - woensdag
+    - donderdag
+    - vrijdag
+    - zaterdag
+    monthnames:
+    - januari
+    - februari
+    - maart
+    - april
+    - mei
+    - juni
+    - juli
+    - augustus
+    - september
+    - oktober
+    - november
+    - december
   lang:
+    aa: Hamitisch Afar
+    ab: Abchazisch
+    af: Afrikaans
+    ak: Akaans
+    sq: Albanees
+    am: Amhaars
+    ar: Arabisch
+    an: Aragonees
+    hy: Armeens
+    as: Assamees
+    av: Avaars
+    ae: Avestisch
+    ay: Aymara
+    az: Azeri
+    ba: Basjkiers
+    bm: Bambara
+    eu: Baskisch
+    be: Wit-Russisch
+    bn: Bengaals
+    bh: Bihari-talen
+    bi: Bislama
+    bs: Bosnisch
+    br: Bretons
     bg: Bulgaars
+    my: Burmees
+    ca: Catalaans
+    ch: Chamorro
+    ce: Tsjetsjeens
+    zh: Chinees
+    cu: Church Slavic
+    cv: Tsjoevasjisch
+    kw: Cornish
+    co: Corsicaans
+    cr: Cree
     cs: Tsjechisch
     da: Deens
-    de: Duits
-    el: Grieks
+    dv: Divehi
+    nl: Nederlands
+    dz: Dzongkha
     en: Engels
-    es: Spaans
-    et: Estisch
+    eo: Esperanto
+    et: Estlands
+    ee: Ewe
+    fo: Faeröers
+    fj: Fijisch
     fi: Fins
     fr: Frans
+    fy: Fries
+    ff: Fulah
+    ka: Georgisch
+    de: Duits
+    gd: Gaelisch
+    ga: Iers
+    gl: Galiciaans
+    gv: Manx
+    el: Grieks
+    gn: Guarani
+    gu: Gujarati
+    ht: Haïtiaans
+    ha: Hausa
+    he: Hebreeuws
+    hz: Herero
+    hi: Hindi
+    ho: Hiri Motu
     hr: Kroatisch
     hu: Hongaars
+    ig: Igbo
     is: IJslands
+    io: Ido
+    ii: Sitsjuan Yi
+    iu: Inuktitut
+    ie: Interlingue
+    ia: Interlingua
+    id: Indonesisch
+    ik: Inupiak
     it: Italiaans
+    jv: Javaans
     ja: Japans
-    lt: Litouws
+    kl: Kalaallisut
+    kn: Kanarees Kannada
+    ks: Kashmiri
+    kr: Kanuri
+    kk: Kazachs
+    km: Centraal Khmer
+    ki: Kikuyu
+    rw: Kinyarwanda
+    ky: Kirgizisch
+    kv: Komi
+    kg: Kongo
+    ko: Koreaans
+    kj: Kuanyama
+    ku: Koerdisch
+    lo: Lao
+    la: Latijn
     lv: Lets
-    nl: Nederlands
+    li: Limburgs
+    ln: Lingala
+    lt: Litouws
+    lb: Luxemburgs
+    lu: Luba-Katanga
+    lg: Ganda
+    mk: Macedonisch
+    mh: Marshallees
+    ml: Malayalam
+    mi: Maori
+    mr: Marathi
+    ms: Maleis
+    mg: Malagassisch
+    mt: Maltees
+    mo: Moldavisch
+    mn: Mongools
+    na: Nauruaans
+    nv: Navajo
+    nr: Zuid-Ndebele
+    nd: Noord-Ndebele
+    ng: Ndonga
+    ne: Nepalees
+    nn: Nynorsk-Noors
+    nb: Noors Bokmål
+    no: Noors
+    ny: Tsjewa
+    oc: Occitaans
+    oj: Ojibwa
+    or: Oriya
+    om: Oromo
+    os: Ossetisch
+    pa: Panjabi
+    fa: Perzisch
+    pi: Pali
     pl: Pools
     pt: Portugees
+    ps: Pasjtoe
+    qu: Quechua
+    rm: Romaans
     ro: Roemeens
+    rn: Rundi
     ru: Russisch
-    sk: Slowaaks
+    sg: Sangho
+    sa: Sanskriet
+    si: Sinhala
+    sk: Slovaaks
     sl: Sloveens
+    se: Noord-Sami
+    sm: Samoaans
+    sn: Shona
+    sd: Sindhi
+    so: Somali
+    st: Zuid-Sothaans
+    es: Spaans
+    sc: Sardijns
+    sr: Servisch
+    ss: Swati
+    su: Soendanees
+    sw: Swahili
     sv: Zweeds
+    ty: Tahitisch
+    ta: Tamil
+    tt: Tatar
+    te: Telugu
+    tg: Tadzjieks
+    tl: Tagalog
+    th: Thai
+    bo: Tibetaans
+    ti: Tigrinya
+    to: Tonga (Tonga-eilanden)
+    tn: Tswana
+    ts: Tsonga
+    tk: Turkmeens
     tr: Turks
+    tw: Twi
+    ug: Oeigoers
     uk: Oekraïens
+    ur: Urdu
+    uz: Oezbeeks
+    ve: Venda
+    vi: Vietnamees
+    vo: Volapük
+    cy: Welsh
+    wa: Waals
+    wo: Wolof
+    xh: Xhosa
+    yi: Jiddisch
+    yo: Yoruba
+    za: Zhuang
+    zu: Zoeloe

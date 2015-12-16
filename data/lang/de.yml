@@ -1,36 +1,233 @@
 ---
+# German
+# Deutsch
 de:
   date:
-    abbr_daynames: [So, Mo, Di, Mi, Do, Fr, Sa]
-    abbr_monthnames: [Jan, Feb, Mär, Apr, Mai, Jun, Jul, Aug, Sep, Okt, Nov, Dez]
-    daynames: [Sonntag, Montag, Dienstag, Mittwoch, Donnerstag, Freitag, Samstag]
-    monthnames: [Januar, Februar, März, April, Mai, Juni, Juli, August, September,
-      Oktober, November, Dezember]
+    abbr_daynames:
+    - So
+    - Mo
+    - Di
+    - Mi
+    - Do
+    - Fr
+    - Sa
+    abbr_monthnames:
+    - Jan
+    - Feb
+    - Mär
+    - Apr
+    - Mai
+    - Jun
+    - Jul
+    - Aug
+    - Sep
+    - Okt
+    - Nov
+    - Dez
+    daynames:
+    - Sonntag
+    - Montag
+    - Dienstag
+    - Mittwoch
+    - Donnerstag
+    - Freitag
+    - Samstag
+    monthnames:
+    - Januar
+    - Februar
+    - März
+    - April
+    - Mai
+    - Juni
+    - Juli
+    - August
+    - September
+    - Oktober
+    - November
+    - Dezember
   lang:
+    aa: Afar
+    ab: Abchasisch
+    af: Afrikaans
+    ak: Akan
+    sq: Albanisch
+    am: Amharisch
+    ar: Arabisch
+    an: Aragonesisch
+    hy: Armenisch
+    as: Assamesisch
+    av: Awarisch
+    ae: Avestisch
+    ay: Aymara
+    az: Aserbaidschanisch
+    ba: Baschkirisch
+    bm: Bambara
+    eu: Baskisch
+    be: Weißrussisch
+    bn: Bengalisch
+    bh: Bihari-Sprachen
+    bi: Bislama
+    bs: Bosnisch
+    br: Bretonisch
     bg: Bulgarisch
+    my: Burmesisch
+    ca: Katalanisch
+    ch: Chamorro
+    ce: Tschetschenisch
+    zh: Chinesisch
+    cu: Church Slavic
+    cv: Tschuwaschisch
+    kw: Kornisch
+    co: Korsisch
+    cr: Cree
     cs: Tschechisch
     da: Dänisch
-    de: Deutsch
-    el: Griechisch
+    dv: Dhivehi
+    nl: Niederländisch
+    dz: Dzongkha
     en: Englisch
-    es: Spanisch
+    eo: Esperanto
     et: Estnisch
+    ee: Ewe-Sprache
+    fo: Färöisch
+    fj: Fidschianisch
     fi: Finnisch
     fr: Französisch
+    fy: Westfriesisch
+    ff: Ful
+    ka: Georgisch
+    de: Deutsch
+    gd: Gälisch
+    ga: Irisch
+    gl: Galizisch
+    gv: Manx
+    el: Neugriechisch
+    gn: Guaraní
+    gu: Gujarati
+    ht: Haitianisch
+    ha: Haussa
+    he: Hebräisch
+    hz: Herero
+    hi: Hindi
+    ho: Hiri-Motu
     hr: Kroatisch
     hu: Ungarisch
+    ig: Ibo
     is: Isländisch
+    io: Ido
+    ii: Sichuan Yi
+    iu: Inuktitut
+    ie: Interlingua
+    ia: Interlingua
+    id: Indonesisch
+    ik: Inupiaq
     it: Italienisch
+    jv: Javanisch
     ja: Japanisch
-    lt: Litauisch
+    kl: Kalaallisut
+    kn: Kannada
+    ks: Kaschmirisch
+    kr: Kanuri
+    kk: Kasachisch
+    km: Khmer-Sprache
+    ki: Kikuyu
+    rw: Kinyarwanda
+    ky: Kirgisisch
+    kv: Komi
+    kg: Kongo
+    ko: Koreanisch
+    kj: Kwanyama
+    ku: Kurdisch
+    lo: Laotisch
+    la: Lateinisch
     lv: Lettisch
-    nl: Niederländisch
+    li: Limburgisch
+    ln: Lingala
+    lt: Litauisch
+    lb: Luxemburgisch
+    lu: Luba-Katanga
+    lg: Ganda
+    mk: Makedonisch
+    mh: Marschallesisch
+    ml: Malayalam
+    mi: Maori
+    mr: Marathi
+    ms: Malaiisch
+    mg: Malagasi
+    mt: Maltesisch
+    mo: Moldawisch
+    mn: Mongolisch
+    na: Nauruisch
+    nv: Navajo
+    nr: Süd-Ndebele
+    nd: Nord-Ndebele
+    ng: Ndonga
+    ne: Nepali
+    nn: Neu-Norwegisch
+    nb: Norwegisch (Bokmål)
+    no: Norwegisch
+    ny: Chichewa
+    oc: Okzitanisch
+    oj: Ojibwa
+    or: Orija
+    om: Oromo
+    os: Ossetisch
+    pa: Panjabi
+    fa: Persisch
+    pi: Pali
     pl: Polnisch
     pt: Portugiesisch
+    ps: Paschtunisch
+    qu: Quechua
+    rm: Bündnerromanisch
     ro: Rumänisch
+    rn: Kirundi
     ru: Russisch
+    sg: Sango
+    sa: Sanskrit
+    si: Singhalesisch
     sk: Slowakisch
     sl: Slowenisch
+    se: Samisch (Nord)
+    sm: Samoanisch
+    sn: Schona
+    sd: Sindhi
+    so: Somali
+    st: Sotho (Süd)
+    es: Spanisch (Kastilisch)
+    sc: Sardisch
+    sr: Serbisch
+    ss: Swazi
+    su: Sundanesisch
+    sw: Suaheli
     sv: Schwedisch
+    ty: Tahitisch
+    ta: Tamilisch
+    tt: Tatarisch
+    te: Telugu
+    tg: Tadschikisch
+    tl: Tagalog
+    th: Thai
+    bo: Tibetisch
+    ti: Tigrinja
+    to: Tonga
+    tn: Tswana
+    ts: Tsonga
+    tk: Turkmenisch
     tr: Türkisch
+    tw: Twi
+    ug: Uigurisch
     uk: Ukrainisch
+    ur: Urdu
+    uz: Usbekisch
+    ve: Venda
+    vi: Vietnamesisch
+    vo: Volapük
+    cy: Walisisch
+    wa: Wallonisch
+    wo: Wolof
+    xh: Xhosa
+    yi: Jiddisch
+    yo: Joruba
+    za: Zhuang
+    zu: Zulu
