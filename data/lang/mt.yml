@@ -48,13 +48,13 @@ mt:
   lang:
     aa: Afar
     ab: Ażerbajġani
-    af: Afrikaans
-    ak: Ażerbajġani
-    sq: Ażerbajġani
-    am: Għarbi
+    af: Afrikans
+    ak: Akan
+    sq: Albaniż
+    am: Amħariku
     ar: Għarbi
     an: Aragonese
-    hy: Rumen
+    hy: Armenjan
     as: Assamese
     av: Għarbi
     ae: Avestan
@@ -67,11 +67,11 @@ mt:
     bn: Bengali
     bh: Tupi languages
     bi: Bislama
-    bs: Rumen
+    bs: Bosnijak
     br: Breton
     bg: Bulgaru
     my: Burmiż
-    ca: Catalan
+    ca: katalan
     ch: Ċamorro
     ce: Kżekk
     zh: Ċiniż
@@ -83,7 +83,7 @@ mt:
     cs: Kżekk
     da: Daniż
     dv: Divehi
-    nl: Dutch
+    nl: Olandiż
     dz: Dżongka
     en: Ingliż (UK)
     eo: Esperanto
@@ -95,18 +95,18 @@ mt:
     fr: Franċiż
     fy: Ukranjan
     ff: Fulaħ
-    ka: Ġermaniż
+    ka: Ġorġjan
     de: Ġermaniż
     gd: Gaelic
     ga: Irlandiż
     gl: Galiċian
     gv: Manks
-    el: Greek
-    gn: Bulgaru
+    el: Grieg
+    gn: Gwarani
     gu: Guġarati
-    ht: Haitian
+    ht: Haiti
     ha: Ħawsa
-    he: Lhudi
+    he: Ebrajk
     hz: Lhudi
     hi: Ħindi
     ho: Tork
@@ -119,27 +119,27 @@ mt:
     iu: Inukitut
     ie: Interlingue
     ia: Interlingua
-    id: Bożniaku
+    id: Indoneżjan
     ik: Inupjak
     it: Taljan
-    jv: Ġappuniż
+    jv: Ġavaniż
     ja: Ġappuniż
     kl: Kalaallisut
     kn: Kannada
     ks: Kaxmiri
     kr: Tork
     kk: Każak
-    km: Central Khmer
+    km: Khmer ċentrali
     ki: Kikuju
     rw: Kinjarwanda
     ky: Kirgiż
     kv: Komi
     kg: Kongo
-    ko: Korean
+    ko: Korejan
     kj: Kuanyama
-    ku: Tork
+    ku: Kurd
     lo: Lao
-    la: Latvjan
+    la: Latin
     lv: Latvjan
     li: Limburgan
     ln: Lingaljan
@@ -151,7 +151,7 @@ mt:
     mh: Malti
     ml: Malajalam
     mi: Maori
-    mr: Maori
+    mr: Marati
     ms: Malajan
     mg: Malagażi
     mt: Malti
@@ -165,37 +165,37 @@ mt:
     ne: Nepaliż
     nn: Norveġiż (Nynorsk)
     nb: Norwegian Bokmål
-    no: Korean
+    no: Norveġiż
     ny: Chichewa
-    oc: Occitan
+    oc: Oċċitan
     oj: Oġibwa
     or: Orija
     om: Oromo (Afan)
-    os: Russu
+    os: Ossetiana
     pa: Panjabi
-    fa: Serb
-    pi: Pollakk
+    fa: Persjan
+    pi: Pali
     pl: Pollakk
     pt: Portugiż
     ps: Pushto
     qu: Keċwa
-    rm: Rumen
+    rm: Romanz
     ro: Rumen
     rn: Rundi
     ru: Russu
     sg: Sango
     sa: Sanskrit
-    si: Dwieli
+    si: Sinħaliż
     sk: Slovakk
     sl: Sloven
     se: Sami ta' Fuq
     sm: Samojan
-    sn: XChat
+    sn: Shona
     sd: Sindi
     so: Somali
     st: t'Isfel Soto
-    es: Spanish
-    sc: Maċedonjan
+    es: Spanjol
+    sc: Sardinjan
     sr: Serb
     ss: Swati
     su: Sundaniż
@@ -221,13 +221,13 @@ mt:
     ur: Urdu
     uz: Użbek
     ve: Venda
-    vi: Dwieli
-    vo: Volapük
+    vi: Vjetnamiż
+    vo: Volapuk
     cy: Welsh
     wa: Walloon
     wo: Wolof
-    xh: XChat
+    xh: Xħosaniż
     yi: Jiddix
     yo: Joruba
     za: Zhuang
-    zu: Ġulja
+    zu: Żulu

@@ -71,11 +71,11 @@ sv:
     br: Bretonska
     bg: Bulgariska
     my: Burmanska
-    ca: Catalan
+    ca: Katalanska
     ch: Chamorro
     ce: Tjetjenska
     zh: Kinesiska
-    cu: Church Slavic
+    cu: Kyrkslaviska
     cv: Tjuvasjiska
     kw: Korniska
     co: Korsikanska
@@ -83,7 +83,7 @@ sv:
     cs: Tjeckiska
     da: Danska
     dv: Divehi
-    nl: Dutch
+    nl: Nederländska
     dz: Bhutanesiska (Dzongkha)
     en: Engelska
     eo: Esperanto
@@ -117,10 +117,10 @@ sv:
     io: Ido
     ii: Sichuan Yi
     iu: Inuktitut
-    ie: Interlingue
+    ie: Occidental
     ia: Interlingua
     id: Indonesiska
-    ik: Inupiaq
+    ik: Iñupiaq
     it: Italienska
     jv: Javanska
     ja: Japanska
@@ -129,7 +129,7 @@ sv:
     ks: Kashmiri
     kr: Kanuri
     kk: Kazakiska
-    km: Central Khmer
+    km: Kambodjanska
     ki: Kikuyu
     rw: Rwanda
     ky: Kirgisiska
@@ -162,7 +162,7 @@ sv:
     nr: Ndebele, syd
     nd: Ndebele, nord
     ng: Ndonga
-    ne: Nepali
+    ne: Nepalesiska
     nn: Nynorsk
     nb: Norwegian Bokmål
     no: Norska
@@ -192,8 +192,8 @@ sv:
     sm: Samoanska
     sn: Shona
     sd: Sindhi
-    so: Somali
-    st: Sotho, syd
+    so: Somaliska
+    st: Sesotho
     es: Spanska
     sc: Sardiska
     sr: Serbiska
@@ -210,8 +210,8 @@ sv:
     th: Thailändska
     bo: Tibetanska
     ti: Tigrinja
-    to: Tonga
-    tn: Tswana
+    to: Tonganska
+    tn: Setswana
     ts: Tsonga
     tk: Turkmeniska
     tr: Turkiska
@@ -222,7 +222,7 @@ sv:
     uz: Uzbekiska
     ve: Venda
     vi: Vietnamesiska
-    vo: Volapük
+    vo: Volapyk
     cy: Kymriska
     wa: Vallonska
     wo: Wolof

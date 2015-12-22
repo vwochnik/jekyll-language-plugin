@@ -52,12 +52,12 @@ lo:
     ak: Akan
     sq: Albanian
     am: Amharic
-    ar: Arabic
+    ar: ພາສາອາຣັບ
     an: Aragonese
     hy: Armenian
     as: Assamese
     av: Avaric
-    ae: Avestan
+    ae: ພາສາຝະລັ່ງ
     ay: Aymara
     az: Azerbaijani
     ba: Bashkir
@@ -70,11 +70,11 @@ lo:
     bs: Bosnian
     br: Breton
     bg: Bulgarian
-    my: Burmese
+    my: ພາສາພະມ້າ 
     ca: Catalan
     ch: Chamorro
     ce: Chechen
-    zh: Chinese
+    zh: ພາສາຈີນ  
     cu: Church Slavic
     cv: Chuvash
     kw: Cornish
@@ -85,14 +85,14 @@ lo:
     dv: Divehi
     nl: Dutch
     dz: Dzongkha
-    en: English
+    en: ພາສາອັງກິດ
     eo: Esperanto
     et: Estonian
     ee: Ewe
     fo: Faroese
     fj: Fijian
     fi: Finnish
-    fr: French
+    fr: ພາສາຝະລັ່ງ
     fy: Western Frisian
     ff: Fulah
     ka: Georgian
@@ -135,10 +135,10 @@ lo:
     ky: Kirghiz
     kv: Komi
     kg: Kongo
-    ko: Korean
+    ko: ພາສາເກົາຫຼີ
     kj: Kuanyama
     ku: Kurdish
-    lo: Lao
+    lo: ພາສາລາວ
     la: Latin
     lv: Latvian
     li: Limburgan
@@ -182,7 +182,7 @@ lo:
     rm: Romansh
     ro: Romanian
     rn: Rundi
-    ru: Russian
+    ru: ພາສາລັດເຊຍ
     sg: Sango
     sa: Sanskrit
     si: Sinhala
@@ -221,7 +221,7 @@ lo:
     ur: Urdu
     uz: Uzbek
     ve: Venda
-    vi: Vietnamese
+    vi: ພາສາຫວຽດນາມ
     vo: Volapük
     cy: Welsh
     wa: Walloon

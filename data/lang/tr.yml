@@ -46,7 +46,7 @@ tr:
     - Kasım
     - Aralık
   lang:
-    aa: Afar
+    aa: Afarca
     ab: Abhazca
     af: Afrikanca
     ak: Akanca (Afrika dili)
@@ -82,7 +82,7 @@ tr:
     cr: Cree (Kuzey Amerika yerlileri)
     cs: Çekçe
     da: Danca
-    dv: Divehi
+    dv: Dhivehi
     nl: Felemenkçe
     dz: Dzongkha (Butan)
     en: İngilizce
@@ -107,7 +107,7 @@ tr:
     ht: Haiti dili
     ha: Hausa
     he: İbranice
-    hz: Herero
+    hz: Hereroca
     hi: Hintçe
     ho: Hiri Motu
     hr: Hırvatça
@@ -116,13 +116,13 @@ tr:
     is: İzlandaca
     io: Ido
     ii: Sichuan Yi
-    iu: Inuktitut
+    iu: İnuitçe
     ie: Yapay dil
     ia: Interlingua
     id: Endonezce
-    ik: Inupiaq
+    ik: Inupiak
     it: İtalyanca
-    jv: Javanese
+    jv: Cava
     ja: Japonca
     kl: Kalaallisut
     kn: Kannada
@@ -131,8 +131,8 @@ tr:
     kk: Kazak Dili
     km: Merkez Khmer
     ki: Kikuyu
-    rw: Kinyarwanda
-    ky: Kirghiz
+    rw: Ruanda
+    ky: Kırgızca
     kv: Komi
     kg: Kongo
     ko: Korece
@@ -144,7 +144,7 @@ tr:
     li: Limburgan
     ln: Lingala
     lt: Litvanca
-    lb: Luxembourgish
+    lb: Lüksemburgca
     lu: Luba-Katanga
     lg: Ganda
     mk: Makedonca
@@ -157,7 +157,7 @@ tr:
     mt: Maltaca
     mo: Moldavya Dili
     mn: Moğol Dili
-    na: Nauru
+    na: Nauruca
     nv: Navajo
     nr: Güney Ndebelecesi
     nd: Kuzey Ndebelecesi
@@ -167,31 +167,31 @@ tr:
     nb: Kitap Norveççesi
     no: Norveççe
     ny: Chichewa
-    oc: Occitan
-    oj: Ojibwa
+    oc: Oksitanca
+    oj: Ojibwe
     or: Oriya
     om: Oromo
-    os: Ossetian
-    pa: Panjabi
+    os: Osetçe
+    pa: Pencabi
     fa: Farsça
     pi: Pali
     pl: Lehçe
     pt: Portekizce
-    ps: Pushto
-    qu: Quechua
-    rm: Romansh
+    ps: Peştuca
+    qu: Keçuva
+    rm: Romanş
     ro: Romence
     rn: Kirundi
     ru: Rusça
     sg: Sangho
-    sa: Sanskrit
+    sa: Sanskritçe
     si: Sinhala
     sk: Slovakça
     sl: Slovence
     se: Kuzey Sami
     sm: Samoa Dili
-    sn: Shona
-    sd: Sindhi
+    sn: Şona
+    sd: Sindhî
     so: Somali Dili
     st: Sesotho
     es: İspanyolca
@@ -204,9 +204,9 @@ tr:
     ty: Tahitice
     ta: Tamilce
     tt: Tatarca
-    te: Telugu
+    te: Teluguca
     tg: Tacikçe
-    tl: Tagalog
+    tl: Takalotça
     th: Taylandça
     bo: Tibetçe
     ti: Tigrinya
@@ -228,6 +228,6 @@ tr:
     wo: Wolof
     xh: Xhosa
     yi: Yiddiş
-    yo: Yoruba
+    yo: Yorubaca
     za: Zhuang
-    zu: Zulu
+    zu: Zuluca

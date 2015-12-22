@@ -50,14 +50,14 @@ tl:
     ab: Abkhazian
     af: Afrikaans
     ak: Akan
-    sq: Albanian
+    sq: Albanes
     am: Amharic
-    ar: Arabic
+    ar: Arabo
     an: Aragonese
-    hy: Armenian
+    hy: Griyego
     as: Assamese
     av: Avaric
-    ae: Avestan
+    ae: Pranses
     ay: Aymara
     az: Azerbaijani
     ba: Bashkir
@@ -69,49 +69,49 @@ tl:
     bi: Bislama
     bs: Bosnian
     br: Breton
-    bg: Bulgarian
-    my: Burmese
-    ca: Catalan
+    bg: Bulgaro
+    my: Burmes
+    ca: Katalan
     ch: Chamorro
     ce: Chechen
-    zh: Chinese
+    zh: Tsino
     cu: Church Slavic
     cv: Chuvash
     kw: Cornish
     co: Corsican
     cr: Cree
     cs: Czech
-    da: Danish
+    da: Denish
     dv: Divehi
-    nl: Dutch
+    nl: Olandes
     dz: Dzongkha
-    en: English
+    en: Ingles
     eo: Esperanto
     et: Estonian
     ee: Ewe
     fo: Faroese
     fj: Fijian
     fi: Finnish
-    fr: French
+    fr: Pranses
     fy: Western Frisian
     ff: Fulah
     ka: Georgian
-    de: German
+    de: Aleman
     gd: Gaelic
-    ga: Irish
+    ga: Irlandes
     gl: Galician
     gv: Manx
-    el: Greek
+    el: Griyego
     gn: Guarani
     gu: Gujarati
     ht: Haitian
     ha: Hausa
-    he: Hebrew
+    he: Ebreo
     hz: Herero
-    hi: Hindi
+    hi: Bumbáy
     ho: Hiri Motu
-    hr: Croatian
-    hu: Hungarian
+    hr: Kroato
+    hu: Hunggarian
     ig: Igbo
     is: Icelandic
     io: Ido
@@ -121,9 +121,9 @@ tl:
     ia: Interlingua
     id: Indonesian
     ik: Inupiaq
-    it: Italian
+    it: Italyano
     jv: Javanese
-    ja: Japanese
+    ja: Hapones
     kl: Kalaallisut
     kn: Kannada
     ks: Kashmiri
@@ -135,7 +135,7 @@ tl:
     ky: Kirghiz
     kv: Komi
     kg: Kongo
-    ko: Korean
+    ko: Koreano
     kj: Kuanyama
     ku: Kurdish
     lo: Lao
@@ -150,13 +150,13 @@ tl:
     mk: Macedonian
     mh: Marshallese
     ml: Malayalam
-    mi: Maori
+    mi: Māori
     mr: Marathi
     ms: Malay
     mg: Malagasy
-    mt: Maltese
+    mt: Maltes
     mo: Moldavian
-    mn: Mongolian
+    mn: Monggolyan
     na: Nauru
     nv: Navajo
     nr: South Ndebele
@@ -173,34 +173,34 @@ tl:
     om: Oromo
     os: Ossetian
     pa: Panjabi
-    fa: Persian
+    fa: Persiyano
     pi: Pali
-    pl: Polish
-    pt: Portuguese
+    pl: Polako
+    pt: Portuges
     ps: Pushto
     qu: Quechua
     rm: Romansh
-    ro: Romanian
+    ro: Romana
     rn: Rundi
-    ru: Russian
+    ru: Ruso
     sg: Sango
-    sa: Sanskrit
+    sa: Sanskrito
     si: Sinhala
-    sk: Slovak
-    sl: Slovenian
+    sk: Eslobak
+    sl: Eslobenyan
     se: Northern Sami
     sm: Samoan
     sn: Shona
     sd: Sindhi
     so: Somali
     st: Southern Sotho
-    es: Spanish
+    es: Kastila
     sc: Sardinian
-    sr: Serbian
+    sr: Serbyo
     ss: Swati
     su: Sundanese
     sw: Swahili
-    sv: Swedish
+    sv: Suwiso
     ty: Tahitian
     ta: Tamil
     tt: Tatar
@@ -214,20 +214,20 @@ tl:
     tn: Tswana
     ts: Tsonga
     tk: Turkmen
-    tr: Turkish
+    tr: Turko
     tw: Twi
     ug: Uighur
     uk: Ukrainian
     ur: Urdu
-    uz: Uzbek
+    uz: Uzbeko
     ve: Venda
     vi: Vietnamese
     vo: Volapük
-    cy: Welsh
+    cy: Gales
     wa: Walloon
     wo: Wolof
     xh: Xhosa
-    yi: Yiddish
+    yi: Yidish
     yo: Yoruba
     za: Zhuang
     zu: Zulu

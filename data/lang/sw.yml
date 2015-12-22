@@ -47,104 +47,104 @@ sw:
     - Mwezi wa kumi na mbili
   lang:
     aa: Afar
-    ab: Abkhazian
+    ab: Kiabkhazi
     af: Afrikaans
     ak: Akan
-    sq: Albanian
-    am: Amharic
-    ar: Arabic
-    an: Aragonese
-    hy: Armenian
-    as: Assamese
+    sq: Kialbania
+    am: Kiamhara
+    ar: kiarabu
+    an: Kiswahili
+    hy: Kiarmenia
+    as: Kiassam
     av: Avaric
     ae: Avestan
     ay: Aymara
     az: Azerbaijani
     ba: Bashkir
-    bm: Bambara
-    eu: Basque
-    be: Belarusian
-    bn: Bengali
-    bh: Bihari languages
+    bm: Kibambara
+    eu: Kibaski
+    be: Kibelarus
+    bn: Kibungala
+    bh: Lugha Bihari
     bi: Bislama
-    bs: Bosnian
+    bs: Kibosnia
     br: Breton
-    bg: Bulgarian
-    my: Burmese
-    ca: Catalan
+    bg: Kibulgaria
+    my: Kiburma
+    ca: Kikatalan
     ch: Chamorro
     ce: Chechen
-    zh: Chinese
+    zh: Kichina
     cu: Church Slavic
     cv: Chuvash
     kw: Cornish
-    co: Corsican
+    co: Kikosikani
     cr: Cree
-    cs: Czech
-    da: Danish
+    cs: Kicheki
+    da: Kideni
     dv: Divehi
-    nl: Dutch
-    dz: Dzongkha
-    en: English
-    eo: Esperanto
-    et: Estonian
-    ee: Ewe
+    nl: Kiholanzi
+    dz: Kizongkha
+    en: Kiingereza
+    eo: kiesperanto
+    et: Kiestonia
+    ee: Kiwe
     fo: Faroese
     fj: Fijian
-    fi: Finnish
-    fr: French
+    fi: Kifinlandia
+    fr: Kifaransa
     fy: Western Frisian
     ff: Fulah
     ka: Georgian
-    de: German
+    de: Kijerumani
     gd: Gaelic
-    ga: Irish
+    ga: Kiairish
     gl: Galician
     gv: Manx
-    el: Greek
+    el: Kigiriki
     gn: Guarani
-    gu: Gujarati
-    ht: Haitian
-    ha: Hausa
-    he: Hebrew
+    gu: Kigujarati
+    ht: Kihaiti
+    ha: Kihausa
+    he: Kiebrania
     hz: Herero
-    hi: Hindi
+    hi: Kihindi
     ho: Hiri Motu
-    hr: Croatian
-    hu: Hungarian
+    hr: Kikroatia
+    hu: Kihungaria
     ig: Igbo
-    is: Icelandic
+    is: Kiaisilandi
     io: Ido
     ii: Sichuan Yi
     iu: Inuktitut
     ie: Interlingue
     ia: Interlingua
-    id: Indonesian
+    id: Kiindonesia
     ik: Inupiaq
-    it: Italian
+    it: Kiitalia
     jv: Javanese
-    ja: Japanese
+    ja: Kijapani
     kl: Kalaallisut
-    kn: Kannada
+    kn: Kikannada
     ks: Kashmiri
     kr: Kanuri
-    kk: Kazakh
-    km: Central Khmer
+    kk: Kikazaki
+    km: Kati Khmer
     ki: Kikuyu
     rw: Kinyarwanda
-    ky: Kirghiz
+    ky: Kikirigizi
     kv: Komi
     kg: Kongo
-    ko: Korean
+    ko: Kikorea
     kj: Kuanyama
     ku: Kurdish
     lo: Lao
-    la: Latin
-    lv: Latvian
+    la: Kilatini
+    lv: Kilatvia
     li: Limburgan
-    ln: Lingala
-    lt: Lithuanian
-    lb: Luxembourgish
+    ln: Kilingala
+    lt: Kilithuania
+    lb: Kitatari
     lu: Luba-Katanga
     lg: Ganda
     mk: Macedonian
@@ -152,82 +152,82 @@ sw:
     ml: Malayalam
     mi: Maori
     mr: Marathi
-    ms: Malay
-    mg: Malagasy
+    ms: Kimalasia
+    mg: Kibukini
     mt: Maltese
     mo: Moldavian
-    mn: Mongolian
+    mn: Kimongolia
     na: Nauru
-    nv: Navajo
+    nv: Kinavaho
     nr: South Ndebele
     nd: North Ndebele
     ng: Ndonga
-    ne: Nepali
+    ne: Kinepali
     nn: Norwegian Nynorsk
     nb: Norwegian Bokmål
     no: Norwegian
     ny: Chichewa
-    oc: Occitan
+    oc: Kiositani
     oj: Ojibwa
-    or: Oriya
+    or: Kioriya
     om: Oromo
     os: Ossetian
     pa: Panjabi
-    fa: Persian
+    fa: Kiajemi
     pi: Pali
-    pl: Polish
-    pt: Portuguese
+    pl: Kipoland
+    pt: Kireno
     ps: Pushto
     qu: Quechua
-    rm: Romansh
-    ro: Romanian
-    rn: Rundi
-    ru: Russian
+    rm: Kiromanshi
+    ro: Kiromania
+    rn: Kirundi
+    ru: kirusi
     sg: Sango
-    sa: Sanskrit
+    sa: Kisanskrit
     si: Sinhala
-    sk: Slovak
-    sl: Slovenian
-    se: Northern Sami
-    sm: Samoan
+    sk: Kislovakia
+    sl: Kislovenia
+    se: Kisami cha
+    sm: Kisamoa
     sn: Shona
-    sd: Sindhi
-    so: Somali
-    st: Southern Sotho
-    es: Spanish
+    sd: Msindhi
+    so: Kisomali
+    st: Kisotho cha Kusini
+    es: Kihispania
     sc: Sardinian
-    sr: Serbian
-    ss: Swati
-    su: Sundanese
-    sw: Swahili
-    sv: Swedish
-    ty: Tahitian
-    ta: Tamil
+    sr: Kiserbia
+    ss: Kiswazi
+    su: Kisundani
+    sw: Kiswahili
+    sv: Kiswidi
+    ty: Kitahiti
+    ta: Kitamil
     tt: Tatar
     te: Telugu
-    tg: Tajik
-    tl: Tagalog
-    th: Thai
-    bo: Tibetan
-    ti: Tigrinya
+    tg: Kitajiki
+    tl: Kitagalog
+    th: Kithai
+    bo: Kitibeti
+    ti: Kitigrinya
     to: Tonga
-    tn: Tswana
+    tn: Kitswana
     ts: Tsonga
-    tk: Turkmen
-    tr: Turkish
+    tk: Kiturukimeni
+    tr: Kituruki
     tw: Twi
     ug: Uighur
-    uk: Ukrainian
-    ur: Urdu
-    uz: Uzbek
+    uk: Kikraini
+    ur: Kiurdu
+    uz: Kizibeki
     ve: Venda
-    vi: Vietnamese
+    vi: Kivietinamu
     vo: Volapük
-    cy: Welsh
+    cy: Kiwelisi
     wa: Walloon
-    wo: Wolof
+    wo: Kiwolofu
     xh: Xhosa
     yi: Yiddish
-    yo: Yoruba
+    yo: Kiyoruba
     za: Zhuang
-    zu: Zulu
+    zu: Kizulu

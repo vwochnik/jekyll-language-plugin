@@ -48,7 +48,7 @@ hu:
   lang:
     aa: afar
     ab: abház
-    af: afrikaans
+    af: afrikánsz
     ak: akan
     sq: albán
     am: amhara
@@ -75,14 +75,14 @@ hu:
     ch: csamorro
     ce: csecsen
     zh: kínai
-    cu: Church Slavic
+    cu: egyházi szláv
     cv: csuvas
     kw: cornwalli
     co: korzikai
     cr: krí
     cs: cseh
     da: dán
-    dv: divehi
+    dv: dhivehi
     nl: flamand holland
     dz: dzongkha
     en: angol
@@ -102,7 +102,7 @@ hu:
     gl: galíciai
     gv: manx
     el: modern görög
-    gn: guarani
+    gn: guaranik
     gu: gudzsaráti
     ht: haiti
     ha: hausza
@@ -114,7 +114,7 @@ hu:
     hu: magyar
     ig: igbo
     is: izlandi
-    io: ido
+    io: csinálok
     ii: Szecsuán Yi
     iu: inuktitut
     ie: interlingue
@@ -124,7 +124,7 @@ hu:
     it: olasz
     jv: jávai
     ja: japán
-    kl: kalaallisut
+    kl: grönlandi
     kn: kannada
     ks: kasmíri
     kr: kanuri

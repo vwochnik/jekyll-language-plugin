@@ -47,9 +47,9 @@ oc:
   lang:
     aa: Afar
     ab: Abcaze
-    af: Afrikaans
+    af: Africans
     ak: Akan
-    sq: Albanian
+    sq: Albanés
     am: Amharic
     ar: Arabi
     an: Aragonés
@@ -59,7 +59,7 @@ oc:
     ae: Avestan
     ay: Aymara
     az: Azerbaijani
-    ba: Bashkir
+    ba: Cornic
     bm: Bambara
     eu: Basc
     be: Bielorús
@@ -70,19 +70,19 @@ oc:
     br: Breton
     bg: Bulgar
     my: Burmese
-    ca: Catalan
+    ca: Catalana
     ch: Chamorro
     ce: Chechèn
     zh: Chinés
     cu: Church Slavic
     cv: Chuvash
-    kw: Cornish
-    co: Corsican
+    kw: Cornic
+    co: Còrs
     cr: Cree
-    cs: Czech
+    cs: Chèc
     da: Danés
     dv: Divehi
-    nl: Dutch
+    nl: Neerlandés
     dz: Dzongkha
     en: Anglés
     eo: Esperanto
@@ -95,7 +95,7 @@ oc:
     fy: Western Frisian
     ff: Fulah
     ka: Georgian
-    de: German
+    de: Alemand
     gd: Gaelic
     ga: Irlandés
     gl: Galèc
@@ -142,14 +142,14 @@ oc:
     lv: Lituanian
     li: Limburgan
     ln: Lingala
-    lt: Lithuanian
+    lt: Lituanian
     lb: Luxembourgish
     lu: Luba-Katanga
     lg: Ganda
     mk: Macedonian
     mh: Marshallese
     ml: Malaialam
-    mi: Maori
+    mi: Maòri
     mr: Marathi
     ms: Malai
     mg: Malagasy
@@ -177,14 +177,14 @@ oc:
     pl: Polonés
     pt: Portugués
     ps: Pushto
-    qu: Quechua
-    rm: Romansh
+    qu: Quíchoa
+    rm: Romanch
     ro: Romanés
     rn: Rundi
     ru: Rus
     sg: Sango
     sa: Sanscrit
-    si: Sinhala
+    si: Cingalés
     sk: Eslovac
     sl: Eslovèn
     se: Northern Sami
@@ -201,7 +201,7 @@ oc:
     sw: Swahili
     sv: Suedés
     ty: Tahitian
-    ta: Tamil
+    ta: Tamol
     tt: Tatar
     te: Telugu
     tg: Tajik
@@ -223,7 +223,7 @@ oc:
     vi: Vietnamian
     vo: Volapük
     cy: Galés
-    wa: Walloon
+    wa: Valon
     wo: Wolof
     xh: Xhosa
     yi: Yiddish

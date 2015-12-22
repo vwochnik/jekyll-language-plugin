@@ -49,181 +49,181 @@ ms:
     aa: Afar
     ab: Abkhazian
     af: Afrikaans
-    ak: Afrikaans
+    ak: Akan
     sq: Albanian
-    am: Bahasa Arab
-    ar: Bahasa Arab
-    an: Faeroese
-    hy: Armenian
-    as: Assamese
-    av: Bahasa Arab
+    am: Amharic
+    ar: Arab
+    an: Aragonese
+    hy: Armenia
+    as: Assam
+    av: Avaric
     ae: Avestan
     ay: Aymara
     az: Azerbaijan
     ba: Bashkir
     bm: Bambara
     eu: Basque
-    be: Byelorussian
-    bn: Baltic
-    bh: Korean
+    be: Belarus
+    bn: Benggali
+    bh: Bihari languages
     bi: Bislama
-    bs: Romanian
+    bs: Bosnia
     br: Breton
-    bg: Bulgarian
-    my: Burmese
+    bg: Bulgari
+    my: Burma
     ca: Catalan
     ch: Chamorro
-    ce: Czech
-    zh: Chinese
-    cu: Church Slavic
+    ce: Chechen
+    zh: Cina
+    cu: Baznīcslāvu
     cv: Chuvash
-    kw: Warna
-    co: Corsican
-    cr: Greek
+    kw: Cornish
+    co: Corsica
+    cr: Cree
     cs: Czech
-    da: Danish
+    da: Denmark
     dv: Divehi
-    nl: Dutch
+    nl: Bahasa
     dz: Dzongkha
-    en: English
+    en: Inggeris
     eo: Esperanto
-    et: Estonian
+    et: Estonia
     ee: Ewe
-    fo: Faeroese
-    fj: Fijian
-    fi: Finnish
-    fr: French
-    fy: Ukrainian
+    fo: Faroe
+    fj: Fiji
+    fi: Finland
+    fr: Perancis
+    fy: Western Frisian
     ff: Fulah
-    ka: Georgian
-    de: German
+    ka: Georgia
+    de: Jerman
     gd: Gaelic
-    ga: Irish
-    gl: Galeon
-    gv: Man
+    ga: Ireland
+    gl: Galicia
+    gv: Manx
     el: Greek
     gn: Guarani
     gu: Gujarati
-    ht: Haitian
-    ha: Tangguh
-    he: Hebrew
-    hz: Hebrew
-    hi: Cari
-    ho: Cari
-    hr: Croatian
-    hu: Hungarian
+    ht: Haiti
+    ha: Hausa
+    he: Ibrani
+    hz: Herero
+    hi: Hindi
+    ho: Hiri Motu
+    hr: Croatia
+    hu: Hungary
     ig: Igbo
-    is: Icelandic
+    is: Iceland
     io: Ido
-    ii: Lithuanian
+    ii: Sichuan Yi
     iu: Inuktitut
-    ie: Rendering
+    ie: Interlingue
     ia: Interlingua
     id: Indonesia
-    ik: India
+    ik: Inupiaq
     it: Itali
-    jv: Japanese
-    ja: Japanese
+    jv: Jawa
+    ja: Jepun
     kl: Kalaallisut
     kn: Kannada
-    ks: Kashmiri
-    kr: Turkish
-    kk: Kazakh
+    ks: Kashmir
+    kr: Kanuri
+    kk: Kazakhstan
     km: Central Khmer
     ki: Kikuyu
     rw: Kinyarwanda
     ky: Kirghiz
     kv: Komi
     kg: Kongo
-    ko: Korean
+    ko: Korea
     kj: Kuanyama
-    ku: Turkish
+    ku: Kurdi
     lo: Lao
-    la: Lokasi
-    lv: Latvian
+    la: Latin
+    lv: Latvia
     li: Limburgan
-    ln: Le_gal
-    lt: Lithuanian
-    lb: Luxembourgish
+    ln: Lingala
+    lt: Lithuania
+    lb: Luxembourg
     lu: Luba-Katanga
     lg: Ganda
-    mk: Macedonian
-    mh: Salah
+    mk: Macedonia
+    mh: Marshallese
     ml: Malayalam
-    mi: Margin
+    mi: Maori
     mr: Marathi
-    ms: Bahasa Melayu
-    mg: Malagasy
-    mt: Salah
-    mo: Moldavian
-    mn: Mongolian
+    ms: Melayu
+    mg: Malagasi
+    mt: Malta
+    mo: Moldavia
+    mn: Mongolia
     na: Nauru
     nv: Navajo
     nr: South Ndebele
     nd: North Ndebele
     ng: Ndonga
-    ne: _Alias baru
-    nn: Norwegian
+    ne: Nepal
+    nn: Nynorsk Norway
     nb: Norwegian Bokmål
-    no: Norwegian
+    no: Norway
     ny: Chichewa
     oc: Occitan
     oj: Ojibwa
     or: Oriya
-    om: daripada
-    os: Russian
+    om: Oromo
+    os: Ossetia
     pa: Panjabi
-    fa: Cetak
-    pi: Polish
-    pl: Polish
+    fa: Parsi
+    pi: Pali
+    pl: Poland
     pt: Portugis
     ps: Pushto
     qu: Quechua
-    rm: Romanian
-    ro: Romanian
+    rm: Romansh
+    ro: Romania
     rn: Rundi
-    ru: Russian
+    ru: Rusia
     sg: Sango
-    sa: Sans-serif
-    si: Vietnamese
+    sa: Sanskrit
+    si: Sinhala
     sk: Slovak
-    sl: Slovenian
-    se: Northern Sami
-    sm: Samoan
+    sl: Slovenia
+    se: Sami Utara
+    sm: Samoa
     sn: Shona
     sd: Sindhi
-    so: Somali
-    st: Southern Sotho
-    es: Spanish
-    sc: Macedonian
-    sr: Serbian
+    so: Somalia
+    st: Sotho Selatan
+    es: Sepanyol
+    sc: Sardinian
+    sr: Serbia
     ss: Swati
-    su: Sundanese
+    su: Sunda
     sw: Swahili
-    sv: Swedish
-    ty: Latvian
-    ta: Thai
+    sv: Sweden
+    ty: Tahiti
+    ta: Tamil
     tt: Tatar
     te: Telugu
-    tg: Thai
+    tg: Tajik
     tl: Tagalog
-    th: Thai
-    bo: Tibetan
-    ti: Turkish
+    th: Siam
+    bo: Tibet
+    ti: Tigrinya
     to: Tonga
     tn: Tswana
     ts: Tsonga
     tk: Turkmen
-    tr: Turkish
+    tr: Turki
     tw: Twi
     ug: Uighur
-    uk: Ukrainian
+    uk: Ukraine
     ur: Urdu
-    uz: Uzbek
+    uz: Uzbekistan
     ve: Venda
-    vi: Vietnamese
+    vi: Vietnam
     vo: Volapük
-    cy: Welsh
+    cy: Wales
     wa: Walloon
     wo: Wolof
     xh: Xhosa

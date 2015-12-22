@@ -90,7 +90,7 @@ eu:
     et: Estoniera
     ee: Ewe
     fo: Faroera
-    fj: Fijian
+    fj: Fijiera
     fi: Finlandiera
     fr: Frantsesa
     fy: Mendebaldeko frisiera
@@ -116,7 +116,7 @@ eu:
     is: Islandiera
     io: Ido
     ii: Sichuan Yi
-    iu: Inuktitut
+    iu: Inuktitutera
     ie: Interlingue
     ia: Interlingua
     id: Indonesiera
@@ -164,7 +164,7 @@ eu:
     ng: Ndonga
     ne: Nepalera
     nn: Norvegiera (Nynorsk)
-    nb: Norwegian Bokmål
+    nb: Norvegiera
     no: Norvegiera
     ny: Chichewa
     oc: Okzitaniera
@@ -179,11 +179,11 @@ eu:
     pt: Portugesa
     ps: Paxtuera
     qu: Kitxua
-    rm: Romansh
+    rm: Erromantxera
     ro: Errumaniera
-    rn: Rundi
+    rn: Rundiera
     ru: Errusiera
-    sg: Sango
+    sg: Sangoera
     sa: Sanskritoa
     si: Sinhala
     sk: Eslovakiera
@@ -191,13 +191,13 @@ eu:
     se: Iparraldeko samiera
     sm: Samoera
     sn: Shona
-    sd: Sindhi
+    sd: Sindhia
     so: Somaliera
     st: Hegoaldeko sothoera
     es: Espainola
     sc: Sardiniera
     sr: Serbiera
-    ss: Swati
+    ss: Swatiera
     su: Sudanera
     sw: Swahilia
     sv: Suediera
@@ -229,5 +229,5 @@ eu:
     xh: Xhosa
     yi: Jidish
     yo: Jorubera
-    za: Zhuang
+    za: Chuan
     zu: Zuluera

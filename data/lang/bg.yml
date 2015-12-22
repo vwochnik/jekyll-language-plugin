@@ -104,36 +104,36 @@ bg:
     el: Гръцки
     gn: Гуарански
     gu: Гуджаратски
-    ht: Haitian
-    ha: Hausa
+    ht: хаитянин
+    ha: хауса
     he: Иврит
-    hz: Herero
+    hz: хереро
     hi: Хинди
     ho: Hiri Motu
     hr: Хърватски
     hu: Унгарски
-    ig: Igbo
+    ig: игбо
     is: Исландски
     io: Идо
-    ii: Sichuan Yi
+    ii: сечуански
     iu: Инуктитут
-    ie: Interlingue
-    ia: Interlingua
+    ie: оксидентал
+    ia: интерлингва
     id: Индонезийски
-    ik: Inupiaq
+    ik: инупиак
     it: Италиански
     jv: Явайски
     ja: Японски
-    kl: Kalaallisut
-    kn: Kannada
-    ks: Kashmiri
-    kr: Kanuri
+    kl: гренландски ескимоски
+    kn: каннада
+    ks: кашмирски
+    kr: канури
     kk: Казахски
     km: Кхмерски
-    ki: Kikuyu
-    rw: Kinyarwanda
+    ki: Кикую
+    rw: киняруанда
     ky: Киргизки
-    kv: Komi
+    kv: Коми
     kg: Конгоански
     ko: Корейски
     kj: Kuanyama
@@ -145,13 +145,13 @@ bg:
     ln: Lingala
     lt: Литовски
     lb: Люксембургски
-    lu: Luba-Katanga
+    lu: Люба-Katanga
     lg: Ganda
     mk: Македонски
     mh: Маршалски
-    ml: Malayalam
+    ml: малаялам
     mi: Маорски
-    mr: Marathi
+    mr: маратхи
     ms: Малайски
     mg: Малгашки
     mt: Малтийски
@@ -159,8 +159,8 @@ bg:
     mn: Монголски
     na: Науруански
     nv: Навахо
-    nr: South Ndebele
-    nd: North Ndebele
+    nr: Южна Ндебеле
+    nd: Северна Ндебеле
     ng: Ndonga
     ne: Непалски
     nn: Норвежки Нинорск
@@ -168,10 +168,10 @@ bg:
     no: Норвежки
     ny: Chichewa
     oc: Окситански
-    oj: Ojibwa
-    or: Oriya
-    om: Oromo
-    os: Ossetian
+    oj: оджибва
+    or: ория
+    om: оромо
+    os: осетинския
     pa: Panjabi
     fa: Персийски (Фарси)
     pi: Палийски
@@ -181,7 +181,7 @@ bg:
     qu: Кечуански
     rm: Романски
     ro: Румънски
-    rn: Rundi
+    rn: Руди
     ru: Руски
     sg: Sango
     sa: Санскритски
@@ -193,26 +193,26 @@ bg:
     sn: Шона
     sd: Синдхи
     so: Сомалийски
-    st: Southern Sotho
+    st: сесуто
     es: Испански
     sc: Сардински
     sr: Сръбски
     ss: Swati
-    su: Sundanese
+    su: сундански
     sw: Суахили
     sv: Шведски
-    ty: Tahitian
+    ty: Таити
     ta: Тамилски
     tt: Татарски
-    te: Telugu
-    tg: Tajik
+    te: телугу
+    tg: таджикски
     tl: Tagalog
     th: Тайвански
     bo: Тибетски
     ti: Тигриня
-    to: Tonga
-    tn: Tswana
-    ts: Tsonga
+    to: лека индийска двуколка
+    tn: тсвана
+    ts: Цонга
     tk: Туркменски
     tr: Турски
     tw: Туи
@@ -225,9 +225,9 @@ bg:
     vo: Волапюк
     cy: Уелски
     wa: Валонски
-    wo: Wolof
-    xh: Xhosa
+    wo: волоф
+    xh: кхоса
     yi: Идиш
-    yo: Yoruba
-    za: Zhuang
+    yo: йоруба
+    za: зуанг
     zu: Зулуски

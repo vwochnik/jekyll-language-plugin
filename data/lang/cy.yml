@@ -71,24 +71,24 @@ cy:
     br: Llydaweg
     bg: Bwlgareg
     my: Byrmaneg
-    ca: Catalan
+    ca: Catalaneg
     ch: Chamorro
     ce: Tsieceg
     zh: Tsieinëeg
-    cu: Church Slavic
+    cu: Church Slafeg
     cv: Chuvash
     kw: Cernyweg
     co: Corseg
     cr: Groeg
     cs: Tsieceg
     da: Daneg
-    dv: Divehi
-    nl: Dutch
+    dv: Dhivehi
+    nl: Iseldireg
     dz: Dsonca
     en: Saesneg
     eo: Esperanto
     et: Estoneg
-    ee: Ewe
+    ee: Mamogiaid
     fo: Ffaröeg
     fj: Ffijïeg
     fi: Ffinneg
@@ -101,10 +101,10 @@ cy:
     ga: Gwyddeleg
     gl: Galiseg
     gv: Manaweg
-    el: Greek
+    el: Groeg
     gn: Gwarani
     gu: Gwjwrati
-    ht: Haitian
+    ht: Creol
     ha: Hawsa
     he: Hebraeg
     hz: Hebraeg
@@ -151,7 +151,7 @@ cy:
     mh: Malteg
     ml: Malaialameg
     mi: Maori
-    mr: Marati
+    mr: Marathi
     ms: Malaieg
     mg: Malagasi
     mt: Malteg
@@ -167,7 +167,7 @@ cy:
     nb: Norwegian Bokmål
     no: Norwyeg
     ny: Chichewa
-    oc: Occitan
+    oc: Ocsitaneg
     oj: Ojibwa
     or: Orïa
     om: Oromo
@@ -185,7 +185,7 @@ cy:
     ru: Rwsieg
     sg: Sango
     sa: Sansgrit
-    si: Sinhala
+    si: Sinhaleg
     sk: Slofaceg
     sl: Slofeneg
     se: Northern Sami
@@ -193,8 +193,8 @@ cy:
     sn: Shona
     sd: Sindhi
     so: Somalieg
-    st: Southern Sotho
-    es: Spanish
+    st: Sesotheg
+    es: Sbaeneg
     sc: Macedoneg
     sr: Serbeg
     ss: Swati
@@ -224,7 +224,7 @@ cy:
     vi: Fietnameg
     vo: Volapuk
     cy: Cymraeg
-    wa: Walloon
+    wa: Walwneg
     wo: Woloff
     xh: Xhosa
     yi: Iddeweg

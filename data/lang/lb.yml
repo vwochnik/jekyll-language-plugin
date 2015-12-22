@@ -48,16 +48,16 @@ lb:
   lang:
     aa: Afar
     ab: Abkhazian
-    af: Afrikaans
+    af: Afrikanesch
     ak: Akan
     sq: Albanian
     am: Amharic
-    ar: Arabic
+    ar: Griichesch
     an: Aragonese
     hy: Armenian
     as: Assamese
     av: Avaric
-    ae: Avestan
+    ae: Franséisch
     ay: Aymara
     az: Azerbaijani
     ba: Bashkir
@@ -85,23 +85,23 @@ lb:
     dv: Divehi
     nl: Dutch
     dz: Dzongkha
-    en: English
+    en: Englesch
     eo: Esperanto
     et: Estonian
     ee: Ewe
     fo: Faroese
     fj: Fijian
     fi: Finnish
-    fr: French
+    fr: Franséisch
     fy: Western Frisian
     ff: Fulah
     ka: Georgian
-    de: German
+    de: Däitsch
     gd: Gaelic
     ga: Irish
     gl: Galician
     gv: Manx
-    el: Greek
+    el: Griichesch
     gn: Guarani
     gu: Gujarati
     ht: Haitian
@@ -110,7 +110,7 @@ lb:
     hz: Herero
     hi: Hindi
     ho: Hiri Motu
-    hr: Croatian
+    hr: Kroatesch
     hu: Hungarian
     ig: Igbo
     is: Icelandic
@@ -121,9 +121,9 @@ lb:
     ia: Interlingua
     id: Indonesian
     ik: Inupiaq
-    it: Italian
+    it: Italienesch
     jv: Javanese
-    ja: Japanese
+    ja: Japanesch
     kl: Kalaallisut
     kn: Kannada
     ks: Kashmiri
@@ -139,12 +139,12 @@ lb:
     kj: Kuanyama
     ku: Kurdish
     lo: Lao
-    la: Latin
+    la: Latäin
     lv: Latvian
     li: Limburgan
     ln: Lingala
     lt: Lithuanian
-    lb: Luxembourgish
+    lb: Lëtzebuergesch
     lu: Luba-Katanga
     lg: Ganda
     mk: Macedonian
@@ -175,14 +175,14 @@ lb:
     pa: Panjabi
     fa: Persian
     pi: Pali
-    pl: Polish
-    pt: Portuguese
+    pl: Polnesch
+    pt: Portugisesch
     ps: Pushto
     qu: Quechua
-    rm: Romansh
+    rm: Rätoromanesch
     ro: Romanian
     rn: Rundi
-    ru: Russian
+    ru: Russesch
     sg: Sango
     sa: Sanskrit
     si: Sinhala

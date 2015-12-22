@@ -48,7 +48,7 @@ es:
   lang:
     aa: Afar
     ab: Abjaziano
-    af: Afrikaans
+    af: Africaans
     ak: Akan
     sq: Albanés
     am: Ámárico
@@ -56,11 +56,11 @@ es:
     an: Aragonés
     hy: Armenio
     as: Assamais
-    av: Avaric
+    av: Avar
     ae: Avestan
     ay: Aymará
     az: Azerbayano
-    ba: Bashkir
+    ba: Baskir
     bm: Bambara
     eu: Vasco
     be: Bieloruso
@@ -75,8 +75,8 @@ es:
     ch: Chamorro
     ce: Checheno
     zh: Chino
-    cu: Church Slavic
-    cv: Chuvash
+    cu: Eslavo
+    cv: Chuvasio
     kw: Córnico
     co: Corso
     cr: Cree
@@ -94,7 +94,7 @@ es:
     fi: Finés
     fr: Francés
     fy: Frisón occidental
-    ff: Fulah
+    ff: Fula
     ka: Georgiano
     de: Alemán
     gd: Gaélico
@@ -103,7 +103,7 @@ es:
     gv: Manx [Gaélico de Manx]
     el: Griego
     gn: Guaraní
-    gu: Gujarati
+    gu: Guyaratí
     ht: Hawayano (Creole haitiano)
     ha: Haussa
     he: Hebreo
@@ -124,17 +124,17 @@ es:
     it: Italiano
     jv: Javanés
     ja: Japonés
-    kl: Kalaallisut
-    kn: Kannada
+    kl: Groenlandés
+    kn: Canarés
     ks: Kashmir
     kr: Kanuri
     kk: Kazako
     km: Camboyano (jémer) central
     ki: Gikuyu Kikuyu
-    rw: Kinyarwanda
+    rw: Ruanda
     ky: Kirghizo
     kv: Komi
-    kg: Kongo
+    kg: Kikongo
     ko: Coreano
     kj: Kuanyama
     ku: Kurdo
@@ -148,7 +148,7 @@ es:
     lu: Luba-Katanga
     lg: Ganda
     mk: Macedonio
-    mh: Marshall
+    mh: Marshalés
     ml: Malayalamo
     mi: Maorí
     mr: Marath
@@ -164,7 +164,7 @@ es:
     ng: Ndonga
     ne: Nepalés
     nn: Noruego Nynorsk
-    nb: Norwegian Bokmål
+    nb: Noruego
     no: Noruego
     ny: Chewa
     oc: Occitano
@@ -229,5 +229,5 @@ es:
     xh: Xhosa
     yi: Yidish
     yo: Yoruba
-    za: Zhuang
-    zu: Zulu
+    za: Chuan
+    zu: Zulú

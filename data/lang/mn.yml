@@ -49,7 +49,7 @@ mn:
     aa: Афаар
     ab: Абкааз
     af: Африк
-    ak: Абкааз
+    ak: Akan
     sq: Албани
     am: Амхарик
     ar: Араб
@@ -63,7 +63,7 @@ mn:
     ba: Башкир
     bm: Аямара
     eu: Баскүе
-    be: Цагаан орос
+    be: белорусс
     bn: Бенгаль
     bh: Малагас
     bi: Бислама
@@ -75,7 +75,7 @@ mn:
     ch: Чаморро
     ce: Чечень
     zh: Хятад
-    cu: Church Slavic
+    cu: Сүм славян
     cv: Чуваш
     kw: Корни
     co: Корсикан
@@ -83,7 +83,7 @@ mn:
     cs: Чех
     da: Дани
     dv: Divehi
-    nl: Dutch
+    nl: Голланди
     dz: Жонгка
     en: Англи
     eo: Аспиранто
@@ -104,7 +104,7 @@ mn:
     el: Грек
     gn: Гуяран
     gu: Гуярати
-    ht: Haitian
+    ht: Гайтийн
     ha: Хайза
     he: Еврей
     hz: Хереро
@@ -118,7 +118,7 @@ mn:
     ii: Сиху Юи
     iu: Инуктитут
     ie: Интэрлингуэ
-    ia: Interlingua
+    ia: Интерлингва
     id: Индонези
     ik: Инупиак
     it: Итали
@@ -129,7 +129,7 @@ mn:
     ks: Кашмири
     kr: Күрд
     kk: Казак
-    km: Central Khmer
+    km: Төв Хмер
     ki: Кикуюу
     rw: Кинярванда
     ky: Киргиз
@@ -159,12 +159,12 @@ mn:
     mn: Монгол
     na: Науру
     nv: Навахо
-    nr: South Ndebele
-    nd: North Ndebele
+    nr: Өмнөд Ndebele
+    nd: Хойд Ndebele
     ng: Ндонга
     ne: Непал
     nn: Норвеги (Nynorsk)
-    nb: Norwegian Bokmål
+    nb: Норвегийн Bokmål
     no: Норвеги
     ny: Chichewa
     oc: Окситан
@@ -194,7 +194,7 @@ mn:
     sd: Синди
     so: Самали
     st: Сото, Соутерн
-    es: Spanish
+    es: Испани
     sc: Сардиниан
     sr: Серби
     ss: Свати

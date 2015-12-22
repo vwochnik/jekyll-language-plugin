@@ -60,7 +60,7 @@ gl:
     ae: Avéstico
     ay: Aimará
     az: Azerí
-    ba: Bashkir
+    ba: Baskir
     bm: Bambara
     eu: Basco
     be: Bielorruso
@@ -72,10 +72,10 @@ gl:
     bg: Búlgaro
     my: Birmano
     ca: Catalán
-    ch: Chamorro
+    ch: Chamorra
     ce: Checheno
     zh: Chinés
-    cu: Church Slavic
+    cu: Eslavo Eclesiástico
     cv: Chuvache
     kw: Córnico
     co: Corso
@@ -202,12 +202,12 @@ gl:
     sw: Suahili
     sv: Sueco
     ty: Tahitiano
-    ta: Tamil
+    ta: Támil
     tt: Tártaro
-    te: Telugu
+    te: Telugúa
     tg: Taxico
     tl: Tagalo
-    th: Thai
+    th: Tai
     bo: Tibetano
     ti: Tigriñés
     to: Tonga
@@ -218,7 +218,7 @@ gl:
     tw: Twi
     ug: Uigur
     uk: Ucraíno
-    ur: Urdu
+    ur: Urdú
     uz: Uzbeco
     ve: Venda
     vi: Vietnamita

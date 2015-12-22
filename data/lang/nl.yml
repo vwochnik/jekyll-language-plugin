@@ -75,9 +75,9 @@ nl:
     ch: Chamorro
     ce: Tsjetsjeens
     zh: Chinees
-    cu: Church Slavic
+    cu: Oudkerkslavisch
     cv: Tsjoevasjisch
-    kw: Cornish
+    kw: Cornisch
     co: Corsicaans
     cr: Cree
     cs: Tsjechisch
@@ -88,19 +88,19 @@ nl:
     en: Engels
     eo: Esperanto
     et: Estlands
-    ee: Ewe
+    ee: Ooi
     fo: Faeröers
     fj: Fijisch
     fi: Fins
     fr: Frans
     fy: Fries
-    ff: Fulah
+    ff: Fula
     ka: Georgisch
     de: Duits
     gd: Gaelisch
     ga: Iers
     gl: Galiciaans
-    gv: Manx
+    gv: Manx-Gaelisch
     el: Grieks
     gn: Guarani
     gu: Gujarati
@@ -124,21 +124,21 @@ nl:
     it: Italiaans
     jv: Javaans
     ja: Japans
-    kl: Kalaallisut
+    kl: Groenlands
     kn: Kanarees Kannada
-    ks: Kashmiri
+    ks: Kasjmiri
     kr: Kanuri
     kk: Kazachs
     km: Centraal Khmer
-    ki: Kikuyu
+    ki: Gikuyu
     rw: Kinyarwanda
     ky: Kirgizisch
-    kv: Komi
-    kg: Kongo
+    kv: Zurjeens
+    kg: Kikongo
     ko: Koreaans
-    kj: Kuanyama
+    kj: Kwanyama
     ku: Koerdisch
-    lo: Lao
+    lo: Laotiaans
     la: Latijn
     lv: Lets
     li: Limburgs
@@ -168,11 +168,11 @@ nl:
     no: Noors
     ny: Tsjewa
     oc: Occitaans
-    oj: Ojibwa
+    oj: Ojibweg
     or: Oriya
     om: Oromo
     os: Ossetisch
-    pa: Panjabi
+    pa: Punjabi
     fa: Perzisch
     pi: Pali
     pl: Pools
@@ -181,29 +181,29 @@ nl:
     qu: Quechua
     rm: Romaans
     ro: Roemeens
-    rn: Rundi
+    rn: Kirundi
     ru: Russisch
     sg: Sangho
     sa: Sanskriet
-    si: Sinhala
+    si: Singalees
     sk: Slovaaks
     sl: Sloveens
     se: Noord-Sami
     sm: Samoaans
     sn: Shona
     sd: Sindhi
-    so: Somali
+    so: Somalisch
     st: Zuid-Sothaans
     es: Spaans
     sc: Sardijns
     sr: Servisch
-    ss: Swati
+    ss: Swazi
     su: Soendanees
     sw: Swahili
     sv: Zweeds
     ty: Tahitisch
     ta: Tamil
-    tt: Tatar
+    tt: Tataars
     te: Telugu
     tg: Tadzjieks
     tl: Tagalog

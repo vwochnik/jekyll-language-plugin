@@ -47,9 +47,9 @@ is:
     - desember
   lang:
     aa: Afar
-    ab: Abkhazian
-    af: Afrikaans
-    ak: Akan
+    ab: Abkasíska
+    af: Afríkanska
+    ak: Akanmál
     sq: Albanska
     am: Amharíska
     ar: Arabíska
@@ -58,7 +58,7 @@ is:
     as: Assamíska
     av: Avarísk
     ae: Avesta
-    ay: Aymara
+    ay: Aímaríska
     az: Azerbaijanska
     ba: Bashkir
     bm: Bambaríska
@@ -66,7 +66,7 @@ is:
     be: Hvítrússneska
     bn: Bengalska
     bh: Bihari tungumál
-    bi: Bislama
+    bi: Bíslama
     bs: Bosníska
     br: Bretónska
     bg: Búlgarska
@@ -75,8 +75,8 @@ is:
     ch: Chamorró
     ce: Tétjenska
     zh: Kínverska
-    cu: Church Slavic
-    cv: Chuvash
+    cu: Kirkjuslavneska
+    cv: Sjúvas
     kw: Cornish
     co: Korsíska
     cr: Cree
@@ -88,13 +88,13 @@ is:
     en: Enska
     eo: Esperantó
     et: Eistneska
-    ee: Ewe
+    ee: Anló
     fo: Færeyska
     fj: Fidjíeyska
     fi: Finnska
     fr: Franska
     fy: Vestur-frísneska
-    ff: Fulah
+    ff: Fúla
     ka: Georgíska
     de: Þýska
     gd: Gelíska
@@ -105,38 +105,38 @@ is:
     gn: Guaraní
     gu: Gujaratíska
     ht: Haítíska
-    ha: Hausa
+    ha: Hása
     he: Hebreska
-    hz: Herero
+    hz: Hereró
     hi: Hindí
     ho: Hiri Motu
     hr: Króatíska
     hu: Ungverska
-    ig: Igbo
+    ig: Ígbó
     is: Íslenska
     io: Ido
     ii: Sichuan Yi
     iu: Inuktitut
-    ie: Interlingue
+    ie: Interlingve
     ia: Interlingua
     id: Indónesíska
-    ik: Inupiaq
+    ik: Ínúpíak
     it: Ítalska
     jv: Javaneskt
     ja: Japanska
-    kl: Kalaallisut
-    kn: Kannada
+    kl: Grænlenska
+    kn: Kanaríska
     ks: Kasmírska
     kr: Kanuri
     kk: Kasakíska
     km: Mið-khmeríska
     ki: Kikuyu
-    rw: Kinyarwanda
+    rw: Kínjarvanda
     ky: Kirgisíska
-    kv: Komi
+    kv: Komíska
     kg: Kongóska
     ko: Kóreska
-    kj: Kuanyama
+    kj: Kúanjama
     ku: Kúrdíska
     lo: Laóska
     la: Latína
@@ -145,12 +145,12 @@ is:
     ln: Lingala
     lt: Litháíska
     lb: Lúxemborgíska
-    lu: Luba-Katanga
+    lu: Lúbakatanga
     lg: Ganda
     mk: Makedóníska
     mh: Marshallíska
     ml: Malasíska
-    mi: Maori
+    mi: Maoríar
     mr: Marathi
     ms: Malaíska
     mg: Malagasíska
@@ -158,7 +158,7 @@ is:
     mo: Moldóvíska
     mn: Mongólska
     na: Nárú
-    nv: Navajo
+    nv: Navajóíska
     nr: Suður-Ndebele
     nd: Norður-Ndebele
     ng: Ndonga
@@ -167,7 +167,7 @@ is:
     nb: Norskt bókmál
     no: Norska
     ny: Chichewa
-    oc: Occitan
+    oc: Oksitanska
     oj: Ojibwa
     or: Oryanska
     om: Oromo
@@ -183,7 +183,7 @@ is:
     ro: Rúmenska
     rn: Rundí
     ru: Rússneska
-    sg: Sango
+    sg: Sangó
     sa: Sanskrít
     si: Sinhala
     sk: Slóvakíska
@@ -197,7 +197,7 @@ is:
     es: Spænska
     sc: Sardiníska
     sr: Serbneska
-    ss: Swati
+    ss: Svatí
     su: Sundanese
     sw: Svahílí
     sv: Sænska
@@ -209,14 +209,14 @@ is:
     tl: Tagalog
     th: Tælenska
     bo: Tíbetska
-    ti: Tigrinya
+    ti: Tígrinja
     to: Tonga
-    tn: Tswana
+    tn: Tsúana
     ts: Tonganska
     tk: Túrkmenska
     tr: Tyrkneska
-    tw: Twi
-    ug: Uighur
+    tw: Tví
+    ug: Uyghur
     uk: Úkraínska
     ur: Úrdú
     uz: Úsbekíska
@@ -225,9 +225,9 @@ is:
     vo: Volapük
     cy: Velska
     wa: Vallónska
-    wo: Wolof
+    wo: Volof
     xh: Xhosa
     yi: Jiddíska
-    yo: Yoruba
+    yo: Jórúba
     za: Zhuang
     zu: Zúlú

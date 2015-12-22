@@ -46,21 +46,21 @@ et:
     - november
     - detsember
   lang:
-    aa: Afar
-    ab: Abkhazian
+    aa: Afari
+    ab: Abhaasi
     af: Lõuna-Aafrika
     ak: Lõuna-Aafrika
     sq: Albaania
     am: Araabia
     ar: Araabia
     an: Fääri
-    hy: Armenian
-    as: Assamese
+    hy: Armeenia
+    as: Assami
     av: Araabia
-    ae: Avestan
-    ay: Aymara
+    ae: Avesta
+    ay: Aimara
     az: Aserbaidžaani
-    ba: Bashkir
+    ba: Baškiir
     bm: Bambara
     eu: Baski
     be: Valgevene
@@ -68,43 +68,43 @@ et:
     bh: Korea
     bi: Bislama
     bs: Rumeenia
-    br: Breton
+    br: Bretooni
     bg: Bulgaaria
-    my: Burmese
-    ca: Catalan
-    ch: Chamorro
+    my: Birma
+    ca: Katalaani
+    ch: Tšamorro
     ce: Tšehhi
     zh: Hiina
-    cu: Church Slavic
-    cv: Chuvash
+    cu: Kirikuslaavi
+    cv: Tšuvaši
     kw: Värvid
-    co: Corsican
+    co: Korsika
     cr: Kreeka
     cs: Tšehhi
     da: Taani
     dv: Divehi
-    nl: Dutch
+    nl: Hollandi
     dz: Dzongkha
     en: Inglise
     eo: Esperanto
     et: Eesti
-    ee: Ewe
+    ee: Eve
     fo: Fääri
     fj: Otsi
     fi: Soome
     fr: Prantsuse
     fy: Ukraina
-    ff: Fulah
-    ka: Georgian
+    ff: Fulbe
+    ka: Gruusia
     de: Saksa
-    gd: Gaelic
+    gd: Gaeli
     ga: Iiri
     gl: Galeon
-    gv: Manx
-    el: Greek
-    gn: Guarani
-    gu: Gujarati
-    ht: Haitian
+    gv: Mani
+    el: Kreeka
+    gn: Guaraní
+    gu: Gudžarati
+    ht: Haiti
     ha: Paus
     he: Heebrea
     hz: Heebrea
@@ -112,7 +112,7 @@ et:
     ho: Otsi
     hr: Horvaatia
     hu: Ungari
-    ig: Igbo
+    ig: Ibo
     is: Islandi
     io: Ido
     ii: Leedu
@@ -122,17 +122,17 @@ et:
     id: Indoneesia
     ik: India
     it: Itaalia
-    jv: Jaapani
+    jv: Jaava
     ja: Jaapani
-    kl: Kalaallisut
+    kl: Grööni
     kn: Kannada
-    ks: Kashmiri
+    ks: Kašmiiri
     kr: Türgi
-    kk: Kazakh
-    km: Central Khmer
-    ki: Kikuyu
-    rw: Kinyarwanda
-    ky: Kirghiz
+    kk: Kasahhi
+    km: Kesk-khmeeri
+    ki: Kikuju
+    rw: Ruanda
+    ky: Kirgiis
     kv: Komi
     kg: Kongo
     ko: Korea
@@ -144,42 +144,42 @@ et:
     li: Limburgan
     ln: Le_gal
     lt: Leedu
-    lb: Luxembourgish
+    lb: Letseburgi
     lu: Luba-Katanga
     lg: Ganda
     mk: Makedoonia
     mh: ei
-    ml: Malayalam
+    ml: Malajalami
     mi: Ääred
     mr: Marathi
-    ms: Malay
-    mg: Malagasy
-    mt: ei
-    mo: Moldavian
-    mn: Mongolian
+    ms: Malai
+    mg: Malagassi
+    mt: Malta
+    mo: Moldova
+    mn: Mongoli
     na: Nauru
     nv: Navajo
-    nr: South Ndebele
-    nd: North Ndebele
+    nr: Lõuna-Ndebele
+    nd: Põhja-Ndebele
     ng: Ndonga
     ne: Nepali
     nn: Norra
-    nb: Norwegian Bokmål
+    nb: Bokmål
     no: Norra
-    ny: Chichewa
-    oc: Occitan
+    ny: Njandža
+    oc: Oksitaani
     oj: Ojibwa
-    or: Oriya
+    or: Oria
     om: alates
     os: Vene
-    pa: Panjabi
+    pa: Pandžabi
     fa: Prindi
-    pi: Poola
+    pi: Paali
     pl: Poola
     pt: Portugali
-    ps: Pushto
-    qu: Quechua
-    rm: Rumeenia
+    ps: Puštu
+    qu: Ketšua
+    rm: Retoromaani
     ro: Rumeenia
     rn: Rundi
     ru: Vene
@@ -188,46 +188,46 @@ et:
     si: Vietnami
     sk: Slovakkia
     sl: Sloveenia
-    se: Northern Sami
-    sm: Samoan
-    sn: Shona
+    se: Põhjasaami
+    sm: Samoa
+    sn: Šona
     sd: Otsi
-    so: Somali
-    st: Southern Sotho
-    es: Spanish
+    so: Somaali
+    st: Lõunasotho
+    es: Hispaania
     sc: Makedoonia
     sr: Serbia
-    ss: Swati
-    su: Sundanese
-    sw: Swahili
+    ss: Svaasi
+    su: Sunda
+    sw: Suahiili
     sv: Rootsi
     ty: Läti
     ta: Tai
-    tt: Tatar
+    tt: Tatari
     te: Telugu
     tg: Tai
-    tl: Tagalog
+    tl: Tagalogi
     th: Tai
-    bo: Tibetan
+    bo: Tiibeti
     ti: Türgi
     to: Tonga
-    tn: Tswana
+    tn: Tsvana
     ts: Tsonga
-    tk: Turkmen
+    tk: Türkmeeni
     tr: Türgi
-    tw: Twi
-    ug: Uighur
+    tw: Tvii
+    ug: Uiguuri
     uk: Ukraina
     ur: Urdu
-    uz: Uzbek
+    uz: Usbeki
     ve: Venda
     vi: Vietnami
     vo: Volapük
-    cy: Welsh
-    wa: Walloon
-    wo: Wolof
-    xh: Xhosa
-    yi: Yiddish
-    yo: Yoruba
-    za: Zhuang
-    zu: Zulu
+    cy: Kõmri
+    wa: Vallooni
+    wo: volofi
+    xh: Koosa
+    yi: Jidiši
+    yo: Joruba
+    za: Tšuangi
+    zu: Suulu

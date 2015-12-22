@@ -55,12 +55,12 @@ mi:
     ar: Reo Arapia
     an: Aragonese
     hy: Reo Romeinia
-    as: Assamese
+    as: Reo Ahamīhi
     av: Reo Arapia
     ae: Avestan
     ay: Aymara
     az: Reo Koroātia
-    ba: Bashkir
+    ba: Reo Pahikia
     bm: Bambara
     eu: Tūparu
     be: Reo Purukeria
@@ -70,27 +70,27 @@ mi:
     bs: Reo Romeinia
     br: Reo Parani Uropi-Īnia
     bg: Reo Purukeria
-    my: Burmese
+    my: Purumīhi
     ca: Catalan
     ch: Chamorro
     ce: Reo Parani
     zh: Reo Hāina
-    cu: Church Slavic
+    cu: Te Ekalesia Slavic
     cv: Chuvash
     kw: Reo Airana
     co: Reo Etonia
     cr: Reo Kariki
     cs: Reo Parani
     da: Reo Tenemaka
-    dv: Divehi
-    nl: Dutch
-    dz: Dzongkha
+    dv: Tīwehi
+    nl: Tatimana
+    dz: Ōta
     en: Reo Pākehā - Ingarangi
     eo: Reo Tiamana
     et: Reo Etonia
-    ee: Ewe
+    ee: Uha
     fo: Faroese
-    fj: Fijian
+    fj: Reo Whītī
     fi: Reo Whinarana
     fr: Reo Parani
     fy: Parani
@@ -101,7 +101,7 @@ mi:
     ga: Reo Airana
     gl: Reo Itari
     gv: Manx
-    el: Greek
+    el: Kariki
     gn: Reo Purukeria
     gu: Gujarati
     ht: Haitian
@@ -134,7 +134,7 @@ mi:
     rw: Kinyarwanda
     ky: Kirghiz
     kv: Komi
-    kg: Kongo
+    kg: Congo
     ko: Kaupapa
     kj: Kuanyama
     ku: Reo Airana
@@ -144,7 +144,7 @@ mi:
     li: Limburgan
     ln: Lingala
     lt: Reo Ītariana
-    lb: Luxembourgish
+    lb: Rakapuō
     lu: Luba-Katanga
     lg: Ganda
     mk: Reo Makerōnia
@@ -164,7 +164,7 @@ mi:
     ng: Reo Etonia
     ne: Nepali
     nn: Reo Nōwei (Nynorsk)
-    nb: Norwegian Bokmål
+    nb: Norwegian Pokemaral
     no: Kaupapa
     ny: Chichewa
     oc: Occitan
@@ -191,7 +191,7 @@ mi:
     se: Northern Sami
     sm: Samoan
     sn: Rakau
-    sd: Sindhi
+    sd: Kahamiri
     so: Somali
     st: Southern Sotho
     es: Spanish
@@ -208,19 +208,19 @@ mi:
     tg: Reo Īnia tonga
     tl: Tagalog
     th: Reo Īnia tonga
-    bo: Tibetan
+    bo: Tibet
     ti: Reo Airana
     to: Tonga
     tn: Tswana
     ts: Tsonga
     tk: Turkmen
     tr: Reo Airana
-    tw: Twi
+    tw: Tiwi
     ug: Uighur
     uk: Parani
     ur: Urdu
     uz: Uzbek
-    ve: Venda
+    ve: Weneta
     vi: Raene
     vo: Volapük
     cy: RakauTukutuku

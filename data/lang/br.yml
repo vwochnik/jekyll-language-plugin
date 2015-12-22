@@ -53,71 +53,71 @@ br:
     sq: Albaneg
     am: Amhareg
     ar: Arabeg
-    an: Aragonese
+    an: Aragoneg
     hy: Armenieg
-    as: Assamese
+    as: Asameg
     av: Avareg
-    ae: Avestan
-    ay: Aymara
+    ae: Avesteg
+    ay: Aymareg
     az: Azeri
-    ba: Bashkir
-    bm: Bambara
+    ba: Bachkireg
+    bm: Bambareg
     eu: Euskareg
     be: Belaruseg
-    bn: Bengali
+    bn: Bengaleg
     bh: Yezhoù banda
     bi: Bislama
     bs: Bosneg
     br: Brezhoneg
     bg: Bulgareg
-    my: Burmese
-    ca: Catalan
-    ch: Chamorro
+    my: Birmaneg
+    ca: Katalaneg
+    ch: Tchamoroueg
     ce: Tchetcheneg
     zh: Sinaeg
-    cu: Church Slavic
-    cv: Chuvash
+    cu: Slavek relijiel
+    cv: Tchouvacheg
     kw: Kerneveureg
     co: Korseg
     cr: Kri
     cs: Tchekeg
     da: Daneg
-    dv: Divehi
-    nl: Dutch
-    dz: Dzongkha
+    dv: Diveheg
+    nl: Nederlandeg
+    dz: Boutaneg
     en: Saozneg
     eo: Esperanteg
     et: Estoneg
-    ee: Ewe
-    fo: Faroese
-    fj: Fijian
+    ee: Eweeg
+    fo: Faeroeg
+    fj: Fidjieg
     fi: Finneg
     fr: Galleg
     fy: Yezhoù Frizek ar reter
-    ff: Fulah
+    ff: Fula
     ka: Jorjianeg
     de: Alamaneg
-    gd: Gaelic
+    gd: Gouezeleg
     ga: Iwerzhoneg
     gl: Galisianeg
-    gv: Manx
-    el: Greek
-    gn: Guarani
-    gu: Gujarati
-    ht: Haitian
-    ha: Hausa
+    gv: Manaveg
+    el: Gresianeg
+    gn: Gwaranieg
+    gu: Goudjarateg
+    ht: kreoleg Haiti
+    ha: Haousaeg
     he: Hebreeg
     hz: Herero
-    hi: Hindi
-    ho: Hiri Motu
+    hi: Hindeg
+    ho: Hirimotoueg
     hr: Kroateg
     hu: Hungareg
-    ig: Igbo
+    ig: Igboeg
     is: Islandeg
     io: Ido
-    ii: Yi Sichuan
+    ii: Yidicheg
     iu: Inuktitut
-    ie: Interlingue
+    ie: Kornôgeg
     ia: Interlingua
     id: Indoneseg
     ik: Inupiaq
@@ -125,109 +125,109 @@ br:
     jv: Javaneg
     ja: Japaneg
     kl: Kalaallisut
-    kn: Kannada
-    ks: Kashmiri
+    kn: Kannadeg
+    ks: Kachmireg
     kr: Kanouri
-    kk: Kazakh
-    km: Central Khmer
-    ki: Kikuyu
+    kk: Kazakeg
+    km: Kambodjeg
+    ki: Gikouyoueg
     rw: Kinyarwanda
-    ky: Kirghiz
-    kv: Komi
-    kg: Kongo
+    ky: Kirgizeg
+    kv: Komieg-zirieg
+    kg: Kongoeg
     ko: Koreeg
     kj: Kuanyama
     ku: Kurdeg
-    lo: Lao
+    lo: Laoseg
     la: Latin
     lv: Latvieg
     li: Limburgan
     ln: Lingala
     lt: Lituaneg
-    lb: Luxembourgish
+    lb: Luksembourgeg
     lu: Luba-Katanga
     lg: Ganda
     mk: Makedoneg
-    mh: Marshall
-    ml: Malayalam
+    mh: Marchalleg
+    ml: Malayalameg
     mi: Maorieg
     mr: Maratieg
     ms: Malay
-    mg: Malagasy
+    mg: Malagasieg
     mt: Malteg
-    mo: moldovat
+    mo: Moldovat
     mn: Mongoleg
-    na: Nauru
-    nv: Navajo
+    na: Naoeroeg
+    nv: Navacʼhoeg  
     nr: South Ndebele
     nd: North Ndebele
     ng: Ndonga
-    ne: Nepali
+    ne: Nepaleg
     nn: Norvegeg Nynorsk
-    nb: Norwegian Bokmål
+    nb: Daneg-norvegeg
     no: Norvegieg
     ny: Tchitcheweg
-    oc: Occitan
-    oj: Ojibwa
-    or: Oriya
+    oc: Okitaneg
+    oj: Ojibweg
+    or: Oriyeg
     om: Oromo
     os: Oseteg
-    pa: Panjabi
+    pa: Pandjabeg
     fa: Perseg
     pi: Pali
     pl: Poloneg
     pt: Portugaleg
     ps: Pushto
-    qu: Quechua
+    qu: Ketchwaeg
     rm: Romañcheg
     ro: Roumaneg
     rn: Rundi
     ru: Rusianeg
-    sg: Sango
-    sa: Sanskrit
+    sg: Sangoeg
+    sa: Sañskriteg
     si: Singhaleg
     sk: Sloveg
     sl: Slovenieg
-    se: Northern Sami
-    sm: Samoan
+    se: Samieg an Norzh
+    sm: Samoaeg
     sn: Chona
-    sd: Sindhi
-    so: Somali
-    st: Southern Sotho
-    es: Spanish
+    sd: Sindeg
+    so: Somalieg
+    st: Sothoeg
+    es: Spagnoleg
     sc: Sardeg
     sr: Serbeg
-    ss: Swati
-    su: Sundanese
-    sw: Swahili
+    ss: Swatieg
+    su: Sundaneg
+    sw: Swahileg
     sv: Svedeg
     ty: Tahitianeg
     ta: Tamouleg
-    tt: Tatar
-    te: Telugu
+    tt: Tatareg
+    te: Skritur telougouek
     tg: Tadjik
     tl: Tagalog
     th: Thai
-    bo: Tibetan
+    bo: Tibeteg
     ti: Tigrinyaeg
-    to: Tonga
-    tn: Tswana
+    to: Tongaeg
+    tn: Tswaneg
     ts: Tsonga
-    tk: Turkmen
+    tk: Turkmeneg
     tr: Turkeg
-    tw: Twi
+    tw: Twieg
     ug: Uighur
     uk: Ukrenieg
-    ur: Urdu
-    uz: Uzbek
-    ve: Venda
+    ur: Ourdoueg
+    uz: Ouzbekeg
+    ve: Vendeg
     vi: Vietnameg
     vo: Volapük
     cy: Kembraeg
     wa: Walloneg
-    wo: Wolof
-    xh: C'hsosa
-    yi: Yiddish
-    yo: Yoruba
-    za: Zhuang
+    wo: Wolofeg
+    xh: Xhosaeg
+    yi: Yidicheg
+    yo: Yoroubeg
+    za: Djouangeg
     zu: Zouloueg

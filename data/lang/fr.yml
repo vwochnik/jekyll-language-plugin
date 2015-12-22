@@ -58,13 +58,13 @@ fr:
     as: assamais
     av: avar
     ae: avestique
-    ay: aymara
+    ay: aimara
     az: azéri
     ba: bachkir
     bm: bambara
     eu: basque
     be: biélorusse
-    bn: bengali
+    bn: bengalî
     bh: langues biharies
     bi: bichlamar
     bs: bosniaque
@@ -75,11 +75,11 @@ fr:
     ch: chamorro
     ce: tchétchène
     zh: chinois
-    cu: Church Slavic
+    cu: slavon d'église
     cv: tchouvache
     kw: cornique
     co: corse
-    cr: cree
+    cr: cri
     cs: tchèque
     da: danois
     dv: maldivien
@@ -103,7 +103,7 @@ fr:
     gv: mannois
     el: grec moderne
     gn: guarani
-    gu: gujarati
+    gu: gujarâtî
     ht: haïtien
     ha: haoussa
     he: hébreu
@@ -117,7 +117,7 @@ fr:
     io: ido
     ii: yi de Sichuan
     iu: inuktitut
-    ie: interlingue
+    ie: occidental
     ia: interlingua
     id: indonésien
     ik: inupiaq
@@ -125,7 +125,7 @@ fr:
     jv: javanais
     ja: japonais
     kl: groenlandais
-    kn: kannada
+    kn: kannara
     ks: kashmiri
     kr: kanouri
     kk: kazakh
@@ -134,9 +134,9 @@ fr:
     rw: rwanda
     ky: kirghiz
     kv: komi
-    kg: kongo
+    kg: kikongo
     ko: coréen
-    kj: kuanyama
+    kj: kwanyama
     ku: kurde
     lo: lao
     la: latin
@@ -168,7 +168,7 @@ fr:
     no: norvégien
     ny: nyanja
     oc: occitan
-    oj: ojibwa
+    oj: Ojibwé
     or: oriya
     om: galla
     os: ossète
@@ -197,7 +197,7 @@ fr:
     es: castillan
     sc: sarde
     sr: serbe
-    ss: swati
+    ss: siswati
     su: soundanais
     sw: swahili
     sv: suédois

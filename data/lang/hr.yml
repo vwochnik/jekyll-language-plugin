@@ -48,7 +48,7 @@ hr:
   lang:
     aa: afarski
     ab: abhaski
-    af: afrikaans
+    af: afrikanski
     ak: akanski
     sq: albanski
     am: amharski
@@ -75,9 +75,9 @@ hr:
     ch: Chamorro
     ce: čečenski
     zh: kineski
-    cu: Church Slavic
+    cu: crkvenoslavenski
     cv: čuvaški
-    kw: Cornish
+    kw: kornvalski
     co: korzički
     cr: krijski
     cs: češki
@@ -125,7 +125,7 @@ hr:
     jv: javanski
     ja: japanski
     kl: grenlandski
-    kn: Kannada
+    kn: kannadski
     ks: kašmirski
     kr: kanurski
     kk: kazaški
@@ -185,20 +185,20 @@ hr:
     ru: ruski
     sg: Sango
     sa: sanskrt
-    si: Sinhala
+    si: singaleški
     sk: slovački
     sl: slovenski
-    se: Northern Sami
+    se: južni sami
     sm: samoanski
     sn: Shona
     sd: Sindhi
     so: somalski
-    st: Southern Sotho
+    st: sesotski
     es: španjolski
     sc: sardinijski
     sr: srpski
     ss: Swati
-    su: Sundanese
+    su: sudanski
     sw: svahili
     sv: švedski
     ty: tahićanski
@@ -209,9 +209,9 @@ hr:
     tl: Tagalog
     th: tajlandski
     bo: tibetski
-    ti: Tigrinya
+    ti: tigrinja
     to: Tonga
-    tn: Tswana
+    tn: cvana
     ts: Tsonga
     tk: turkmenski
     tr: turski
@@ -222,12 +222,12 @@ hr:
     uz: uzbečki
     ve: Venda
     vi: vijetnamski
-    vo: Volapük
+    vo: volapuk
     cy: velški
     wa: valonski
     wo: Wolof
     xh: Xhosa
     yi: jidiš
-    yo: Yoruba
+    yo: joruba
     za: Zhuang
     zu: Zulu

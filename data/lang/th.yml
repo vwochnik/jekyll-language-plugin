@@ -53,7 +53,7 @@ th:
     sq: แอลเบเนีย
     am: อัมฮาริก
     ar: อารบิก
-    an: Aragonese
+    an: อารากอน
     hy: อาร์เมเนีย
     as: อัสสมี
     av: Avaric
@@ -75,15 +75,15 @@ th:
     ch: Chamorro
     ce: เชเชน
     zh: จีน
-    cu: Church Slavic
-    cv: Chuvash
-    kw: Cornish
-    co: Corsican
-    cr: Cree
+    cu: โบสถ์สลาฟ
+    cv: ชูวัช
+    kw: คอร์นิช
+    co: คอร์ซิกา
+    cr: เหยียบ
     cs: เช็ก
     da: เดนมาร์ก
     dv: ทิเวหี
-    nl: Dutch
+    nl: ดัตช์
     dz: ภูฏาน
     en: อังกฤษ
     eo: เอสเปอรันโต
@@ -93,16 +93,16 @@ th:
     fj: ฟิจิ
     fi: ฟินแลนด์
     fr: ฝรั่งเศส
-    fy: Western Frisian
-    ff: Fulah
+    fy: ภาษาฟริเชียน 
+    ff: ฟูลาห์
     ka: จอร์เจีย
     de: เยอรมัน
-    gd: Gaelic
+    gd: สาขา
     ga: ไอริช
     gl: กาลิเซีย
-    gv: Manx
+    gv: เกี่ยวกับเกาะแมน
     el: กรีกสมัยใหม่
-    gn: Guarani
+    gn: นี
     gu: คุชราตี
     ht: เฮติ
     ha: โฮซา
@@ -124,13 +124,13 @@ th:
     it: อิตาลี
     jv: ชวา
     ja: ญี่ปุ่น
-    kl: Kalaallisut
+    kl: ภาษากะลาลลิซุต
     kn: กัณณาท
     ks: กัศมีรี
     kr: Kanuri
     kk: คาซัคสถาน
     km: เขมรกลาง
-    ki: Kikuyu
+    ki: คิคุ
     rw: คินยารวันดา
     ky: คีร์กีซสถาน
     kv: Komi
@@ -159,8 +159,8 @@ th:
     mn: มองโกเลีย
     na: นาอูรู
     nv: นาวาโฮ
-    nr: South Ndebele
-    nd: North Ndebele
+    nr: ใต้ Ndebele
+    nd: นอร์ท Ndebele
     ng: Ndonga
     ne: เนปาล
     nn: นอร์เวย์ (นีนอร์สก์)
@@ -179,7 +179,7 @@ th:
     pt: โปรตุเกส
     ps: พาชโต
     qu: เกชัว
-    rm: Romansh
+    rm: วิตเซอร์แลนด์
     ro: โรมาเนีย
     rn: รุนดี
     ru: รัสเซีย
@@ -190,7 +190,7 @@ th:
     sl: สโลวีเนีย
     se: ซามิเหนือ
     sm: ซามัว
-    sn: Shona
+    sn: โชนา
     sd: สินธี
     so: โซมาเลีย
     st: ซูทูใต้
@@ -222,7 +222,7 @@ th:
     uz: อุซเบกิสถาน
     ve: Venda
     vi: เวียดนาม
-    vo: Volapük
+    vo: ภาษาโวลาปุก
     cy: เวลส์
     wa: วอลลูน
     wo: โวลอฟ

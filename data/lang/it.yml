@@ -47,7 +47,7 @@ it:
     - dicembre
   lang:
     aa: Afar
-    ab: Abkhazian
+    ab: Abkhazo
     af: Afrikaans
     ak: Akan
     sq: Albanese
@@ -57,7 +57,7 @@ it:
     hy: Armeno
     as: Assamese
     av: Avarico
-    ae: Avestan
+    ae: Avestico
     ay: Aymara
     az: Azero
     ba: Baschiro
@@ -70,19 +70,19 @@ it:
     bs: Bosniaco
     br: Bretone
     bg: Bulgaro
-    my: Burmese
+    my: Birmana
     ca: Valenciano Catalano
     ch: Chamorro
-    ce: Chechen
+    ce: Cecena
     zh: Cinese
     cu: Church Slavic
-    cv: Chuvash
-    kw: Cornish
+    cv: Ciuvascia
+    kw: Cornovagliese
     co: Corso
     cr: Cree
     cs: Ceco
     da: Danese
-    dv: Divehi
+    dv: Dhivehi
     nl: Olandese
     dz: Dzongkha
     en: Inglese
@@ -100,7 +100,7 @@ it:
     gd: Gaelico
     ga: Irlandese
     gl: Galiziano
-    gv: Manx
+    gv: Mannese
     el: Greco
     gn: Guarani
     gu: Gujarati
@@ -117,15 +117,15 @@ it:
     io: Ido
     ii: Sichuan Yi
     iu: Inuktitut
-    ie: Interlingue
+    ie: Occidental
     ia: Interlingua
     id: Indonesiano
     ik: Inupiaq
     it: Italiano
-    jv: Javanese
+    jv: Giavanese
     ja: Giapponese
-    kl: Kalaallisut
-    kn: Kannada
+    kl: Groenlandese
+    kn: Canarese
     ks: Kashmiri
     kr: Kanuri
     kk: Kazako
@@ -138,7 +138,7 @@ it:
     ko: Coreano
     kj: Kuanyama
     ku: Curdo
-    lo: Lao
+    lo: Laotiano
     la: Latino
     lv: Lettone
     li: Limburgan
@@ -151,9 +151,9 @@ it:
     mh: Marshallese
     ml: Malayalam
     mi: Maori
-    mr: Marathi
-    ms: Malay
-    mg: Malagasy
+    mr: Maratto
+    ms: Malese
+    mg: Malgascio
     mt: Maltese
     mo: Moldavo
     mn: Mongolo
@@ -168,7 +168,7 @@ it:
     no: Norvegese
     ny: Chichewa
     oc: Occitano
-    oj: Ojibwa
+    oj: Ojibway
     or: Oriya
     om: Oromo
     os: Osseto
@@ -185,7 +185,7 @@ it:
     ru: Russo
     sg: Sango
     sa: Sanscrito
-    si: Sinhala
+    si: Singalese
     sk: Slovacco
     sl: Sloveno
     se: Sami del Nord
@@ -197,26 +197,26 @@ it:
     es: Spagnolo
     sc: Sardo
     sr: Serbo
-    ss: Swati
-    su: Sundanese
+    ss: Siswati
+    su: Sondanese
     sw: Swahili
     sv: Svedese
     ty: Thaitiano
     ta: Tamil
     tt: Tatarico
     te: Telugu
-    tg: Tajik
+    tg: Tagico
     tl: Tagalog
     th: Thailandese
     bo: Tibetano
-    ti: Tigrinya
+    ti: Tigrigna
     to: Tonga
     tn: Tswana
     ts: Tsonga
     tk: Turcmeno
     tr: Turco
     tw: Twi
-    ug: Uighur
+    ug: Uyghur
     uk: Ucraino
     ur: Urdu
     uz: Uzbeco
@@ -230,4 +230,4 @@ it:
     yi: Yiddish
     yo: Yoruba
     za: Zhuang
-    zu: Zulu
+    zu: Zulù

@@ -61,7 +61,7 @@ sk:
     ay: aymarčina
     az: azerbajdžančina
     ba: baškirčina
-    bm: bambara
+    bm: bambarčina
     eu: baskičtina
     be: bieloruština
     bn: bengálčina
@@ -75,14 +75,14 @@ sk:
     ch: čamorčina
     ce: čečenčina
     zh: čínština
-    cu: Church Slavic
+    cu: cirkevnoslovanský jazyk
     cv: čuvaština
     kw: kornčina
     co: korzičtina
     cr: krí
     cs: čeština
     da: dánčina
-    dv: divehi
+    dv: maldivčina
     nl: holandčina
     dz: dzongkä
     en: angličtina
@@ -116,11 +116,11 @@ sk:
     is: islandčina
     io: ido
     ii: s’čchuanská ioština
-    iu: inuktitut
+    iu: inuktitutština
     ie: interlingue
     ia: interlingua
     id: indonézština
-    ik: inupiaq
+    ik: inupiakština
     it: taliančina
     jv: jávčina
     ja: japončina
@@ -226,7 +226,7 @@ sk:
     cy: waleština
     wa: valónčina
     wo: wolof
-    xh: xhosa
+    xh: xosa
     yi: jidiš
     yo: jorubčina
     za: čuangčina

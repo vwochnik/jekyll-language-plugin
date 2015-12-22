@@ -75,14 +75,14 @@ ca:
     ch: chamorro
     ce: txetxè
     zh: xinès
-    cu: Church Slavic
+    cu: eslau
     cv: txuvaix
     kw: còrnic
     co: cors
     cr: cree
     cs: txec
     da: danès
-    dv: divehi
+    dv: dhivehi
     nl: neerlandès
     dz: bhutanès
     en: anglès
@@ -105,7 +105,7 @@ ca:
     gn: guaraní
     gu: gujarati
     ht: haitià
-    ha: hausa
+    ha: haussa
     he: hebreu
     hz: herero
     hi: hindi
@@ -114,7 +114,7 @@ ca:
     hu: hongarès
     ig: igbo
     is: islandès
-    io: ido
+    io: faig
     ii: nusu
     iu: inuktitut
     ie: interlingue
@@ -133,8 +133,8 @@ ca:
     ki: kikuiu
     rw: kinyarwanda
     ky: kirguís
-    kv: komi
-    kg: Kongo
+    kv: ziriè
+    kg: Kikongo
     ko: coreà
     kj: kuanyama
     ku: kurd
@@ -158,7 +158,7 @@ ca:
     mo: moldau
     mn: mongol
     na: nauruà
-    nv: navajo
+    nv: navaho
     nr: ndebele meridional
     nd: ndebele septrentional
     ng: ndonga
@@ -168,7 +168,7 @@ ca:
     no: noruec
     ny: chichewa
     oc: occità
-    oj: ojibwa
+    oj: chippewa
     or: oriya
     om: oromo
     os: osseta
@@ -199,7 +199,7 @@ ca:
     sr: serbi
     ss: siswati
     su: sundanès
-    sw: swahili
+    sw: suahili
     sv: suec
     ty: tahitià
     ta: tàmil
@@ -210,7 +210,7 @@ ca:
     th: tai
     bo: tibetà
     ti: tigrinya
-    to: tonga
+    to: tongalès
     tn: tswana
     ts: tsonga
     tk: turcman
@@ -230,4 +230,4 @@ ca:
     yi: jiddisch
     yo: ioruba
     za: zhuang
-    zu: zulu
+    zu: zulú

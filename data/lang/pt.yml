@@ -46,173 +46,173 @@ pt:
     - Novembro
     - Dezembro
   lang:
-    aa: afar
-    ab: abkhazian
-    af: Africanos
-    ak: Africanos
+    aa: Afar
+    ab: Abecásio
+    af: Africânder
+    ak: Akan
     sq: Albanês
-    am: Arábico
+    am: Amárico
     ar: Arábico
     an: Faroês
-    hy: armênio
-    as: assamês
+    hy: Armênio
+    as: Assamês
     av: Arábico
-    ae: avéstico
-    ay: aimara
-    az: Azerbaijani
-    ba: bashkir
+    ae: Avéstico
+    ay: Aimará
+    az: Azeri
+    ba: Córnica
     bm: bambara
     eu: Basco
     be: Bielorusso
     bn: Bengali
-    bh: idiomas tupi
-    bi: bislamá
+    bh: Idiomas tupi
+    bi: Bislamá
     bs: Bósnio
     br: Bretão
     bg: Búlgaro
-    my: birmanês
+    my: Birmanês
     ca: Catalão
-    ch: chamorro
+    ch: Chamorro
     ce: Checheno
     zh: Chinês
     cu: Church Slavic
-    cv: chuvash
-    kw: Cores
+    cv: Tchuvache
+    kw: Córnico
     co: córsico
     cr: Grego
     cs: Checo
     da: Dinamarquês
-    dv: Divehi
+    dv: Maldívio
     nl: Holandês
-    dz: dzonga
+    dz: Dzonga
     en: Inglês
     eo: Esperanto
     et: Estoniano
-    ee: eve
+    ee: Eve
     fo: Faroês
-    fj: fijiano
+    fj: Fijiano
     fi: Finlandês
     fr: Francês
     fy: Ucraniano
-    ff: fula
-    ka: georgiano
+    ff: Fula
+    ka: Georgiano
     de: Alemão
     gd: Gaélico
     ga: Irlandês
     gl: Galego
     gv: Man
     el: Grego
-    gn: guarani
-    gu: guzerate
+    gn: Guarani
+    gu: Guzerate
     ht: Haitiano
-    ha: Parar
-    he: Hebreu
-    hz: Hebreu
+    ha: Haúça
+    he: Hebraico
+    hz: Hereró
     hi: Hindi
     ho: Hiri Motu
     hr: Croata
     hu: Húngaro
-    ig: ibo
+    ig: Ibo
     is: Islandês
-    io: ido
+    io: Ido
     ii: Lituano
-    iu: inuktitut
+    iu: Inuktitut
     ie: Interlingue
-    ia: Interlingua
+    ia: Interlíngua
     id: Indonésio
     ik: Indiano
     it: Italiano
     jv: Javanês
     ja: Japonês
-    kl: Kalaallisut
-    kn: canarês
-    ks: kashmiri
+    kl: Gronelandês
+    kn: Canarês
+    ks: Caxemiri
     kr: Turco
-    kk: cazaque
+    kk: Cazaque
     km: Central Khmer
-    ki: quicuio
-    rw: kinyarwanda
-    ky: quirguiz
-    kv: komi
-    kg: congolês
+    ki: Quicuio
+    rw: Kinyarwanda
+    ky: Quirguiz
+    kv: Komi
+    kg: Congolês
     ko: Coreano
     kj: Kuanyama
     ku: Curdo
-    lo: laosiano
+    lo: Laosiano
     la: Latim
     lv: Letão
     li: Limburgan
-    ln: Le_gal
+    ln: Lingala
     lt: Lituano
-    lb: luxemburguês
-    lu: luba-catanga
-    lg: luganda
+    lb: Luxemburguês
+    lu: Luba-catanga
+    lg: Luganda
     mk: Macedônio
-    mh: Falso
-    ml: malaiala
+    mh: Marshallês
+    ml: Malaiala
     mi: Maori
-    mr: marata
+    mr: Marata
     ms: Malaio
-    mg: malgaxe
-    mt: Falso
-    mo: moldávio
+    mg: Malgaxe
+    mt: Maltês
+    mo: Moldávio
     mn: Mongol
-    na: nauruano
+    na: Nauruano
     nv: Navajo
-    nr: south ndebele
-    nd: north ndebele
-    ng: dongo
+    nr: Ndebele Sul
+    nd: Norte Ndebele
+    ng: Dongo
     ne: Nepalês
     nn: Norueguês
     nb: Norwegian Bokmål
     no: Norueguês
-    ny: Chichewa
-    oc: Occitan
-    oj: ojibwa
-    or: oriya
+    ny: Cinianja
+    oc: Occitânico
+    oj: Ojíbuas
+    or: Oriá
     om: Oromo
     os: Russo
-    pa: Panjabi
+    pa: Punjabi
     fa: Persa
-    pi: Polaco
+    pi: Páli
     pl: Polaco
     pt: Português
     ps: Pushto
     qu: Quíchua
-    rm: Romêno
+    rm: Romanche
     ro: Romeno
-    rn: rundi
+    rn: Rundi
     ru: Russo
-    sg: sango
-    sa: Sans serif
+    sg: Sango
+    sa: Sânscrito
     si: Vietnamita
     sk: Eslovaco
     sl: Eslovêno
-    se: Northern sami
-    sm: Samoan
-    sn: Shona
-    sd: sindi
-    so: somali
-    st: Soto
+    se: Sami Setentrional
+    sm: Samoano
+    sn: XiChona
+    sd: Sindi
+    so: Somali
+    st: Sesotho
     es: Espanhol
     sc: Macedônio
     sr: Sérvio
-    ss: swati
-    su: sundanês
-    sw: suaíli
+    ss: Suázi
+    su: Sundanês
+    sw: Suaíli
     sv: Sueco
     ty: Letão
     ta: Tailandês
-    tt: tatar
-    te: telugu
-    tg: Tailandês
-    tl: Tagalog
+    tt: Tártaro
+    te: Telugu
+    tg: Tadjique
+    tl: Tagalo
     th: Tailandês
-    bo: tibetano
-    ti: Turco
+    bo: Tibetano
+    ti: Tigrínia
     to: Tonga
-    tn: Tswana
-    ts: Tsonga
+    tn: SeTswana
+    ts: ChiTsonga
     tk: Turcomano
     tr: Turco
     tw: Twi
@@ -220,14 +220,14 @@ pt:
     uk: Ucraniano
     ur: urdu
     uz: usbeque
-    ve: Venda
+    ve: XiVenda
     vi: Vietnamita
-    vo: Volapük
+    vo: Volapuque
     cy: Galês
-    wa: walloon
-    wo: uolofe
-    xh: xosa
-    yi: iídiche
-    yo: ioruba
+    wa: Valão
+    wo: Uolofe
+    xh: Xhosa
+    yi: Iídiche
+    yo: Iorubá
     za: Zhuang
     zu: zulu

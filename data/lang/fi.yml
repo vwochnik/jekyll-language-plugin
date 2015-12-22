@@ -72,19 +72,19 @@ fi:
     bg: bulgaria
     my: burma
     ca: katalaani
-    ch: chamorro
+    ch: Tšamorron kieli
     ce: tšetšeeni
     zh: kiina
-    cu: Church Slavic
+    cu: Kirkkoslaavi
     cv: tšuvassi
     kw: korni
     co: korsika
     cr: cree
     cs: tšekki
     da: tanska
-    dv: divehi
+    dv: divehin
     nl: hollanti
-    dz: dzongkha
+    dz: dzongkhan
     en: englanti
     eo: esperanto
     et: viro
@@ -124,9 +124,9 @@ fi:
     it: italia
     jv: jaava
     ja: japani
-    kl: kalaallisut
+    kl: grönlannin
     kn: kannada
-    ks: kashmiri
+    ks: kašmirin
     kr: kanuri
     kk: kazakki
     km: khmer
@@ -134,7 +134,7 @@ fi:
     rw: ruanda
     ky: kirgiisi
     kv: komi
-    kg: kongo
+    kg: kongon
     ko: korea
     kj: kuanjama
     ku: kurdi
@@ -149,8 +149,8 @@ fi:
     lg: ganda
     mk: makedonia
     mh: marshallinsaaret
-    ml: malayalam
-    mi: maori
+    ml: malajalam
+    mi: maorin
     mr: marathi
     ms: malaiji
     mg: malagassi
@@ -169,7 +169,7 @@ fi:
     ny: nyanja (chewa)
     oc: oksitaani
     oj: odžibwa
-    or: oriya
+    or: orija
     om: oromo
     os: osseetti
     pa: panjabi
@@ -185,12 +185,12 @@ fi:
     ru: venäjä
     sg: sango
     sa: sanskrit
-    si: sinhala
+    si: sinhali
     sk: slovakki
     sl: sloveeni
     se: pohjoissaame
     sm: samoa
-    sn: shona
+    sn: Šona
     sd: sindhi
     so: somali
     st: eteläsotho
@@ -209,10 +209,10 @@ fi:
     tl: tagalog
     th: thai
     bo: tiibetti
-    ti: tigrinya
+    ti: tigrinja
     to: Tongan tonga
     tn: tswana
-    ts: tsonga
+    ts: tsongan
     tk: turkmeeni
     tr: turkki
     tw: twi
@@ -228,6 +228,6 @@ fi:
     wo: wolof
     xh: xhosa
     yi: jiddiš
-    yo: yoruba
-    za: zhuang
+    yo: joruba
+    za: zhuangin
     zu: zulu

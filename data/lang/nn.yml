@@ -49,7 +49,7 @@ nn:
     aa: Afar
     ab: Abkhasisk
     af: Afrikaans
-    ak: Akan
+    ak: Akansk
     sq: Albansk
     am: Amharisk
     ar: Arabisk
@@ -75,15 +75,15 @@ nn:
     ch: Chamorro
     ce: Tsjetsjensk
     zh: Kinesisk
-    cu: Church Slavic
+    cu: kirkeslavisk
     cv: Tsjuvasjisk
     kw: Kornisk
     co: Korsikansk
     cr: Cree
     cs: Tsjekkisk
     da: Dansk
-    dv: Divehi
-    nl: nederlandsk
+    dv: Dhivehi
+    nl: Nederlandsk
     dz: Dzongkha
     en: Engelsk
     eo: Esperanto
@@ -100,8 +100,8 @@ nn:
     gd: Gælisk
     ga: Irsk
     gl: Galisisk
-    gv: Manx
-    el: Nygresk (etter 1453)
+    gv: Mansk
+    el: Nygresk
     gn: Guarani
     gu: Gujarati
     ht: Haitisk
@@ -133,7 +133,7 @@ nn:
     ki: Kikuyu
     rw: Kinyarwanda
     ky: Kirgisisk
-    kv: Komi
+    kv: Syrjensk
     kg: Kongo
     ko: Koreansk
     kj: Kuanyama
@@ -150,7 +150,7 @@ nn:
     mk: Makedonsk
     mh: Marshallesisk
     ml: Malayalam
-    mi: Maori
+    mi: Maorisk
     mr: Marathi
     ms: Malayisk
     mg: Gassisk
@@ -161,10 +161,10 @@ nn:
     nv: Navaho
     nr: Sør-Afrika
     nd: North Ndebele
-    ng: Ndonga
+    ng: Oshiwambo
     ne: Nepali
     nn: Norsk (nynorsk)
-    nb: Norwegian Bokmål
+    nb: Norsk bokmål
     no: Norsk
     ny: Chichewa
     oc: Oksitansk
@@ -172,7 +172,7 @@ nn:
     or: Oriya
     om: Oromo
     os: Ossetisk
-    pa: panjabi
+    pa: Panjabi
     fa: Persisk
     pi: Pali
     pl: Polsk
@@ -197,12 +197,12 @@ nn:
     es: Spansk
     sc: Sardisk
     sr: Serbisk
-    ss: Swati
+    ss: Siswati
     su: Sundanesisk
     sw: Swahili
     sv: Svensk
     ty: Tahitisk
-    ta: Tamil
+    ta: Tamilsk
     tt: Tatarisk
     te: Telugu
     tg: Tadsjikisk

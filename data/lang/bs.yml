@@ -46,65 +46,65 @@ bs:
     - novembar
     - decembar
   lang:
-    aa: Afar
+    aa: Izdaleka
     ab: Azerbejdđanski
-    af: Afrikaans
+    af: Afrikans
     ak: Azerbejdđanski
     sq: Azerbejđanski
-    am: Amharic
+    am: Amharski
     ar: Arapski
-    an: Aragonese
-    hy: Armenian
+    an: Aragonski
+    hy: Jermenski
     as: Assamese
     av: Arapski
-    ae: Avestan
+    ae: Francuski jezik
     ay: Aymara
     az: Azerbejđanski
     ba: Bashkir
     bm: Bambara
     eu: Baskijski
     be: Bjeloruski
-    bn: Bengali
+    bn: Bengalski
     bh: Korejski
     bi: Bislama
     bs: Rumunjki
     br: Bretonski
     bg: Bugarski
-    my: Burmese
-    ca: Catalan
+    my: Burmanski
+    ca: Katalonski
     ch: Chamorro
     ce: Češki
     zh: Kineski
-    cu: Church Slavic
-    cv: Chuvash
-    kw: Cornish
-    co: Corsican
+    cu: Crkvenoslavenski
+    cv: Kuvaski
+    kw: Kornvalski
+    co: Korzički
     cr: Grčki
     cs: Češki
     da: Danski
-    dv: Divehi
-    nl: Dutch
+    dv: Dioula
+    nl: Holandski
     dz: Dzongkha
     en: Engleski
     eo: Esperanto
     et: Estonski
-    ee: Ewe
-    fo: Faroese
+    ee: Ovca
+    fo: Farski
     fj: Fijian
     fi: Finski
     fr: Francuski
-    fy: Western Frisian
+    fy: Frizijski
     ff: Fulah
-    ka: Georgian
+    ka: Gruzijski
     de: Njemački
     gd: Gaelic
     ga: Irski
     gl: Galicijanski
     gv: Manx
-    el: Greek
+    el: Grčki
     gn: Guarani
     gu: Gujarati
-    ht: Haitian
+    ht: Haićanski
     ha: Hausa
     he: Hebrejski
     hz: Hebrejski
@@ -114,7 +114,7 @@ bs:
     hu: Mađjarski
     ig: Igbo
     is: Islandski
-    io: Ido
+    io: Ja radim
     ii: Litvanski
     iu: Inuktitut
     ie: Interlingue
@@ -122,17 +122,17 @@ bs:
     id: Infoneziski
     ik: Inupiaq
     it: Talijanski
-    jv: Javanese
+    jv: Javanski
     ja: Japanski
     kl: Kalaallisut
-    kn: Kannada
-    ks: Kashmiri
+    kn: Kanada
+    ks: Kašmirski
     kr: Kurdski
-    kk: Kazakh
+    kk: Kazahstanski
     km: Central Khmer
     ki: Kikuyu
     rw: Kinyarwanda
-    ky: Kirghiz
+    ky: Kirgiski
     kv: Komi
     kg: Kongo
     ko: Korejski
@@ -144,25 +144,25 @@ bs:
     li: Limburgan
     ln: Lingala
     lt: Litvanski
-    lb: Luxembourgish
+    lb: Luksemburški
     lu: Luba-Katanga
     lg: Ganda
     mk: Makedonski
     mh: Maltski
     ml: Malayalam
-    mi: Maorski
+    mi: Maor
     mr: Maorski
-    ms: Malay
-    mg: Malagasy
+    ms: Malajski
+    mg: Madagaskarski
     mt: Maltski
-    mo: Moldavian
-    mn: Mongolian
+    mo: Moldavski
+    mn: Mongolski
     na: Nauru
     nv: Navajo
     nr: South Ndebele
     nd: North Ndebele
     ng: Bosanski
-    ne: Nepali
+    ne: Nepalski
     nn: Norveški (Nynorsk)
     nb: Norwegian Bokmål
     no: Norveški
@@ -177,7 +177,7 @@ bs:
     pi: Poljski
     pl: Poljski
     pt: Portugalski
-    ps: Pushto
+    ps: Paštu
     qu: Quechua
     rm: Rumunjki
     ro: Rumunjki
@@ -188,17 +188,17 @@ bs:
     si: Vijetnamski
     sk: Slovački
     sl: Slovenski
-    se: Northern Sami
-    sm: Samoan
+    se: južni Sami
+    sm: Samoanski
     sn: Xhosa
     sd: Sindhi
-    so: Somali
-    st: Southern Sotho
-    es: Spanish
+    so: Somalski
+    st: Sesoto
+    es: Španski
     sc: Makedonski
     sr: Srpski
-    ss: Swati
-    su: Sundanese
+    ss: Svati
+    su: Sudanski
     sw: Swahili
     sv: Švedski
     ty: Latviski
@@ -210,24 +210,24 @@ bs:
     th: Tajlandski
     bo: Tibetan
     ti: Turski
-    to: Tonga
-    tn: Tswana
+    to: Laka dvokolica
+    tn: Cvana
     ts: Tsonga
-    tk: Turkmen
+    tk: Turkmenski
     tr: Turski
     tw: Twi
-    ug: Uighur
+    ug: Ujguri
     uk: Ukrajinski
     ur: Urdu
     uz: Uzbek
     ve: Venda
     vi: Vijetnamski
-    vo: Volapük
-    cy: Welsh
+    vo: Vijetnamski
+    cy: Velški
     wa: Valonski
-    wo: Wolof
+    wo: Volof
     xh: Xhosa
-    yi: Yiddish
+    yi: Jidiš
     yo: Yoruba
     za: Zhuang
     zu: Julia

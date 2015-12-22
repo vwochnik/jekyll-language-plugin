@@ -47,19 +47,19 @@ id:
     - Desember
   lang:
     aa: Afar
-    ab: Abkhazian
+    ab: Abkhazia
     af: Afrika
     ak: Akan
     sq: Albania
     am: Amharic
     ar: Arab
-    an: Aragonese
+    an: Aragon
     hy: Armenia
     as: Assam
     av: Avaric
-    ae: Avestan
+    ae: Avesta
     ay: Aymara
-    az: Azerbaijani
+    az: Azeri
     ba: Bashkir
     bm: Bambara
     eu: Basque
@@ -71,11 +71,11 @@ id:
     br: Breton
     bg: Bulgaria
     my: Burma
-    ca: Catalan
+    ca: Katalan
     ch: Chamorro
     ce: Chechen
     zh: Cina
-    cu: Church Slavic
+    cu: Gereja Slavia
     cv: Chuvash
     kw: Cornish
     co: Korsika
@@ -95,16 +95,16 @@ id:
     fr: Prancis
     fy: Frisian Bagian Barat
     ff: Fulah
-    ka: Georgian
+    ka: Georgia
     de: Jerman
-    gd: Gaelic
+    gd: Gael
     ga: Irlandia
     gl: Galicia
     gv: Manx
     el: Yunani
     gn: Guarani
     gu: Gujarati
-    ht: Haitian
+    ht: Haiti
     ha: Hausa
     he: Israel
     hz: Herero
@@ -128,34 +128,34 @@ id:
     kn: Kannada
     ks: Kashmir
     kr: Kanuri
-    kk: Kazakh
+    kk: Kazak
     km: Khmer Tengah
     ki: Kikuyu
     rw: Kinyarwanda
-    ky: Kirghiz
+    ky: Kirgiz
     kv: Komi
     kg: Kongo
     ko: Korea
     kj: Kuanyama
-    ku: Kurdish
-    lo: Lao
+    ku: Kurdi
+    lo: Laos
     la: Latin
     lv: Latvia
     li: Limburgan
     ln: Lingala
     lt: Lithuania
-    lb: Luxembourgish
+    lb: Luksemburg
     lu: Luba-Katanga
     lg: Ganda
     mk: Masedonian
-    mh: Marshallese
+    mh: Marshall
     ml: Malayalam
     mi: Maori
     mr: Marathi
-    ms: Malay
+    ms: Melayu
     mg: Malagasi
-    mt: Maltese
-    mo: Moldavian
+    mt: Malta
+    mo: Moldavia
     mn: Mongolia
     na: Nauru
     nv: Navajo
@@ -171,7 +171,7 @@ id:
     oj: Ojibwa
     or: Oriya
     om: Oromo
-    os: Ossetian
+    os: Ossetia
     pa: Panjabi
     fa: Persia
     pi: Pali
@@ -184,18 +184,18 @@ id:
     rn: Rundi
     ru: Rusia
     sg: Sango
-    sa: Sanskrit
+    sa: Sanskerta
     si: Sinhala
     sk: Slovakia
     sl: Slovenia
     se: Northern Sami
-    sm: Samoan
+    sm: Samoa
     sn: Shona
     sd: Sindhi
     so: Somali
     st: Southern Sotho
-    es: Spanish
-    sc: Sardinian
+    es: Spanyol
+    sc: Sardinia
     sr: Serbia
     ss: Swati
     su: Sundan
@@ -223,7 +223,7 @@ id:
     ve: Venda
     vi: Vietnam
     vo: Volapük
-    cy: Welsh
+    cy: Wales
     wa: Wallon
     wo: Wolof
     xh: Xhosa
