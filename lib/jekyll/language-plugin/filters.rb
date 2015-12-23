@@ -3,7 +3,8 @@
 
 module Jekyll
   module LanguagePlugin
-    class PluginError < RuntimeError
+    module Filters
+      require_relative 'filters/language_date'
     end
   end
 end

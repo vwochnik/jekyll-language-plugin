@@ -2,8 +2,7 @@
 # Encoding: utf-8
 
 module Jekyll
-  module LanguagePlugin
-    class PluginError < RuntimeError
-    end
+  class Site
+    attr_accessor :languageData
   end
 end

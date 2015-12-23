@@ -1,3 +1,6 @@
+# Frozen-string-literal: true
+# Encoding: utf-8
+
 require 'rubygems'
 require 'yaml'
 
@@ -35,5 +38,4 @@ module Jekyll
   end
 end
 
-$stdout.puts("Registering!")
 Jekyll::LanguagePlugin.register_loader(Jekyll::LanguagePlugin::Loaders::BuiltinDataLoader)
