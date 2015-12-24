@@ -1,0 +1,233 @@
+---
+# Walloon
+# walon
+wa:
+  date:
+    abbr_daynames:
+    - Dimegne
+    - Londi
+    - Mårdi
+    - Mierkidi 
+    - Djudi
+    - Vénrdi
+    - Semdi
+    abbr_monthnames:
+    - djanvî
+    - fevrî
+    - måss
+    - avri
+    - may
+    - djun
+    - djulete
+    - awousse
+    - setimbe
+    - octôbe
+    - nôvimbe
+    - decimbe
+    daynames:
+    - Dimegne
+    - Londi
+    - Mårdi
+    - Mierkidi 
+    - Djudi
+    - Vénrdi
+    - Semdi
+    monthnames:
+    - djanvî
+    - fevrî
+    - måss
+    - avri
+    - may
+    - djun
+    - djulete
+    - awousse
+    - setimbe
+    - octôbe
+    - nôvimbe
+    - decimbe
+  lang:
+    aa: Afar
+    ab: Abxhaze
+    af: Afrikaans
+    ak: Acanyin
+    sq: Albanès
+    am: Amarike
+    ar: Arabe
+    an: Aragonès
+    hy: Årmenyin
+    as: Assamès
+    av: Avarike
+    ae: Avestan
+    ay: Aymara
+    az: Azeri
+    ba: Bashkir
+    bm: Bambara
+    eu: Basse
+    be: Bielorûsse
+    bn: Bengali
+    bh: Lingaedjes bihari
+    bi: Bislama
+    bs: Bosnyin
+    br: Burton
+    bg: Bulgåre
+    my: Birman
+    ca: Catalan
+    ch: Tchamoro
+    ce: Tchetchene
+    zh: Chinwès
+    cu: Church Slavic
+    cv: Tchouvache
+    kw: Cornike
+    co: Corse
+    cr: Cri
+    cs: Tcheke
+    da: Daenwès
+    dv: Divehi
+    nl: Neyerlandès
+    dz: Boutanès
+    en: Inglès
+    eo: Esperanto
+    et: Estonyin
+    ee: Ewè
+    fo: Faeroyès
+    fj: Fidjyin
+    fi: Finwès
+    fr: Francès
+    fy: Frizon coûtchantrece
+    ff: Foula
+    ka: Djeyordjyin
+    de: Almand
+    gd: Gayel escôsswès
+    ga: Irlandès
+    gl: Galicyin
+    gv: Gayel di l' iye di Man
+    el: Grek
+    gn: Gwarani
+    gu: Goudjarati
+    ht: Hayityin
+    ha: Hawssa
+    he: Ebreu
+    hz: Herero
+    hi: Hindi
+    ho: Hiri motou
+    hr: Crowåte
+    hu: Hongrwès
+    ig: Igbo
+    is: Izlandès
+    io: Ido
+    ii: Yi do Sichuan
+    iu: Inuktitut
+    ie: Interlingue
+    ia: Interlingua
+    id: Indonezyin
+    ik: Inyupiak
+    it: Itålyin
+    jv: Djavanès
+    ja: Djaponès
+    kl: Groenlandès (Kalaallisut)
+    kn: Kannada
+    ks: Kashmiri
+    kr: Kanouri
+    kk: Kazaxh
+    km: Xhmer
+    ki: Kikouyou
+    rw: Kinyarwanda
+    ky: Kirguize
+    kv: Komi
+    kg: Kicongo
+    ko: Corêyin
+    kj: Kwanyama
+    ku: Kurde
+    lo: Lawocyin
+    la: Latén
+    lv: Letonyin
+    li: Limbordjwès
+    ln: Lingala
+    lt: Litwanyin
+    lb: Lussimbordjwès
+    lu: Louba-Katanga
+    lg: Louganda
+    mk: Macedonyin
+    mh: Marshalès
+    ml: Malayalam
+    mi: Mawori
+    mr: Marati
+    ms: Malay
+    mg: Malgache
+    mt: Malès
+    mo: Moldåve
+    mn: Mongol
+    na: Nawouryin
+    nv: Navaxho
+    nr: Ndebele nonnrece
+    nd: Ndebele bijhrece
+    ng: Ndonga
+    ne: Nepalès
+    nn: Norvedjin nynorsk
+    nb: Norvedjin bokmål
+    no: Norvedjin
+    ny: Tchitchewa
+    oc: Occitan
+    oj: Ojibwa
+    or: Oriya
+    om: Oromo
+    os: Ossetyin
+    pa: Pundjabi
+    fa: Farsi
+    pi: Pâli
+    pl: Polonès
+    pt: Portuguès
+    ps: Pashto
+    qu: Ketchwa
+    rm: Romantche
+    ro: Roumin
+    rn: Kiroundi
+    ru: Rûsse
+    sg: Sango
+    sa: Sanskrit
+    si: Sinhalès
+    sk: Eslovake
+    sl: Eslovenyin
+    se: Såmi bijhrece
+    sm: Samowan
+    sn: Shona
+    sd: Sindi
+    so: Somalyin
+    st: Soto nonnrece
+    es: Castiyan
+    sc: Sardegnyin
+    sr: Serbe
+    ss: Suwati
+    su: Sundanès
+    sw: Suwahili
+    sv: Suwedwès
+    ty: Tahityin
+    ta: Tamoul
+    tt: Tatår
+    te: Telougou
+    tg: Tadjik
+    tl: Tagalog
+    th: Taylandès
+    bo: Tibetin
+    ti: Tigrinya
+    to: Tongyin
+    tn: Tswana
+    ts: Tsonga
+    tk: Turcmene
+    tr: Turk
+    tw: Twi
+    ug: Ouygour
+    uk: Oucrinnyin
+    ur: Ourdou
+    uz: Ouzbeke
+    ve: Venda
+    vi: Vietnamyin
+    vo: Volapuk
+    cy: Walès
+    wa: Walon
+    wo: Wolof
+    xh: Xhossa
+    yi: Yidish
+    yo: Yorouba
+    za: Zhuang
+    zu: Zoulou

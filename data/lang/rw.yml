@@ -1,0 +1,233 @@
+---
+# Kinyarwanda
+# Ikinyarwanda
+rw:
+  date:
+    abbr_daynames:
+    - cyu.
+    - mbe.
+    - kab.
+    - gtu.
+    - kan.
+    - gnu.
+    - gnd.
+    abbr_monthnames:
+    - mut.
+    - gas.
+    - wer.
+    - mat.
+    - gic.
+    - kam.
+    - nya.
+    - kan.
+    - nze.
+    - ukw.
+    - ugu.
+    - uku.
+    daynames:
+    - Ku cyumweru
+    - Kuwa mbere
+    - Kuwa kabiri
+    - Kuwa gatatu
+    - Kuwa kane
+    - Kuwa gatanu
+    - Kuwa gatandatu
+    monthnames:
+    - Mutarama
+    - Gashyantare
+    - Werurwe
+    - Mata
+    - Gicuransi
+    - Kamena
+    - Nyakanga
+    - Kanama
+    - Nzeli
+    - Ukwakira
+    - Ugushyingo
+    - Ukuboza
+  lang:
+    aa: Ikinyafari
+    ab: Abukaziyani
+    af: Ikinyafurikansi
+    ak: Ikinyakani
+    sq: Ikinyalubaniya
+    am: Ikinyamarike
+    ar: Icyarabu
+    an: Icyaragoneze
+    hy: Icyarumeniya
+    as: Ikinyasamese
+    av: Ikinyavarika
+    ae: Ikinyavesitani
+    ay: Ikinyayimara
+    az: Ikinyazeribayijani
+    ba: Ikinyabashikiri
+    bm: Ikibambara
+    eu: Ikibasike
+    be: Ikibelarusiya
+    bn: Ikibengali
+    bh: Indimi za tupi
+    bi: Ikibisilamu
+    bs: Ikinyabosiniya
+    br: Ikinyabureto
+    bg: Ikinyabulugariya
+    my: Ikibarumi
+    ca: Каталонский
+    ch: Igishamoro
+    ce: Igiceceni
+    zh: Igishinwa
+    cu: Старославянский
+    cv: Igicuvashi
+    kw: Igikorunishe
+    co: Igikoruse
+    cr: Igikiri
+    cs: Ikinyaceke
+    da: Ikidanwa
+    dv: Divehi
+    nl: Нидерландский
+    dz: Ikinyazongika
+    en: Icyongereza
+    eo: Icyesiperanto
+    et: Icyesitoniya
+    ee: Icyewe
+    fo: Igifero
+    fj: Igifijiyani
+    fi: Ikinyafinilande
+    fr: Igifaransa
+    fy: Igifuriziyani
+    ff: Igifurahe
+    ka: Ikinyageworugiya
+    de: Ikidage
+    gd: Ikigalike
+    ga: Ikinyirilande
+    gl: Ikigalegani
+    gv: Ikimangisi
+    el: Ikigereki
+    gn: Ikigwarani
+    gu: Ikigujarati
+    ht: Ikinyahayiti
+    ha: Igihawusa
+    he: Igiheburayo
+    hz: Igiherero
+    hi: Igihindi
+    ho: Igihiri
+    hr: Ikinyakorowasi
+    hu: Ikinyahangariya
+    ig: Ikigibo
+    is: Ikinyisilande
+    io: Ikido
+    ii: Igisicuwanayi
+    iu: Ikinukititutu
+    ie: Ikinyenterilinge
+    ia: Интерли́нгва
+    id: Ikinyendonisiya
+    ik: Ikinupiyake
+    it: Igitaliyani
+    jv: Ikijavani
+    ja: Ikiyapani
+    kl: Гренландский
+    kn: Iginyakanada
+    ks: Igikashimiri
+    kr: Igikanuri
+    kk: Igikazaki
+    km: Кмер
+    ki: Ikikuyu
+    rw: Ikinyarwanda
+    ky: Ikirigizi
+    kv: Igikomi
+    kg: Ikinyakongo
+    ko: Igikoreya
+    kj: Igikwanyama
+    ku: Igikurudishi
+    lo: Ikilawo
+    la: Ikilatini
+    lv: Ikilativiya
+    li: Limburgan
+    ln: Ilingala
+    lt: Ikinyalitwani
+    lb: Ikinyalugizamburu
+    lu: Ikiluba-Katanga
+    lg: Ikiganda
+    mk: Ikinyamacedoniya
+    mh: Ikimarishali
+    ml: Ikimalayalamu
+    mi: Ikimawori
+    mr: Ikimarati
+    ms: Ikimalayi
+    mg: Ikimaragasi
+    mt: Ikinyamalite
+    mo: Ikinyamoludavi
+    mn: Ikinyamongoliya
+    na: Ikinawuru
+    nv: Ikinavaho
+    nr: Amajyepfo Ikindebele
+    nd: Amajyaruguru Ikindebele
+    ng: Ikindonga
+    ne: Ikinyanepale
+    nn: Ikinyanoruveji nayinorusiki
+    nb: Букмол
+    no: Ikinyanoruveji
+    ny: Igicewa
+    oc: Icyogisitani
+    oj: Icyojibwa
+    or: Icyoriya
+    om: Icyoromo
+    os: Icyosetiyani
+    pa: Igipanjabi
+    fa: Ikinyaperisi
+    pi: Igipali
+    pl: Ikinyapolonye
+    pt: Igiporutigali
+    ps: Igipushito
+    qu: Igikwecuwa
+    rm: Ikiromani
+    ro: Ikinyarumaniya
+    rn: Ikirundi
+    ru: Ikirusiya
+    sg: Igisango
+    sa: Igisansikiriti
+    si: Ikinyasinali
+    sk: Igisilovake
+    sl: Ikinyasiloveniya
+    se: Igisami amajyaruguru
+    sm: Igisamowani
+    sn: Igishona
+    sd: Igisindi
+    so: Igisomali
+    st: Amajyepfo Igisotho
+    es: Испанский
+    sc: Ikinyasaridini
+    sr: Ikinyaseribiya
+    ss: Igiswati
+    su: Ikinyasundani
+    sw: Igiswayili
+    sv: Ikinyasuwede
+    ty: Ikinyatahiti
+    ta: Igitamili
+    tt: Igitatari
+    te: Igitelugu
+    tg: Igitajika
+    tl: Igitagaloge
+    th: Igitayi
+    bo: Ikinyatibeti
+    ti: Igitigirinya
+    to: Igitonga
+    tn: Igitswana
+    ts: Igitsonga
+    tk: Igiturukimeni
+    tr: Ikinyaturukiya
+    tw: Igitwi
+    ug: Icyuyiguru
+    uk: Ikinya-ikarayini
+    ur: Icyuridu
+    uz: Icyuzubeka
+    ve: Ikivenda
+    vi: Ikinyaviyetinamu
+    vo: Ikivolapuke
+    cy: Ikiwelishi
+    wa: Ikiwaluni
+    wo: Ikiwolofu
+    xh: Ikigisosa
+    yi: Ikiyidishi
+    yo: Ikiyoruba
+    za: Igicuwange
+    zu: Ikizulu

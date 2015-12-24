@@ -1,0 +1,233 @@
+---
+# Welsh
+# Cymraeg
+cy:
+  date:
+    abbr_daynames:
+    - Sul
+    - Llun
+    - Maw
+    - Mer
+    - Iau
+    - Gwe
+    - Sad
+    abbr_monthnames:
+    - Ion
+    - Chw
+    - Maw
+    - Ebr
+    - Mai
+    - Meh
+    - Gor
+    - Awst
+    - Med
+    - Hyd
+    - Tach
+    - Rha
+    daynames:
+    - Dydd Sul
+    - Dydd Llun
+    - Dydd Mawrth
+    - Dydd Mercher
+    - Dydd Iau
+    - Dydd Gwener
+    - Dydd Sadwrn
+    monthnames:
+    - Ionawr
+    - Chwefror
+    - Mawrth
+    - Ebrill
+    - Mai
+    - Mehefin
+    - Gorffennaf
+    - Awst
+    - Medi
+    - Hydref
+    - Tachwedd
+    - Rhagfyr
+  lang:
+    aa: Affareg
+    ab: Abcaseg
+    af: Affricaneg
+    ak: Abcaseg
+    sq: Albaneg
+    am: Amhareg
+    ar: Arabeg
+    an: Ffaröeg
+    hy: Armeneg
+    as: Asameg
+    av: Amhareg
+    ae: Avestan
+    ay: Aimareg
+    az: Aserbaijani
+    ba: Bashgireg
+    bm: Aimareg
+    eu: Basgeg
+    be: Belarwseg
+    bn: Bengaleg
+    bh: Malagasi
+    bi: Bislama
+    bs: Rwmaneg
+    br: Llydaweg
+    bg: Bwlgareg
+    my: Byrmaneg
+    ca: Catalaneg
+    ch: Chamorro
+    ce: Tsieceg
+    zh: Tsieinëeg
+    cu: Church Slafeg
+    cv: Chuvash
+    kw: Cernyweg
+    co: Corseg
+    cr: Groeg
+    cs: Tsieceg
+    da: Daneg
+    dv: Dhivehi
+    nl: Iseldireg
+    dz: Dsonca
+    en: Saesneg
+    eo: Esperanto
+    et: Estoneg
+    ee: Mamogiaid
+    fo: Ffaröeg
+    fj: Ffijïeg
+    fi: Ffinneg
+    fr: Ffrangeg
+    fy: Ffriseg
+    ff: Fulah
+    ka: Georgeg
+    de: Almaeneg
+    gd: Gaeleg yr Alban
+    ga: Gwyddeleg
+    gl: Galiseg
+    gv: Manaweg
+    el: Groeg
+    gn: Gwarani
+    gu: Gwjwrati
+    ht: Creol
+    ha: Hawsa
+    he: Hebraeg
+    hz: Hebraeg
+    hi: Hindi
+    ho: Hindi
+    hr: Croateg
+    hu: Hwngareg
+    ig: Igbo
+    is: Islandeg
+    io: Ido
+    ii: Lithwaneg
+    iu: Inwctitwt
+    ie: Interlingue
+    ia: Interlingua
+    id: Indoneseg
+    ik: Inwpiac
+    it: Eidaleg
+    jv: Jafaneg
+    ja: Siapaneg
+    kl: Kalaallisut
+    kn: Canareg
+    ks: Cashmireg
+    kr: Cwrdeg
+    kk: Cazacheg
+    km: Central Khmer
+    ki: Kikuyu
+    rw: Ciniarwanda
+    ky: Cirgiseg
+    kv: Somalieg
+    kg: Sango
+    ko: Corëeg
+    kj: Canareg
+    ku: Cwrdeg
+    lo: Laoeg
+    la: Lladin
+    lv: Latfieg
+    li: Limburgan
+    ln: Lingala
+    lt: Lithwaneg
+    lb: Lwcsembwrgeg
+    lu: Luba-Katanga
+    lg: Canareg
+    mk: Macedoneg
+    mh: Malteg
+    ml: Malaialameg
+    mi: Maori
+    mr: Marathi
+    ms: Malaieg
+    mg: Malagasi
+    mt: Malteg
+    mo: Moldafeg
+    mn: Mongoleg
+    na: Nawrŵeg
+    nv: Navajo
+    nr: South Ndebele
+    nd: North Ndebele
+    ng: Tsongeg
+    ne: Nepaleg
+    nn: Norwyeg
+    nb: Norwegian Bokmål
+    no: Norwyeg
+    ny: Chichewa
+    oc: Ocsitaneg
+    oj: Ojibwa
+    or: Orïa
+    om: Oromo
+    os: Rwsieg
+    pa: Pwnjabeg
+    fa: Perseg
+    pi: Somalieg
+    pl: Pwyleg
+    pt: Portiwgaleg
+    ps: Pwshtw
+    qu: Cetshwa
+    rm: Rwmaneg
+    ro: Rwmaneg
+    rn: Rwndi
+    ru: Rwsieg
+    sg: Sango
+    sa: Sansgrit
+    si: Sinhaleg
+    sk: Slofaceg
+    sl: Slofeneg
+    se: Northern Sami
+    sm: Samöeg
+    sn: Shona
+    sd: Sindhi
+    so: Somalieg
+    st: Sesotheg
+    es: Sbaeneg
+    sc: Macedoneg
+    sr: Serbeg
+    ss: Swati
+    su: Swndaneg
+    sw: Swahili
+    sv: Swedeg
+    ty: Latfieg
+    ta: Tamileg
+    tt: Tatareg
+    te: Telwgw
+    tg: Tajiceg
+    tl: Tagalog
+    th: Tai
+    bo: Tibeteg
+    ti: Tigris
+    to: Tonga
+    tn: Tswana
+    ts: Tsongeg
+    tk: Tyrcmeneg
+    tr: Tyrceg
+    tw: Twi
+    ug: Wigwreg
+    uk: Wcreineg
+    ur: Wrdw
+    uz: Wsbeceg
+    ve: Venda
+    vi: Fietnameg
+    vo: Volapuk
+    cy: Cymraeg
+    wa: Walwneg
+    wo: Woloff
+    xh: Xhosa
+    yi: Iddeweg
+    yo: Iorwba
+    za: Shwangeg
+    zu: Zwlw

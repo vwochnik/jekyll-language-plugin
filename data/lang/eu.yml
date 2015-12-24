@@ -1,0 +1,233 @@
+---
+# Basque
+# euskara
+eu:
+  date:
+    abbr_daynames:
+    - Igan
+    - Astel
+    - Astear
+    - Asteaz
+    - Oste
+    - Osti
+    - Lar
+    abbr_monthnames:
+    - Urt
+    - Ots
+    - Mar
+    - Api
+    - Mai
+    - Eka
+    - Uzt
+    - Abu
+    - Ira
+    - Urr
+    - Aza
+    - Aben
+    daynames:
+    - Igandea
+    - Astelehena
+    - Asteartea
+    - Asteazkena
+    - Osteguna
+    - Ostirala
+    - Larunbata
+    monthnames:
+    - Urtarrila
+    - Otsaila
+    - Martxoa
+    - Apirila
+    - Maiatza
+    - Ekaina
+    - Uztaila
+    - Abuztua
+    - Iraila
+    - Urria
+    - Azaroa
+    - Abendua
+  lang:
+    aa: Afarera
+    ab: Abkhaziera
+    af: Afrikaans
+    ak: Akanera
+    sq: Albaniera
+    am: Amharera
+    ar: Arabiera
+    an: Aragoiera
+    hy: Armeniera
+    as: Assamera
+    av: Arabiera
+    ae: Avestanera
+    ay: Aimara
+    az: Azerbaijanera
+    ba: Bashkiriera
+    bm: Bambara
+    eu: Euskara
+    be: Bielorrusiera
+    bn: Bengalera
+    bh: Tupi hizkuntzak
+    bi: Bislama
+    bs: Bosniera
+    br: Bretoiera
+    bg: Bulgariera
+    my: Birmaniera
+    ca: Katalana
+    ch: Chamorroera
+    ce: Txetxeniera
+    zh: Txinera
+    cu: Church Slavic
+    cv: Chuvash
+    kw: Kornubiera
+    co: Korsikera
+    cr: Cree
+    cs: Txekiera
+    da: Daniera
+    dv: Maldiviera
+    nl: Nederlandera
+    dz: Dzongkha
+    en: Ingelesa
+    eo: Esperantoa
+    et: Estoniera
+    ee: Ewe
+    fo: Faroera
+    fj: Fijiera
+    fi: Finlandiera
+    fr: Frantsesa
+    fy: Mendebaldeko frisiera
+    ff: Fulah
+    ka: Georgiera
+    de: Alemana
+    gd: Gaelikoa
+    ga: Irlandera
+    gl: Galiziera
+    gv: Manxera [Manx-eko gaelikoa]
+    el: Greko
+    gn: Guaraniera
+    gu: Gujeratera
+    ht: Haitiera
+    ha: Hausa
+    he: Hebreera
+    hz: Herero
+    hi: Hindi
+    ho: Hiri Motu
+    hr: Kroaziera
+    hu: Hungariera
+    ig: Igboera
+    is: Islandiera
+    io: Ido
+    ii: Sichuan Yi
+    iu: Inuktitutera
+    ie: Interlingue
+    ia: Interlingua
+    id: Indonesiera
+    ik: Inupiaq
+    it: Italiera
+    jv: Javanera
+    ja: Japoniera
+    kl: Groenlandiera
+    kn: Kannada
+    ks: Kaxmirera
+    kr: Kanuri
+    kk: Kazakhera
+    km: Erdiko khmer
+    ki: Kikuyu
+    rw: Kinyaruanda
+    ky: Kirgizera
+    kv: Komeera
+    kg: Kongo
+    ko: Koreera
+    kj: Kuanyama
+    ku: Kurduera
+    lo: Laosera
+    la: Latina
+    lv: Letoniera
+    li: Limburgan
+    ln: Lingala
+    lt: Lituaniera
+    lb: Luxenburgera
+    lu: Luba-Katanga
+    lg: Ganda
+    mk: Mazedoniera
+    mh: Marshallera
+    ml: Malayalamera
+    mi: Maoria
+    mr: Marathera
+    ms: Malaysiera
+    mg: Malgaxea
+    mt: Maltera
+    mo: Moldaviera
+    mn: Mongoliera
+    na: Nauruera
+    nv: Navajo
+    nr: Hegoaldeko ndebelera
+    nd: Iparraldeko ndebelera
+    ng: Ndonga
+    ne: Nepalera
+    nn: Norvegiera (Nynorsk)
+    nb: Norvegiera
+    no: Norvegiera
+    ny: Chichewa
+    oc: Okzitaniera
+    oj: Ojibwa
+    or: Oriya
+    om: Oromoera
+    os: Osetiera
+    pa: Punjabera
+    fa: Persiera
+    pi: Pali
+    pl: Poloniera
+    pt: Portugesa
+    ps: Paxtuera
+    qu: Kitxua
+    rm: Erromantxera
+    ro: Errumaniera
+    rn: Rundiera
+    ru: Errusiera
+    sg: Sangoera
+    sa: Sanskritoa
+    si: Sinhala
+    sk: Eslovakiera
+    sl: Esloveniera
+    se: Iparraldeko samiera
+    sm: Samoera
+    sn: Shona
+    sd: Sindhia
+    so: Somaliera
+    st: Hegoaldeko sothoera
+    es: Espainola
+    sc: Sardiniera
+    sr: Serbiera
+    ss: Swatiera
+    su: Sudanera
+    sw: Swahilia
+    sv: Suediera
+    ty: Tahitiera
+    ta: Tamil-a
+    tt: Tatariera
+    te: Telugu-a
+    tg: Tadjikera
+    tl: Tagalo-a
+    th: Thailandiera
+    bo: Tibetera
+    ti: Tigrinya
+    to: Tongera
+    tn: Tswana
+    ts: Tsonga
+    tk: Turkmeniera
+    tr: Turkiera
+    tw: Twi
+    ug: Uighurera
+    uk: Ukrainiera
+    ur: Urdu-a
+    uz: Uzbekera
+    ve: Venda
+    vi: Vietnamera
+    vo: Volapük-a
+    cy: Galesera
+    wa: Waloiera
+    wo: Wolofera
+    xh: Xhosa
+    yi: Jidish
+    yo: Jorubera
+    za: Chuan
+    zu: Zuluera

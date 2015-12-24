@@ -1,0 +1,233 @@
+---
+# Azerbaijani
+# azərbaycan dili
+az:
+  date:
+    abbr_daynames:
+    - B.
+    - B.E.
+    - Ç.A.
+    - Ç.
+    - C.A.
+    - C.
+    - Ş.
+    abbr_monthnames:
+    - Yan
+    - Fev
+    - Mar
+    - Apr
+    - May
+    - İyn
+    - İyl
+    - Avq
+    - Sen
+    - Okt
+    - Noy
+    - Dek
+    daynames:
+    - Bazar
+    - Bazar ertəsi
+    - Çərşənbə axşamı
+    - Çərşənbə
+    - Cümə axşamı
+    - Cümə
+    - Şənbə
+    monthnames:
+    - Yanvar
+    - Fevral
+    - Mart
+    - Aprel
+    - May
+    - İyun
+    - İyul
+    - Avqust
+    - Sentyabr
+    - Oktyabr
+    - Noyabr
+    - Dekabr
+  lang:
+    aa: gendən
+    ab: Abxaz
+    af: Afrika
+    ak: Akan
+    sq: Albaniya
+    am: Ərəbcə
+    ar: Ərəbcə
+    an: Faero
+    hy: Erməni
+    as: Assamese
+    av: Ərəbcə
+    ae: Avestan
+    ay: Aymara
+    az: Azərbaycan türkçəsi
+    ba: Bashkir
+    bm: Bambara
+    eu: Baskca
+    be: Belorusca
+    bn: Baltik
+    bh: Korecə
+    bi: Bislama dili
+    bs: Rumınca
+    br: Breton
+    bg: Bolqarca
+    my: Birma
+    ca: Catalan
+    ch: Chamorro
+    ce: Çex
+    zh: Çincə
+    cu: Kilsə slav dili
+    cv: Çuvaş
+    kw: Rənglər
+    co: Korsikan dili
+    cr: Yunanca
+    cs: Çex
+    da: Danimarka
+    dv: Diveh dili
+    nl: Holland
+    dz: Dzongkha
+    en: İngiliscə
+    eo: Esperanto
+    et: Estonca
+    ee: Anac qoyun
+    fo: Faero
+    fj: Axtar
+    fi: Fincə
+    fr: Fransızca
+    fy: Ukraynaca
+    ff: Fulah
+    ka: Gürcü
+    de: Alman
+    gd: Gaelic
+    ga: İrlandca
+    gl: Qaleon
+    gv: Kənarlar
+    el: Yunan
+    gn: Guarani
+    gu: Gujarati
+    ht: Haitian
+    ha: Balsa
+    he: İvrit
+    hz: İvrit
+    hi: Axtar
+    ho: Axtar
+    hr: Xırvatca
+    hu: Macarca
+    ig: Igbo
+    is: İslandiyaca
+    io: Mən edirəm
+    ii: Litva
+    iu: Inuktikut dili
+    ie: İcra edilir
+    ia: Interlingua
+    id: İndoneziyaca
+    ik: Hintcə
+    it: İtalyan
+    jv: Yaponca
+    ja: Yaponca
+    kl: Kalaallisut
+    kn: Kannada
+    ks: Kashmiri
+    kr: Türkcə
+    kk: Qazax
+    km: Central Khmer
+    ki: Kikuyu
+    rw: Kinyarwanda
+    ky: Qırğız
+    kv: Komi
+    kg: Konqo dili
+    ko: Korecə
+    kj: Kuanyama dili
+    ku: Türkcə
+    lo: Lao
+    la: Yer
+    lv: Latviya
+    li: Limburgan
+    ln: Qa_nuni
+    lt: Litva
+    lb: Luxembourgish
+    lu: Luba-Katanga
+    lg: Ganda
+    mk: Makedonca
+    mh: Səhv
+    ml: Malayalam
+    mi: Kənarlar
+    mr: Marathi
+    ms: Balsa
+    mg: Balsa
+    mt: Səhv
+    mo: Moldavian
+    mn: Mongolian
+    na: Nauru
+    nv: Navajo
+    nr: Cənub ndebele dili
+    nd: Şimal ndebele dili
+    ng: Nqonka
+    ne: Yeni _ləqəb
+    nn: Norveçcə
+    nb: Norwegian Bokmål
+    no: Norveçcə
+    ny: Chichewa
+    oc: Occitan
+    oj: Ojibwa
+    or: Oriya
+    om: kaynak
+    os: Rusca
+    pa: Panjabi
+    fa: Çap Et
+    pi: Polyakca
+    pl: Polyakca
+    pt: Portuqal
+    ps: Pushto
+    qu: Quechua
+    rm: Rumınca
+    ro: Rumınca
+    rn: Rundi
+    ru: Rusca
+    sg: Sango
+    sa: Sanskrit
+    si: Vyetnamca
+    sk: Slovak
+    sl: Slovakca
+    se: Northern Sami
+    sm: Samoan
+    sn: Shona
+    sd: Axtar
+    so: Somali
+    st: Sesoto dili
+    es: Ispan
+    sc: Makedonca
+    sr: Serbcə
+    ss: Swati
+    su: Sundanese
+    sw: Swahili
+    sv: İsveçcə
+    ty: Latviya
+    ta: Thai
+    tt: Tatar
+    te: Telugu
+    tg: Thai
+    tl: Tagalog
+    th: Thai
+    bo: Tibetan
+    ti: Türkcə
+    to: Tonga
+    tn: Tswana
+    ts: Tsonga
+    tk: Türkmənistan
+    tr: Türkcə
+    tw: Tvi dili
+    ug: Uyğur
+    uk: Ukraynaca
+    ur: Urdu
+    uz: Özbək
+    ve: Venda
+    vi: Vyetnamca
+    vo: Volapük
+    cy: Welsh
+    wa: Valun dili
+    wo: Volof
+    xh: Xhosa
+    yi: Yiddish
+    yo: Yoruba
+    za: Zhuang
+    zu: Zulu

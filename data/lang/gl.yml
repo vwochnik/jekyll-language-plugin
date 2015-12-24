@@ -1,0 +1,233 @@
+---
+# Galician
+# galego
+gl:
+  date:
+    abbr_daynames:
+    - Dom
+    - Lun
+    - Mar
+    - Mer
+    - Xov
+    - Ven
+    - Sab
+    abbr_monthnames:
+    - Xan
+    - Feb
+    - Mar
+    - Abr
+    - Mai
+    - Xuñ
+    - Xul
+    - Ago
+    - Set
+    - Out
+    - Nov
+    - Dec
+    daynames:
+    - Domingo
+    - Luns
+    - Martes
+    - Mércores
+    - Xoves
+    - Venres
+    - Sábado
+    monthnames:
+    - Xaneiro
+    - Febreiro
+    - Marzo
+    - Abril
+    - Maio
+    - Xuño
+    - Xullo
+    - Agosto
+    - Setembro
+    - Outubro
+    - Novembro
+    - Decembro
+  lang:
+    aa: Afar
+    ab: Abxaziano
+    af: Afrikaans
+    ak: Akán
+    sq: Albanés
+    am: Amárico
+    ar: Árabe
+    an: Aragonés
+    hy: Armenio
+    as: Asamés
+    av: Avar
+    ae: Avéstico
+    ay: Aimará
+    az: Azerí
+    ba: Baskir
+    bm: Bambara
+    eu: Basco
+    be: Bielorruso
+    bn: Bengalí
+    bh: Idiomas bihari
+    bi: Bislama
+    bs: Bosnio
+    br: Bretón
+    bg: Búlgaro
+    my: Birmano
+    ca: Catalán
+    ch: Chamorra
+    ce: Checheno
+    zh: Chinés
+    cu: Eslavo Eclesiástico
+    cv: Chuvache
+    kw: Córnico
+    co: Corso
+    cr: Cree
+    cs: Checo
+    da: Dinamarqués
+    dv: Divehi
+    nl: Neerlandés
+    dz: Dzonga
+    en: Inglés
+    eo: Esperanto
+    et: Estonio
+    ee: Ewe
+    fo: Feroés
+    fj: Fixiano
+    fi: Finés
+    fr: Francés
+    fy: Frisio occidental
+    ff: Fula
+    ka: Xeorxiano
+    de: Alemán
+    gd: Gaélico
+    ga: Irlandés
+    gl: Galego
+    gv: Gaélico manés
+    el: Grego
+    gn: Guaraní
+    gu: Guxaratí
+    ht: Haitiano
+    ha: Haúsa
+    he: Hebreo
+    hz: Hereró
+    hi: Hindi
+    ho: Hiri Motu
+    hr: Croata
+    hu: Húngaro
+    ig: Igbo
+    is: Islandés
+    io: Ido
+    ii: Yi Sinchuáni
+    iu: Inuktitut
+    ie: Interlingua
+    ia: Interlingua
+    id: Indonesio
+    ik: Inupiaq
+    it: Italiano
+    jv: Xavanés
+    ja: Xaponés
+    kl: Kalaallisut
+    kn: Canarés
+    ks: Cachemir
+    kr: Kanuri
+    kk: Kazaxo
+    km: Xemer central
+    ki: Kikuyu
+    rw: Quiñaruanda
+    ky: Quirguizo
+    kv: Komi
+    kg: Congolés
+    ko: Coreano
+    kj: Kuanyama
+    ku: Kurdo
+    lo: Laosiano
+    la: Latín
+    lv: Lituano
+    li: Limburgués
+    ln: Lingala
+    lt: Lituano
+    lb: Luxemburgués
+    lu: Luba-Katanga
+    lg: Ganda
+    mk: Macedonio
+    mh: Marshalés
+    ml: Malaio
+    mi: Maorí
+    mr: Marati
+    ms: Malaio
+    mg: Malgache
+    mt: Maltés
+    mo: Moldavio
+    mn: Mongol
+    na: Naurú
+    nv: Navajo
+    nr: Sur Ndebele
+    nd: Norte Ndebele
+    ng: Ndonga
+    ne: Nepalés
+    nn: Noruegués Nynorsk
+    nb: Noruegués Bokmål
+    no: Noruegués
+    ny: Chichewa
+    oc: Occitano
+    oj: Ojibwa
+    or: Orixa
+    om: Oromo
+    os: Osetio
+    pa: Punxabí
+    fa: Persa
+    pi: Pali
+    pl: Polaco
+    pt: Portugués
+    ps: Pushto
+    qu: Quechúa
+    rm: Romanche
+    ro: Romanés
+    rn: Rundi
+    ru: Ruso
+    sg: Sango
+    sa: Sánscrito
+    si: Cingalés
+    sk: Eslovaco
+    sl: Esloveno
+    se: Sami do norte
+    sm: Samoano
+    sn: Shona
+    sd: Sindhi
+    so: Somalí
+    st: Sotho do sur
+    es: Español
+    sc: Sardo
+    sr: Serbio
+    ss: Swazi
+    su: Sundanés
+    sw: Suahili
+    sv: Sueco
+    ty: Tahitiano
+    ta: Támil
+    tt: Tártaro
+    te: Telugúa
+    tg: Taxico
+    tl: Tagalo
+    th: Tai
+    bo: Tibetano
+    ti: Tigriñés
+    to: Tonga
+    tn: Setchwana
+    ts: Tsonga
+    tk: Turcomano
+    tr: Turco
+    tw: Twi
+    ug: Uigur
+    uk: Ucraíno
+    ur: Urdú
+    uz: Uzbeco
+    ve: Venda
+    vi: Vietnamita
+    vo: Volapük
+    cy: Galés
+    wa: Valón
+    wo: Wolof
+    xh: Xosa
+    yi: Yiddish
+    yo: Ioruba
+    za: Zhuang
+    zu: Zulú

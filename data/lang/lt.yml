@@ -1,37 +1,233 @@
 ---
+# Lithuanian
+# lietuvių kalba
 lt:
   date:
-    abbr_daynames: [Sek, Pir, Ant, Tre, Ket, Pen, Šeš]
-    abbr_monthnames: [Sau, Vas, Kov, Bal, Geg, Bir, Lie, Rgp, Rgs, Spa, Lap, Grd]
-    daynames: [sekmadienis, pirmadienis, antradienis, trečiadienis, ketvirtadienis,
-      penktadienis, šeštadienis]
-    monthnames: [sausio, vasario, kovo, balandžio, gegužės, birželio, liepos, rugpjūčio,
-      rugsėjo, spalio, lapkričio, gruodžio]
+    abbr_daynames:
+    - Sek
+    - Pir
+    - Ant
+    - Tre
+    - Ket
+    - Pen
+    - Šeš
+    abbr_monthnames:
+    - Sau
+    - Vas
+    - Kov
+    - Bal
+    - Geg
+    - Bir
+    - Lie
+    - Rgp
+    - Rgs
+    - Spa
+    - Lap
+    - Grd
+    daynames:
+    - sekmadienis
+    - pirmadienis
+    - antradienis
+    - trečiadienis
+    - ketvirtadienis
+    - penktadienis
+    - šeštadienis
+    monthnames:
+    - sausio
+    - vasario
+    - kovo
+    - balandžio
+    - gegužės
+    - birželio
+    - liepos
+    - rugpjūčio
+    - rugsėjo
+    - spalio
+    - lapkričio
+    - gruodžio
   lang:
+    aa: Afarų
+    ab: Abchazų
+    af: Afrikanų
+    ak: Akanų
+    sq: Albanų
+    am: Amharų
+    ar: Arabų
+    an: Aragonų
+    hy: Armėnų
+    as: Asamų
+    av: Avarų
+    ae: Avestiškoji
+    ay: Aimarų
+    az: Azerbaidžaniečių
+    ba: Baškirų
+    bm: Bambarų
+    eu: Baskų
+    be: Baltarusių
+    bn: Bengalų
+    bh: Tajų kalbos
+    bi: Bislama
+    bs: Bosnių
+    br: Bretonų
     bg: Bulgarų
+    my: Birmiečių
+    ca: Katalonų
+    ch: Čamorų
+    ce: Čečėnų
+    zh: Kinų
+    cu: bažnytinė slavų
+    cv: Čiuvašų
+    kw: Kornų
+    co: Korsikiečių
+    cr: Kry
     cs: Čekų
     da: Danų
-    de: Vokiečių
-    el: graikų
+    dv: Maldivų
+    nl: Olandų
+    dz: Botijų
     en: Anglų
-    es: Ispanų
+    eo: Esperanto
     et: Estų
+    ee: Ivių
+    fo: Farerų
+    fj: Fidžių
     fi: Suomių
     fr: Prancūzų
+    fy: Vakarų fryzų
+    ff: Fulahų
+    ka: Gruzinų
+    de: Vokiečių
+    gd: Gėlų
+    ga: Airių
+    gl: Galisų
+    gv: Menksiečių
+    el: Graikų, šiuolaikinė
+    gn: Gvranių
+    gu: Gudžaratų
+    ht: Haičio
+    ha: Hausų
+    he: Hebrajų
+    hz: Hererų
+    hi: Hindi
+    ho: Hiri motu
     hr: Kroatų
     hu: Vengrų
+    ig: Igbų
     is: Islandų
+    io: Aš darau
+    ii: Sičuano Yi
+    iu: Inuktitutas
+    ie: Interlingue
+    ia: Interlingva
+    id: Indoneziečių
+    ik: Inupiakų
     it: Italų
+    jv: Javiečių
     ja: Japonų
-    lt: Lietuvių
+    kl: Grenlandų
+    kn: Kanadų
+    ks: Kašmyrų
+    kr: Kanūrių
+    kk: Kazachų
+    km: Khmerų centrinė
+    ki: Kikui
+    rw: Kinjaruanda
+    ky: Kirgizų
+    kv: Komių
+    kg: Kongas
+    ko: Korėjiečių
+    kj: Kuaniama
+    ku: Kurdų
+    lo: Laosiečių
+    la: Lotynų
     lv: Latvių
-    nl: Olandų
+    li: Limburgo tarmė
+    ln: Lingala
+    lt: Lietuvių
+    lb: Liuksemburgiečių
+    lu: Luba katanga
+    lg: Ganda
+    mk: Makedonų
+    mh: Maršalo salų
+    ml: Malajalių
+    mi: Maorių
+    mr: Marathų
+    ms: Malajų
+    mg: Malagasių
+    mt: Maltiečių
+    mo: Moldavų
+    mn: Mongolų
+    na: Nauriečių
+    nv: Navahų
+    nr: Pietų ndebelų
+    nd: Šiaurės ndebelų
+    ng: Ndongų
+    ne: Nepalų
+    nn: Norvegų nynorsk
+    nb: norvegų bokmål
+    no: Norvegų
+    ny: Nianja
+    oc: Očitarų
+    oj: Ojibva
+    or: Orijų
+    om: Oromų
+    os: Osetinų
+    pa: Pendžabų
+    fa: Persų
+    pi: Pali
     pl: Lenkų
     pt: Portugalų
+    ps: Puštūnų
+    qu: Kečujų
+    rm: Retoromanų
     ro: Rumunų
+    rn: Rundi
     ru: Rusų
+    sg: Sango
+    sa: Sanskritas
+    si: Sinhalų
     sk: Slovakų
     sl: Slovėnų
+    se: Šiaurės sami
+    sm: Samojiečių
+    sn: Šonų
+    sd: Sindhų
+    so: Somalių
+    st: Pietų sotų
+    es: Ispanų
+    sc: Sardiniečių
+    sr: Serbų
+    ss: Svazių
+    su: Sudaniečių
+    sw: Svahilių
     sv: Švedų
+    ty: Taitiečių
+    ta: Tamilų
+    tt: Totorių
+    te: Telugų
+    tg: Tadžikų
+    tl: Tagalų
+    th: Tajų
+    bo: Tibetiečių
+    ti: Tigrajų
+    to: Tongų (Tonga salų)
+    tn: Tsvanų
+    ts: Tsongų
+    tk: Turkmėnų
     tr: Turkų
+    tw: Tvi
+    ug: Uigūrų
     uk: Ukrainiečių
+    ur: Urdų
+    uz: Uzbekų
+    ve: Venda
+    vi: Vietnamiečių
+    vo: Volapiukas
+    cy: Valų
+    wa: Valonų
+    wo: Volofų
+    xh: Kosų
+    yi: Jidiš
+    yo: Jorubų
+    za: Džuangų
+    zu: Zulų (zulusų)

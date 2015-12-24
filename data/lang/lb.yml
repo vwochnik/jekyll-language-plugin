@@ -1,0 +1,233 @@
+---
+# Luxembourgish
+# Lëtzebuergesch
+lb:
+  date:
+    abbr_daynames:
+    - Son
+    - Méi
+    - Dën
+    - Mët
+    - Don
+    - Fre
+    - Sam
+    abbr_monthnames:
+    - Jan
+    - Feb
+    - Mäe
+    - Abr
+    - Mee
+    - Jun
+    - Jul
+    - Aug
+    - Sep
+    - Okt
+    - Nov
+    - Dez
+    daynames:
+    - Sonndeg
+    - Méindeg
+    - Dënschdeg
+    - Mëttwoch
+    - Donneschdeg
+    - Freideg
+    - Samschdeg
+    monthnames:
+    - Januar
+    - Februar
+    - Mäerz
+    - Abrëll
+    - Mee
+    - Juni
+    - Juli
+    - August
+    - September
+    - Oktober
+    - November
+    - Dezember
+  lang:
+    aa: Afar
+    ab: Abkhazian
+    af: Afrikanesch
+    ak: Akan
+    sq: Albanian
+    am: Amharic
+    ar: Griichesch
+    an: Aragonese
+    hy: Armenian
+    as: Assamese
+    av: Avaric
+    ae: Franséisch
+    ay: Aymara
+    az: Azerbaijani
+    ba: Bashkir
+    bm: Bambara
+    eu: Basque
+    be: Belarusian
+    bn: Bengali
+    bh: Bihari languages
+    bi: Bislama
+    bs: Bosnian
+    br: Breton
+    bg: Bulgarian
+    my: Burmese
+    ca: Catalan
+    ch: Chamorro
+    ce: Chechen
+    zh: Chinese
+    cu: Church Slavic
+    cv: Chuvash
+    kw: Cornish
+    co: Corsican
+    cr: Cree
+    cs: Czech
+    da: Danish
+    dv: Divehi
+    nl: Dutch
+    dz: Dzongkha
+    en: Englesch
+    eo: Esperanto
+    et: Estonian
+    ee: Ewe
+    fo: Faroese
+    fj: Fijian
+    fi: Finnish
+    fr: Franséisch
+    fy: Western Frisian
+    ff: Fulah
+    ka: Georgian
+    de: Däitsch
+    gd: Gaelic
+    ga: Irish
+    gl: Galician
+    gv: Manx
+    el: Griichesch
+    gn: Guarani
+    gu: Gujarati
+    ht: Haitian
+    ha: Hausa
+    he: Hebrew
+    hz: Herero
+    hi: Hindi
+    ho: Hiri Motu
+    hr: Kroatesch
+    hu: Hungarian
+    ig: Igbo
+    is: Icelandic
+    io: Ido
+    ii: Sichuan Yi
+    iu: Inuktitut
+    ie: Interlingue
+    ia: Interlingua
+    id: Indonesian
+    ik: Inupiaq
+    it: Italienesch
+    jv: Javanese
+    ja: Japanesch
+    kl: Kalaallisut
+    kn: Kannada
+    ks: Kashmiri
+    kr: Kanuri
+    kk: Kazakh
+    km: Central Khmer
+    ki: Kikuyu
+    rw: Kinyarwanda
+    ky: Kirghiz
+    kv: Komi
+    kg: Kongo
+    ko: Korean
+    kj: Kuanyama
+    ku: Kurdish
+    lo: Lao
+    la: Latäin
+    lv: Latvian
+    li: Limburgan
+    ln: Lingala
+    lt: Lithuanian
+    lb: Lëtzebuergesch
+    lu: Luba-Katanga
+    lg: Ganda
+    mk: Macedonian
+    mh: Marshallese
+    ml: Malayalam
+    mi: Maori
+    mr: Marathi
+    ms: Malay
+    mg: Malagasy
+    mt: Maltese
+    mo: Moldavian
+    mn: Mongolian
+    na: Nauru
+    nv: Navajo
+    nr: South Ndebele
+    nd: North Ndebele
+    ng: Ndonga
+    ne: Nepali
+    nn: Norwegian Nynorsk
+    nb: Norwegian Bokmål
+    no: Norwegian
+    ny: Chichewa
+    oc: Occitan
+    oj: Ojibwa
+    or: Oriya
+    om: Oromo
+    os: Ossetian
+    pa: Panjabi
+    fa: Persian
+    pi: Pali
+    pl: Polnesch
+    pt: Portugisesch
+    ps: Pushto
+    qu: Quechua
+    rm: Rätoromanesch
+    ro: Romanian
+    rn: Rundi
+    ru: Russesch
+    sg: Sango
+    sa: Sanskrit
+    si: Sinhala
+    sk: Slovak
+    sl: Slovenian
+    se: Northern Sami
+    sm: Samoan
+    sn: Shona
+    sd: Sindhi
+    so: Somali
+    st: Southern Sotho
+    es: Spanish
+    sc: Sardinian
+    sr: Serbian
+    ss: Swati
+    su: Sundanese
+    sw: Swahili
+    sv: Swedish
+    ty: Tahitian
+    ta: Tamil
+    tt: Tatar
+    te: Telugu
+    tg: Tajik
+    tl: Tagalog
+    th: Thai
+    bo: Tibetan
+    ti: Tigrinya
+    to: Tonga
+    tn: Tswana
+    ts: Tsonga
+    tk: Turkmen
+    tr: Turkish
+    tw: Twi
+    ug: Uighur
+    uk: Ukrainian
+    ur: Urdu
+    uz: Uzbek
+    ve: Venda
+    vi: Vietnamese
+    vo: Volapük
+    cy: Welsh
+    wa: Walloon
+    wo: Wolof
+    xh: Xhosa
+    yi: Yiddish
+    yo: Yoruba
+    za: Zhuang
+    zu: Zulu

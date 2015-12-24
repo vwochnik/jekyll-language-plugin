@@ -1,0 +1,233 @@
+---
+# Māori
+# te reo Māori
+mi:
+  date:
+    abbr_daynames:
+    - Rātapu
+    - Rāhina
+    - Rātū
+    - Rāapa
+    - Rāpare
+    - Rāmere
+    - Rāhoroi
+    abbr_monthnames:
+    - Hānuere
+    - Pēpuere
+    - Maehe
+    - Āperira
+    - Mei
+    - Hune
+    - Hūrae
+    - Akuhata
+    - Hepetema
+    - Oketopa
+    - Noema
+    - Tihema
+    daynames:
+    - Rātapu
+    - Rāhina
+    - Rātū
+    - Rāapa
+    - Rāpare
+    - Rāmere
+    - Rāhoroi
+    monthnames:
+    - Hānuere
+    - Pēpuere
+    - Maehe
+    - Āperira
+    - Mei
+    - Hune
+    - Hūrae
+    - Akuhata
+    - Hepetema
+    - Oketopa
+    - Noema
+    - Tihema
+  lang:
+    aa: Afar
+    ab: Reo Koroātia
+    af: Reo Āwherika Tatimana
+    ak: Reo Koroātia
+    sq: Reo Koroātia
+    am: Reo Arapia
+    ar: Reo Arapia
+    an: Aragonese
+    hy: Reo Romeinia
+    as: Reo Ahamīhi
+    av: Reo Arapia
+    ae: Avestan
+    ay: Aymara
+    az: Reo Koroātia
+    ba: Reo Pahikia
+    bm: Bambara
+    eu: Tūparu
+    be: Reo Purukeria
+    bn: Bengali
+    bh: Kaupapa
+    bi: Bislama
+    bs: Reo Romeinia
+    br: Reo Parani Uropi-Īnia
+    bg: Reo Purukeria
+    my: Purumīhi
+    ca: Catalan
+    ch: Chamorro
+    ce: Reo Parani
+    zh: Reo Hāina
+    cu: Te Ekalesia Slavic
+    cv: Chuvash
+    kw: Reo Airana
+    co: Reo Etonia
+    cr: Reo Kariki
+    cs: Reo Parani
+    da: Reo Tenemaka
+    dv: Tīwehi
+    nl: Tatimana
+    dz: Ōta
+    en: Reo Pākehā - Ingarangi
+    eo: Reo Tiamana
+    et: Reo Etonia
+    ee: Uha
+    fo: Faroese
+    fj: Reo Whītī
+    fi: Reo Whinarana
+    fr: Reo Parani
+    fy: Parani
+    ff: Fulah
+    ka: Reo Tiamana
+    de: Reo Tiamana
+    gd: Gaelic
+    ga: Reo Airana
+    gl: Reo Itari
+    gv: Manx
+    el: Kariki
+    gn: Reo Purukeria
+    gu: Gujarati
+    ht: Haitian
+    ha: Hausa
+    he: Reo Hūrai
+    hz: Reo Hūrai
+    hi: Hindi
+    ho: Reo Airana
+    hr: Reo Koroātia
+    hu: Reo Hanekari
+    ig: Igbo
+    is: Reo Tiorangi
+    io: Ido
+    ii: Reo Ītariana
+    iu: Inuktitut
+    ie: Interlingue
+    ia: Interlingua
+    id: Reo Etonia
+    ik: Inupiaq
+    it: Reo Itari
+    jv: Reo Hapana
+    ja: Reo Hapana
+    kl: Kalaallisut
+    kn: Kannada
+    ks: Kashmiri
+    kr: Reo Airana
+    kk: Kazakh
+    km: Central Khmer
+    ki: Kikuyu
+    rw: Kinyarwanda
+    ky: Kirghiz
+    kv: Komi
+    kg: Congo
+    ko: Kaupapa
+    kj: Kuanyama
+    ku: Reo Airana
+    lo: Lao
+    la: Reo Koroātia
+    lv: Reo Koroātia
+    li: Limburgan
+    ln: Lingala
+    lt: Reo Ītariana
+    lb: Rakapuō
+    lu: Luba-Katanga
+    lg: Ganda
+    mk: Reo Makerōnia
+    mh: Kaupapa
+    ml: Malayalam
+    mi: Reo Māori
+    mr: Reo Māori
+    ms: Malay
+    mg: Malagasy
+    mt: Kaupapa
+    mo: Reo Koroātia
+    mn: Reo Makerōnia
+    na: Nauru
+    nv: Navajo
+    nr: South Ndebele
+    nd: North Ndebele
+    ng: Reo Etonia
+    ne: Nepali
+    nn: Reo Nōwei (Nynorsk)
+    nb: Norwegian Pokemaral
+    no: Kaupapa
+    ny: Chichewa
+    oc: Occitan
+    oj: Ojibwa
+    or: Oriya
+    om: Oromo
+    os: Reo Ruhia
+    pa: Panjabi
+    fa: Reo Koroātia
+    pi: Reo Pōrana
+    pl: Reo Pōrana
+    pt: Reo Pōtikī
+    ps: Pushto
+    qu: Quechua
+    rm: Reo Romeinia
+    ro: Reo Romeinia
+    rn: Rundi
+    ru: Reo Ruhia
+    sg: Sango
+    sa: Sanskrit
+    si: Raene
+    sk: Karaka
+    sl: Reo Etonia
+    se: Northern Sami
+    sm: Samoan
+    sn: Rakau
+    sd: Kahamiri
+    so: Somali
+    st: Southern Sotho
+    es: Spanish
+    sc: Reo Makerōnia
+    sr: Reo Koroātia
+    ss: Swati
+    su: Sundanese
+    sw: Swahili
+    sv: Reo Wītana
+    ty: Reo Koroātia
+    ta: Reo Īnia tonga
+    tt: Tatar
+    te: Telugu
+    tg: Reo Īnia tonga
+    tl: Tagalog
+    th: Reo Īnia tonga
+    bo: Tibet
+    ti: Reo Airana
+    to: Tonga
+    tn: Tswana
+    ts: Tsonga
+    tk: Turkmen
+    tr: Reo Airana
+    tw: Tiwi
+    ug: Uighur
+    uk: Parani
+    ur: Urdu
+    uz: Uzbek
+    ve: Weneta
+    vi: Raene
+    vo: Volapük
+    cy: RakauTukutuku
+    wa: KKupu
+    wo: Wolof
+    xh: Rakau
+    yi: Yiddish
+    yo: Yoruba
+    za: Zhuang
+    zu: Purukeria

@@ -1,0 +1,233 @@
+---
+# Vietnamese
+# Tiếng Việt
+vi:
+  date:
+    abbr_daynames:
+    - Chủ nhật
+    - Thứ hai
+    - Thứ ba
+    - Thứ tư
+    - Thứ năm
+    - Thứ sáu
+    - Thứ bảy
+    abbr_monthnames:
+    - Tháng một
+    - Tháng hai
+    - Tháng ba
+    - Tháng tư
+    - Tháng năm
+    - Tháng sáu
+    - Tháng bảy
+    - Tháng tám
+    - Tháng chín
+    - Tháng mười
+    - Tháng mười một
+    - Tháng mười hai
+    daynames:
+    - Chủ nhật
+    - Thứ hai
+    - Thứ ba
+    - Thứ tư
+    - Thứ năm
+    - Thứ sáu
+    - Thứ bảy
+    monthnames:
+    - Tháng một
+    - Tháng hai
+    - Tháng ba
+    - Tháng tư
+    - Tháng năm
+    - Tháng sáu
+    - Tháng bảy
+    - Tháng tám
+    - Tháng chín
+    - Tháng mười
+    - Tháng mười một
+    - Tháng mười hai
+  lang:
+    aa: Tiếng A-pha
+    ab: Tiếng Ap-kha-xi-a
+    af: Tiếng Hoà Lan Nam Phi
+    ak: Tiếng A-can
+    sq: Tiếng An-ba-ni
+    am: Tiếng Am-ha-ri
+    ar: Tiếng A Rập
+    an: Tiếng A-ra-gon
+    hy: Tiếng Ác-mê-ni
+    as: Tiếng A-xam
+    av: Tiếng A-va-ric
+    ae: Tiếng A-ve-x-tanh
+    ay: Tiếng Ai-ma-ra
+    az: Tiếng A-xợ-bai-gianh
+    ba: Tiếng Ba-x-kia
+    bm: Tiếng Bam-ba-ra
+    eu: Tiếng Baxcơ
+    be: Tiếng Be-la-ruxợ
+    bn: Tiếng Băng Gan
+    bh: Hệ ngôn ngữ Bihari
+    bi: Tiếng Bix-la-ma
+    bs: Tiếng Bô-xni-a
+    br: Tiếng Boue-ton (Pháp)
+    bg: Tiếng Bảo Gai Lơi
+    my: Tiếng Miến Điện
+    ca: Tiếng Ca-ta-lan
+    ch: Tiếng Cha-mo-ro
+    ce: Tiếng Che-chẹnh
+    zh: Tiếng Trung Quốc
+    cu: Giáo Slavic
+    cv: Tiếng Chu-vas
+    kw: Tiếng Khoanh-uoănh
+    co: Tiếng Coa-si-ca
+    cr: Tiếng Cợ-ri
+    cs: Tiếng Séc
+    da: Tiếng Đan Mạch
+    dv: Tiếng Đi-ve-hi
+    nl: Tiếng Hoà Lan
+    dz: Tiếng Đ-xong-kha
+    en: Tiếng Anh
+    eo: Tiếng E-x-pê-ran-tô
+    et: Tiếng E-x-tô-ni-a
+    ee: Tiếng E-oue
+    fo: Tiếng Pha-rô
+    fj: Tiếng Phi-gi
+    fi: Tiếng Phần Lan
+    fr: Tiếng Pháp
+    fy: Tiếng Tây Phợ-ri-xi
+    ff: Tiếng Phu-la
+    ka: Tiếng Gi-oa-gi-a
+    de: Tiếng Đức
+    gd: Tiếng Xen-tơ, Ê-cốt
+    ga: Tiếng Ái Nhĩ Lan
+    gl: Tiếng Ga-li-xi
+    gv: Tiếng Man-khơ-x
+    el: Tiếng Hy Lạp, Cận Đại
+    gn: Tiếng Gua-ra-ni
+    gu: Tiếng Gu-gia-ra-ti
+    ht: Tiếng Hai-ti
+    ha: Tiếng Hau-xa
+    he: Tiếng Do Thái
+    hz: Tiếng He-re-rô
+    hi: Tiếng Hin-đi
+    ho: Tiếng Mo-tu
+    hr: Tiếng Cợ-rô-áth
+    hu: Tiếng Hung Gia Lợi
+    ig: Tiếng Ic-bô
+    is: Tiếng Băng Đảo
+    io: Tiếng I-đo
+    ii: Tứ Xuyên Yi
+    iu: Tiếng I-nuc-ti-tuc
+    ie: Ngôn ngữ lẫn nhau In-tơ-ling
+    ia: Ngôn ngữ lẫn nhau In-tơ-lin-gua
+    id: Tiếng Nam Dương
+    ik: Tiếng In-u-pi-ac
+    it: Tiếng Ý
+    jv: Tiếng Gia-va
+    ja: Tiếng Nhật
+    kl: Tiếng Đảo Băng
+    kn: Tiếng Kan-na-đa
+    ks: Tiếng Ca-s-mi-ri
+    kr: Tiếng Ca-nu-ri
+    kk: Tiếng Ca-xakh
+    km: Tiếng Khơ-me miền Trung
+    ki: Tiếng Khi-ku-iu
+    rw: Tiếng Kin-ia-ouanh-đa
+    ky: Tiếng Khia-ki-xơ
+    kv: Tiếng Kô-mi
+    kg: Tiếng Kon-gô
+    ko: Tiếng Hàn
+    kj: Tiếng Kou-an-i-am-a
+    ku: Tiếng Kurd
+    lo: Tiếng Lào
+    la: Tiếng La-tinh
+    lv: Tiếng Lát-vi-a
+    li: Tiếng Lim-bua-ga
+    ln: Tiếng Lin-ga-la
+    lt: Tiếng Li-tu-a-ni
+    lb: Tiếng Lục Xâm Bảo
+    lu: Tiếng Lu-ba-Ka-tan-ga
+    lg: Tiếng Gan-đa
+    mk: Tiếng Ma-xê-đô-ni
+    mh: Tiếng Ma-san
+    ml: Tiếng Ma-lay-am
+    mi: Tiếng Mao-ri
+    mr: Tiếng Ma-ra-ti
+    ms: Tiếng Mã lai
+    mg: Tiếng Ma-la-ga-si
+    mt: Tiếng Mantơ
+    mo: Tiếng Mon-đa-vi
+    mn: Tiếng Mông Cổ
+    na: Tiếng Nau-ru
+    nv: Tiếng Na-va-hô
+    nr: Tiếng Nam N-đe-be-lê
+    nd: Tiếng Bắc N-đe-be-lê
+    ng: Tiếng N-đon-ga
+    ne: Tiếng Nê-pan
+    nn: Tiếng Na Uy (Ni-noa-x-kh)
+    nb: Na Uy (Bóc-man)
+    no: Tiếng Na Uy
+    ny: Tiếng Chi-che-oua
+    oc: Tiếng Oc-xi-tan
+    oj: Tiếng O-gip-oua
+    or: Tiếng O-ri-a
+    om: Tiếng O-ro-mô
+    os: Tiếng O-set
+    pa: Tiếng Pun-gia-bi
+    fa: Tiếng Ba Tư
+    pi: Tiếng Pa-li
+    pl: Tiếng Ba Lan
+    pt: Tiếng Bồ Đào Nha
+    ps: Tiếng Pu-s-tô
+    qu: Tiếng Cue-chu-a
+    rm: Tiếng Gip-xi (Romansh)
+    ro: Tiếng Lỗ Má Ni
+    rn: Tiếng Run-đi
+    ru: Tiếng Nga
+    sg: Tiếng Xan-gô
+    sa: Tiếng Phạn
+    si: Tiếng Xin-ha-la
+    sk: Tiếng Xlô-vác
+    sl: Tiếng Xlô-ven
+    se: Tiếng Bắc Xa-mi
+    sm: Tiếng Xa-mô-a
+    sn: Tiếng Sô-na
+    sd: Tiếng Xin-đi
+    so: Tiếng Xô-ma-li
+    st: Tiếng Nam Xo-tô
+    es: Tiếng Tây Ban Nhà kiểu Cax-ti-le
+    sc: Tiếng Xă-đi-ni-a
+    sr: Tiếng Xéc bi
+    ss: Tiếng Xoua-thi
+    su: Tiếng Xunh-đan
+    sw: Tiếng Xoua-hi-li
+    sv: Tiếng Thuỵ Điển
+    ty: Tiếng Ta-hi-ti
+    ta: Tiếng Ta-min
+    tt: Tiếng Tác-ta
+    te: Tiếng Te-lu-gu
+    tg: Tiếng Ta-gíc
+    tl: Tiếng Ta-ga-lọc
+    th: Tiếng Thái
+    bo: Tiếng Tây Tạng
+    ti: Tiếng Thi-gơ-rin-ya
+    to: Tiếng Ton-ga (Quần đảo Ton-ga)
+    tn: Tiếng T-xoua-na
+    ts: Tiếng T-xong-ga
+    tk: Tiếng Thổ-kh-men
+    tr: Tiếng Thổ Nhĩ Kỳ
+    tw: Tiếng Toui
+    ug: Tiếng Ui-gua
+    uk: Tiếng U-cợ-rainh
+    ur: Tiếng Ua-đu
+    uz: Tiếng U-x-bếkh
+    ve: Tiếng Ven-đa
+    vi: Tiếng Việt
+    vo: Tiếng Vo-la-puk
+    cy: Tiếng Oue-l-s
+    wa: Tiếng Oua-lunh
+    wo: Tiếng Ou-o-lo-v
+    xh: Tiếng X-hô-xa
+    yi: Tiếng Y-đit
+    yo: Tiếng Yo-ru-ba
+    za: Tiếng Xuang
+    zu: Tiếng Xu-lu

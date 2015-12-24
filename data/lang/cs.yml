@@ -1,36 +1,233 @@
 ---
+# Croatian
+# hrvatski jezik
 cs:
   date:
-    abbr_daynames: [Ne, Po, Út, St, Čt, Pá, So]
-    abbr_monthnames: [led, úno, bře, dub, kvě, čvn, čvc, srp, zář, říj, lis, pro]
-    daynames: [neděle, pondělí, úterý, středa, čtvrtek, pátek, sobota]
-    monthnames: [leden, únor, březen, duben, květen, červen, červenec, srpen, září,
-      říjen, listopad, prosinec]
+    abbr_daynames:
+    - Ne
+    - Po
+    - Út
+    - St
+    - Čt
+    - Pá
+    - So
+    abbr_monthnames:
+    - led
+    - úno
+    - bře
+    - dub
+    - kvě
+    - čvn
+    - čvc
+    - srp
+    - zář
+    - říj
+    - lis
+    - pro
+    daynames:
+    - neděle
+    - pondělí
+    - úterý
+    - středa
+    - čtvrtek
+    - pátek
+    - sobota
+    monthnames:
+    - leden
+    - únor
+    - březen
+    - duben
+    - květen
+    - červen
+    - červenec
+    - srpen
+    - září
+    - říjen
+    - listopad
+    - prosinec
   lang:
-    bg: Bulharština
-    cs: Čeština
-    da: Dánština
-    de: Němčina
-    el: Řečtina
-    en: Angličtina
-    es: Španělština
-    et: Estonština
-    fi: Finština
-    fr: Francouzština
-    hr: Chorvatština
-    hu: Maďarština
-    is: Islandština
-    it: Italština
-    ja: Japonština
-    lt: Litevština
-    lv: Lotyšština
-    nl: Nizozemština (holandština)
-    pl: Polština
-    pt: Portugalština
-    ro: Rumunština
-    ru: Ruština
-    sk: Slovenština
-    sl: Slovinština
-    sv: Švédština
-    tr: Turečtina
-    uk: Ukrajinština
+    aa: afarština
+    ab: abchazština
+    af: afrikánština
+    ak: akanština
+    sq: albánština
+    am: amharština
+    ar: arabština
+    an: aragonská španělština
+    hy: arménština
+    as: ásámština
+    av: avarština
+    ae: avestština
+    ay: ajmarština
+    az: ázerbájdžánština
+    ba: baskirština
+    bm: bambarština
+    eu: baskičtina
+    be: běloruština
+    bn: bengálština
+    bh: bihárské jazyky
+    bi: bislámština
+    bs: bosenština
+    br: bretonština
+    bg: bulharština
+    my: barmština
+    ca: katalánština
+    ch: čamoro
+    ce: čečenština
+    zh: čínština
+    cu: crkvenoslavenski
+    cv: čuvaština
+    kw: kornština
+    co: korsičtina
+    cr: krí
+    cs: čeština
+    da: dánština
+    dv: dhivehi
+    nl: nizozemština
+    dz: bhútánština
+    en: angličtina
+    eo: esperanto
+    et: estonština
+    ee: eweština
+    fo: faerština
+    fj: fidžijština
+    fi: finština
+    fr: francouzština
+    fy: západofríština
+    ff: fulahština
+    ka: gruzínština
+    de: němčina
+    gd: gaelština
+    ga: irština
+    gl: galicijština
+    gv: manština
+    el: řečtina
+    gn: guaranština
+    gu: gudžarátština
+    ht: haitská kreolština
+    ha: hauština
+    he: hebrejština
+    hz: herero
+    hi: hindština
+    ho: hiri motu
+    hr: chorvatština
+    hu: maďarština
+    ig: igbo
+    is: islandština
+    io: ido
+    ii: s`čchuandština
+    iu: inuktitut
+    ie: interlingue
+    ia: Interlingua
+    id: indonéština
+    ik: inupiak
+    it: italština
+    jv: jávština
+    ja: japonština
+    kl: kalmyčtina
+    kn: kannadština
+    ks: kašmírština
+    kr: kanuri
+    kk: kazaština
+    km: centrální khmerština
+    ki: kukujština
+    rw: rwandština
+    ky: kyrgyzština
+    kv: komijština
+    kg: konžština
+    ko: korejština
+    kj: kuaňamština
+    ku: kurdština
+    lo: laoština
+    la: latina
+    lv: lotyština
+    li: limburština
+    ln: lingalština
+    lt: litevština
+    lb: lucemburština
+    lu: lubu-katanžština
+    lg: ganda
+    mk: makedonština
+    mh: maršalština
+    ml: malajálamština
+    mi: maorština
+    mr: maráthština
+    ms: malajština
+    mg: malgaština
+    mt: maltézština
+    mo: moldavština
+    mn: mongolština
+    na: naurština
+    nv: navajština
+    nr: ndebelština jižní
+    nd: ndebelština severní
+    ng: ndondština
+    ne: nepálština
+    nn: norština Nynorsk
+    nb: norština Bokmål
+    no: norština
+    ny: čičeva
+    oc: okcitánština
+    oj: odžibwejština
+    or: orija
+    om: oromština
+    os: osečtina
+    pa: paňdžábština
+    fa: perština
+    pi: páli
+    pl: polština
+    pt: portugalština
+    ps: pašto
+    qu: kečuánština
+    rm: rétorománština
+    ro: rumunština
+    rn: rundština
+    ru: ruština
+    sg: sangština
+    sa: sanskrt
+    si: sinhálština
+    sk: slovenština
+    sl: slovinština
+    se: severní sami jazyky
+    sm: samojština
+    sn: šonština
+    sd: sindhština
+    so: somálština
+    st: jižní sothoština
+    es: španělština
+    sc: sardinština
+    sr: srbština
+    ss: svatština
+    su: sundština
+    sw: svahilština
+    sv: švédština
+    ty: tahitština
+    ta: tamilština
+    tt: tatarština
+    te: telugu
+    tg: tadžičtina
+    tl: tagalština
+    th: thajština
+    bo: tibetština
+    ti: tigriňa
+    to: tongština (tonžské ostrovy)
+    tn: tswanština (čwanština)
+    ts: tsongština
+    tk: turkmenština
+    tr: turečtina
+    tw: twi
+    ug: ujgurština
+    uk: ukrajinština
+    ur: urdština
+    uz: uzbečtina
+    ve: vendština
+    vi: vietnamština
+    vo: volapük
+    cy: velština
+    wa: valonština
+    wo: wolofština
+    xh: xhosština
+    yi: jidiš
+    yo: jorubština
+    za: čuangština
+    zu: zuluština

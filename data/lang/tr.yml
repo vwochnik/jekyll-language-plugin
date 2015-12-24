@@ -1,36 +1,233 @@
 ---
+# Turkish
+# Türkçe
 tr:
   date:
-    abbr_daynames: [Pzr, Pzt, Sal, Çrş, Prş, Cum, Cts]
-    abbr_monthnames: [Oca, Şub, Mar, Nis, May, Haz, Tem, Ağu, Eyl, Eki, Kas, Ara]
-    daynames: [Pazar, Pazartesi, Salı, Çarşamba, Perşembe, Cuma, Cumartesi]
-    monthnames: [Ocak, Şubat, Mart, Nisan, Mayıs, Haziran, Temmuz, Ağustos, Eylül,
-      Ekim, Kasım, Aralık]
+    abbr_daynames:
+    - Pzr
+    - Pzt
+    - Sal
+    - Çrş
+    - Prş
+    - Cum
+    - Cts
+    abbr_monthnames:
+    - Oca
+    - Şub
+    - Mar
+    - Nis
+    - May
+    - Haz
+    - Tem
+    - Ağu
+    - Eyl
+    - Eki
+    - Kas
+    - Ara
+    daynames:
+    - Pazar
+    - Pazartesi
+    - Salı
+    - Çarşamba
+    - Perşembe
+    - Cuma
+    - Cumartesi
+    monthnames:
+    - Ocak
+    - Şubat
+    - Mart
+    - Nisan
+    - Mayıs
+    - Haziran
+    - Temmuz
+    - Ağustos
+    - Eylül
+    - Ekim
+    - Kasım
+    - Aralık
   lang:
+    aa: Afarca
+    ab: Abhazca
+    af: Afrikanca
+    ak: Akanca (Afrika dili)
+    sq: Arnavutça
+    am: Etiyopyaca
+    ar: Arapça
+    an: Aragonca (İspanya)
+    hy: Ermenice
+    as: Assamese (Hindistan)
+    av: Avarca
+    ae: Avestan (Eski İran)
+    ay: Aymara (Güney Amerika)
+    az: Azerice
+    ba: Başkırca
+    bm: Bambara (Mali)
+    eu: Baskça
+    be: Belarusça
+    bn: Bengalce
+    bh: Bihari dilleri
+    bi: Bislama
+    bs: Boşnakça
+    br: Bretonca
     bg: Bulgarca
+    my: Burmaca
+    ca: Katalanca
+    ch: Chamorro (Guam adaları)
+    ce: Çeçence
+    zh: Çince
+    cu: Church Slavic
+    cv: Çuvaş (Türkçe)
+    kw: Cornish (Kelt)
+    co: Korsikaca
+    cr: Cree (Kuzey Amerika yerlileri)
     cs: Çekçe
     da: Danca
-    de: Almanca
-    el: Yunanca
+    dv: Dhivehi
+    nl: Felemenkçe
+    dz: Dzongkha (Butan)
     en: İngilizce
-    es: İspanyolca
+    eo: Esperanto
     et: Estonca
+    ee: Ewe
+    fo: Faroece
+    fj: Fiji dili
     fi: Fince
     fr: Fransızca
+    fy: Batı Frizyeli Dili
+    ff: Fulah
+    ka: Gürcüce
+    de: Almanca
+    gd: Keltçe
+    ga: İrlandaca
+    gl: Galiçya dili
+    gv: Manx (Galler)
+    el: Yunanca
+    gn: Guarani (Paraguay)
+    gu: Gujarati (Hindistan)
+    ht: Haiti dili
+    ha: Hausa
+    he: İbranice
+    hz: Hereroca
+    hi: Hintçe
+    ho: Hiri Motu
     hr: Hırvatça
     hu: Macarca
+    ig: Igbo
     is: İzlandaca
+    io: Ido
+    ii: Sichuan Yi
+    iu: İnuitçe
+    ie: Yapay dil
+    ia: Interlingua
+    id: Endonezce
+    ik: Inupiak
     it: İtalyanca
+    jv: Cava
     ja: Japonca
-    lt: Litvanca
+    kl: Kalaallisut
+    kn: Kannada
+    ks: Keşmirce
+    kr: Kanuri
+    kk: Kazak Dili
+    km: Merkez Khmer
+    ki: Kikuyu
+    rw: Ruanda
+    ky: Kırgızca
+    kv: Komi
+    kg: Kongo
+    ko: Korece
+    kj: Kuanyama
+    ku: Kürtçe
+    lo: Laos Dili
+    la: Latince
     lv: Letonca
-    nl: Hollandaca
+    li: Limburgan
+    ln: Lingala
+    lt: Litvanca
+    lb: Lüksemburgca
+    lu: Luba-Katanga
+    lg: Ganda
+    mk: Makedonca
+    mh: Marshallese
+    ml: Malayalam
+    mi: Maori
+    mr: Marathi
+    ms: Malayca
+    mg: Malagasy
+    mt: Maltaca
+    mo: Moldavya Dili
+    mn: Moğol Dili
+    na: Nauruca
+    nv: Navajo
+    nr: Güney Ndebelecesi
+    nd: Kuzey Ndebelecesi
+    ng: Ndonga
+    ne: Nepalce
+    nn: Halk Norveççesi
+    nb: Kitap Norveççesi
+    no: Norveççe
+    ny: Chichewa
+    oc: Oksitanca
+    oj: Ojibwe
+    or: Oriya
+    om: Oromo
+    os: Osetçe
+    pa: Pencabi
+    fa: Farsça
+    pi: Pali
     pl: Lehçe
     pt: Portekizce
-    ro: Rumence
+    ps: Peştuca
+    qu: Keçuva
+    rm: Romanş
+    ro: Romence
+    rn: Kirundi
     ru: Rusça
+    sg: Sangho
+    sa: Sanskritçe
+    si: Sinhala
     sk: Slovakça
     sl: Slovence
-    sv: İsveççe
+    se: Kuzey Sami
+    sm: Samoa Dili
+    sn: Şona
+    sd: Sindhî
+    so: Somali Dili
+    st: Sesotho
+    es: İspanyolca
+    sc: Sardince
+    sr: Sırpça
+    ss: Siswati
+    su: Sudan Dili
+    sw: Swahili
+    sv: İsveçce
+    ty: Tahitice
+    ta: Tamilce
+    tt: Tatarca
+    te: Teluguca
+    tg: Tacikçe
+    tl: Takalotça
+    th: Taylandça
+    bo: Tibetçe
+    ti: Tigrinya
+    to: Tonga
+    tn: Setswana
+    ts: Tsonga
+    tk: Türkmence
     tr: Türkçe
+    tw: Twi
+    ug: Uygur
     uk: Ukraynaca
+    ur: Urduca
+    uz: Özbekçe
+    ve: Venda
+    vi: Vietnamca
+    vo: Volapük
+    cy: Gal Dili
+    wa: Valonca
+    wo: Wolof
+    xh: Xhosa
+    yi: Yiddiş
+    yo: Yorubaca
+    za: Zhuang
+    zu: Zuluca

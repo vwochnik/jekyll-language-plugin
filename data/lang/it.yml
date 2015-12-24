@@ -1,36 +1,233 @@
 ---
+# Italian
+# italiano
 it:
   date:
-    abbr_daynames: [dom, lun, mar, mer, gio, ven, sab]
-    abbr_monthnames: [gen, feb, mar, apr, mag, giu, lug, ago, set, ott, nov, dic]
-    daynames: [domenica, lunedì, martedì, mercoledì, giovedì, venerdì, sabato]
-    monthnames: [gennaio, febbraio, marzo, aprile, maggio, giugno, luglio, agosto,
-      settembre, ottobre, novembre, dicembre]
+    abbr_daynames:
+    - dom
+    - lun
+    - mar
+    - mer
+    - gio
+    - ven
+    - sab
+    abbr_monthnames:
+    - gen
+    - feb
+    - mar
+    - apr
+    - mag
+    - giu
+    - lug
+    - ago
+    - set
+    - ott
+    - nov
+    - dic
+    daynames:
+    - domenica
+    - lunedì
+    - martedì
+    - mercoledì
+    - giovedì
+    - venerdì
+    - sabato
+    monthnames:
+    - gennaio
+    - febbraio
+    - marzo
+    - aprile
+    - maggio
+    - giugno
+    - luglio
+    - agosto
+    - settembre
+    - ottobre
+    - novembre
+    - dicembre
   lang:
+    aa: Afar
+    ab: Abkhazo
+    af: Afrikaans
+    ak: Akan
+    sq: Albanese
+    am: Amarico
+    ar: Arabo
+    an: Aragonese
+    hy: Armeno
+    as: Assamese
+    av: Avarico
+    ae: Avestico
+    ay: Aymara
+    az: Azero
+    ba: Baschiro
+    bm: Bambara
+    eu: Basco
+    be: Bielorusso
+    bn: Bengalese
+    bh: Lingue bihari
+    bi: Bislama
+    bs: Bosniaco
+    br: Bretone
     bg: Bulgaro
+    my: Birmana
+    ca: Valenciano Catalano
+    ch: Chamorro
+    ce: Cecena
+    zh: Cinese
+    cu: Church Slavic
+    cv: Ciuvascia
+    kw: Cornovagliese
+    co: Corso
+    cr: Cree
     cs: Ceco
     da: Danese
-    de: Tedesco
-    el: Greco
+    dv: Dhivehi
+    nl: Olandese
+    dz: Dzongkha
     en: Inglese
-    es: Spagnolo
+    eo: Esperanto
     et: Estone
-    fi: Finnico
+    ee: Ewe
+    fo: Faeroese
+    fj: Figiano
+    fi: Finlandese
     fr: Francese
+    fy: Frisone occidentale
+    ff: Fulah
+    ka: Georgiano
+    de: Tedesco
+    gd: Gaelico
+    ga: Irlandese
+    gl: Galiziano
+    gv: Mannese
+    el: Greco
+    gn: Guarani
+    gu: Gujarati
+    ht: Haitiano
+    ha: Hausa
+    he: Ebraico
+    hz: Herero
+    hi: Hindi
+    ho: Hiri Motu
     hr: Croato
     hu: Ungherese
+    ig: Igbo
     is: Islandese
+    io: Ido
+    ii: Sichuan Yi
+    iu: Inuktitut
+    ie: Occidental
+    ia: Interlingua
+    id: Indonesiano
+    ik: Inupiaq
     it: Italiano
+    jv: Giavanese
     ja: Giapponese
-    lt: Lituano
+    kl: Groenlandese
+    kn: Canarese
+    ks: Kashmiri
+    kr: Kanuri
+    kk: Kazako
+    km: Khmer centrale
+    ki: Kikuyu
+    rw: Kinyarwanda
+    ky: Kirghizo
+    kv: Komi
+    kg: Kongo
+    ko: Coreano
+    kj: Kuanyama
+    ku: Curdo
+    lo: Laotiano
+    la: Latino
     lv: Lettone
-    nl: Olandese
+    li: Limburgan
+    ln: Lingala
+    lt: Lituano
+    lb: Lussemburghese
+    lu: Luba-katanga
+    lg: Ganda
+    mk: Macedone
+    mh: Marshallese
+    ml: Malayalam
+    mi: Maori
+    mr: Maratto
+    ms: Malese
+    mg: Malgascio
+    mt: Maltese
+    mo: Moldavo
+    mn: Mongolo
+    na: Nauru
+    nv: Navajo
+    nr: Ndebele del Sud
+    nd: Ndebele del Nord
+    ng: Ndonga
+    ne: Nepalese
+    nn: Nynorsk norvegese
+    nb: Bokmål norvegiese
+    no: Norvegese
+    ny: Chichewa
+    oc: Occitano
+    oj: Ojibway
+    or: Oriya
+    om: Oromo
+    os: Osseto
+    pa: Panjabi
+    fa: Persiano
+    pi: Pali
     pl: Polacco
     pt: Portoghese
-    ro: Rumeno
+    ps: Pasthu
+    qu: Quechua
+    rm: Romansh
+    ro: Romeno
+    rn: Rundi
     ru: Russo
+    sg: Sango
+    sa: Sanscrito
+    si: Singalese
     sk: Slovacco
     sl: Sloveno
+    se: Sami del Nord
+    sm: Samoano
+    sn: Shona
+    sd: Sindhi
+    so: Somalo
+    st: Sotho del Sud
+    es: Spagnolo
+    sc: Sardo
+    sr: Serbo
+    ss: Siswati
+    su: Sondanese
+    sw: Swahili
     sv: Svedese
+    ty: Thaitiano
+    ta: Tamil
+    tt: Tatarico
+    te: Telugu
+    tg: Tagico
+    tl: Tagalog
+    th: Thailandese
+    bo: Tibetano
+    ti: Tigrigna
+    to: Tonga
+    tn: Tswana
+    ts: Tsonga
+    tk: Turcmeno
     tr: Turco
+    tw: Twi
+    ug: Uyghur
     uk: Ucraino
+    ur: Urdu
+    uz: Uzbeco
+    ve: Venda
+    vi: Vietnamita
+    vo: Volapük
+    cy: Gallese
+    wa: Vallone
+    wo: Volof
+    xh: Xhosa
+    yi: Yiddish
+    yo: Yoruba
+    za: Zhuang
+    zu: Zulù

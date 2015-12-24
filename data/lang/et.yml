@@ -1,37 +1,233 @@
 ---
+# Estonian
+# eesti
 et:
   date:
-    abbr_daynames: [P, E, T, K, N, R, L]
-    abbr_monthnames: [jaan., veebr., märts, apr., mai, juuni, juuli, aug., sept.,
-      okt., nov., dets.]
-    daynames: [pühapäev, esmaspäev, teisipäev, kolmapäev, neljapäev, reede, laupäev]
-    monthnames: [jaanuar, veebruar, märts, aprill, mai, juuni, juuli, august, september,
-      oktoober, november, detsember]
+    abbr_daynames:
+    - P
+    - E
+    - T
+    - K
+    - N
+    - R
+    - L
+    abbr_monthnames:
+    - jaan.
+    - veebr.
+    - märts
+    - apr.
+    - mai
+    - juuni
+    - juuli
+    - aug.
+    - sept.
+    - okt.
+    - nov.
+    - dets.
+    daynames:
+    - pühapäev
+    - esmaspäev
+    - teisipäev
+    - kolmapäev
+    - neljapäev
+    - reede
+    - laupäev
+    monthnames:
+    - jaanuar
+    - veebruar
+    - märts
+    - aprill
+    - mai
+    - juuni
+    - juuli
+    - august
+    - september
+    - oktoober
+    - november
+    - detsember
   lang:
+    aa: Afari
+    ab: Abhaasi
+    af: Lõuna-Aafrika
+    ak: Lõuna-Aafrika
+    sq: Albaania
+    am: Araabia
+    ar: Araabia
+    an: Fääri
+    hy: Armeenia
+    as: Assami
+    av: Araabia
+    ae: Avesta
+    ay: Aimara
+    az: Aserbaidžaani
+    ba: Baškiir
+    bm: Bambara
+    eu: Baski
+    be: Valgevene
+    bn: Balti
+    bh: Korea
+    bi: Bislama
+    bs: Rumeenia
+    br: Bretooni
     bg: Bulgaaria
+    my: Birma
+    ca: Katalaani
+    ch: Tšamorro
+    ce: Tšehhi
+    zh: Hiina
+    cu: Kirikuslaavi
+    cv: Tšuvaši
+    kw: Värvid
+    co: Korsika
+    cr: Kreeka
     cs: Tšehhi
     da: Taani
-    de: Saksa
-    el: Kreeka
+    dv: Divehi
+    nl: Hollandi
+    dz: Dzongkha
     en: Inglise
-    es: Hispaania
+    eo: Esperanto
     et: Eesti
+    ee: Eve
+    fo: Fääri
+    fj: Otsi
     fi: Soome
     fr: Prantsuse
-    hr: Horvaadi
+    fy: Ukraina
+    ff: Fulbe
+    ka: Gruusia
+    de: Saksa
+    gd: Gaeli
+    ga: Iiri
+    gl: Galeon
+    gv: Mani
+    el: Kreeka
+    gn: Guaraní
+    gu: Gudžarati
+    ht: Haiti
+    ha: Paus
+    he: Heebrea
+    hz: Heebrea
+    hi: Otsi
+    ho: Otsi
+    hr: Horvaatia
     hu: Ungari
+    ig: Ibo
     is: Islandi
+    io: Ido
+    ii: Leedu
+    iu: Inuktitut
+    ie: Renderdamine
+    ia: Interlingua
+    id: Indoneesia
+    ik: India
     it: Itaalia
+    jv: Jaava
     ja: Jaapani
-    lt: Leedu
+    kl: Grööni
+    kn: Kannada
+    ks: Kašmiiri
+    kr: Türgi
+    kk: Kasahhi
+    km: Kesk-khmeeri
+    ki: Kikuju
+    rw: Ruanda
+    ky: Kirgiis
+    kv: Komi
+    kg: Kongo
+    ko: Korea
+    kj: Kuanyama
+    ku: Türgi
+    lo: Lao
+    la: Asukoht
     lv: Läti
-    nl: Hollandi
+    li: Limburgan
+    ln: Le_gal
+    lt: Leedu
+    lb: Letseburgi
+    lu: Luba-Katanga
+    lg: Ganda
+    mk: Makedoonia
+    mh: ei
+    ml: Malajalami
+    mi: Ääred
+    mr: Marathi
+    ms: Malai
+    mg: Malagassi
+    mt: Malta
+    mo: Moldova
+    mn: Mongoli
+    na: Nauru
+    nv: Navajo
+    nr: Lõuna-Ndebele
+    nd: Põhja-Ndebele
+    ng: Ndonga
+    ne: Nepali
+    nn: Norra
+    nb: Bokmål
+    no: Norra
+    ny: Njandža
+    oc: Oksitaani
+    oj: Ojibwa
+    or: Oria
+    om: alates
+    os: Vene
+    pa: Pandžabi
+    fa: Prindi
+    pi: Paali
     pl: Poola
     pt: Portugali
+    ps: Puštu
+    qu: Ketšua
+    rm: Retoromaani
     ro: Rumeenia
+    rn: Rundi
     ru: Vene
-    sk: Slovaki
-    sl: Sloveeni
+    sg: Sango
+    sa: seriifideta
+    si: Vietnami
+    sk: Slovakkia
+    sl: Sloveenia
+    se: Põhjasaami
+    sm: Samoa
+    sn: Šona
+    sd: Otsi
+    so: Somaali
+    st: Lõunasotho
+    es: Hispaania
+    sc: Makedoonia
+    sr: Serbia
+    ss: Svaasi
+    su: Sunda
+    sw: Suahiili
     sv: Rootsi
+    ty: Läti
+    ta: Tai
+    tt: Tatari
+    te: Telugu
+    tg: Tai
+    tl: Tagalogi
+    th: Tai
+    bo: Tiibeti
+    ti: Türgi
+    to: Tonga
+    tn: Tsvana
+    ts: Tsonga
+    tk: Türkmeeni
     tr: Türgi
+    tw: Tvii
+    ug: Uiguuri
     uk: Ukraina
+    ur: Urdu
+    uz: Usbeki
+    ve: Venda
+    vi: Vietnami
+    vo: Volapük
+    cy: Kõmri
+    wa: Vallooni
+    wo: volofi
+    xh: Koosa
+    yi: Jidiši
+    yo: Joruba
+    za: Tšuangi
+    zu: Suulu

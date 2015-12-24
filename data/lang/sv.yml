@@ -1,36 +1,233 @@
 ---
+# Swedish
+# svenska
 sv:
   date:
-    abbr_daynames: [sön, mån, tis, ons, tor, fre, lör]
-    abbr_monthnames: [jan, feb, mar, apr, maj, jun, jul, aug, sep, okt, nov, dec]
-    daynames: [söndag, måndag, tisdag, onsdag, torsdag, fredag, lördag]
-    monthnames: [januari, februari, mars, april, maj, juni, juli, augusti, september,
-      oktober, november, december]
+    abbr_daynames:
+    - sön
+    - mån
+    - tis
+    - ons
+    - tor
+    - fre
+    - lör
+    abbr_monthnames:
+    - jan
+    - feb
+    - mar
+    - apr
+    - maj
+    - jun
+    - jul
+    - aug
+    - sep
+    - okt
+    - nov
+    - dec
+    daynames:
+    - söndag
+    - måndag
+    - tisdag
+    - onsdag
+    - torsdag
+    - fredag
+    - lördag
+    monthnames:
+    - januari
+    - februari
+    - mars
+    - april
+    - maj
+    - juni
+    - juli
+    - augusti
+    - september
+    - oktober
+    - november
+    - december
   lang:
+    aa: Afar
+    ab: Abchaziska
+    af: Afrikaans
+    ak: Akan
+    sq: Albanska
+    am: Amhariska
+    ar: Arabiska
+    an: Aragonska
+    hy: Armeniska
+    as: Assamesiska
+    av: Avariska
+    ae: Avestiska
+    ay: Aymara
+    az: Azerbajdzjanska
+    ba: Basjkiriska
+    bm: Bambara
+    eu: Baskiska
+    be: Vitryska
+    bn: Bengali
+    bh: Tupíspråk
+    bi: Bislama
+    bs: Bosniska
+    br: Bretonska
     bg: Bulgariska
+    my: Burmanska
+    ca: Katalanska
+    ch: Chamorro
+    ce: Tjetjenska
+    zh: Kinesiska
+    cu: Kyrkslaviska
+    cv: Tjuvasjiska
+    kw: Korniska
+    co: Korsikanska
+    cr: Cree
     cs: Tjeckiska
     da: Danska
-    de: Tyska
-    el: Grekiska
+    dv: Divehi
+    nl: Nederländska
+    dz: Bhutanesiska (Dzongkha)
     en: Engelska
-    es: Spanska
+    eo: Esperanto
     et: Estniska
+    ee: Ewe
+    fo: Färöiska
+    fj: Fijianska
     fi: Finska
     fr: Franska
+    fy: Frisiska
+    ff: Fulani
+    ka: Georgiska
+    de: Tyska
+    gd: Höglandsskotska
+    ga: Iriska
+    gl: Gaeliska
+    gv: Manx
+    el: Nygrekiska
+    gn: Guarani
+    gu: Gujarati
+    ht: Haitiska
+    ha: Haussa
+    he: Hebreiska
+    hz: Herero
+    hi: Hindi
+    ho: Hirimotu
     hr: Kroatiska
     hu: Ungerska
+    ig: Ibo (Igbo)
     is: Isländska
+    io: Ido
+    ii: Sichuan Yi
+    iu: Inuktitut
+    ie: Occidental
+    ia: Interlingua
+    id: Indonesiska
+    ik: Iñupiaq
     it: Italienska
+    jv: Javanska
     ja: Japanska
-    lt: Litauiska
+    kl: Grönländska
+    kn: Kannada
+    ks: Kashmiri
+    kr: Kanuri
+    kk: Kazakiska
+    km: Kambodjanska
+    ki: Kikuyu
+    rw: Rwanda
+    ky: Kirgisiska
+    kv: Komi
+    kg: Kikongo
+    ko: Koreanska
+    kj: Ovambo (kuanyama)
+    ku: Kurdiska
+    lo: Laotiska
+    la: Latin
     lv: Lettiska
-    nl: Nederländska
+    li: Limburgan
+    ln: Lingala
+    lt: Litauiska
+    lb: Luxemburgiska
+    lu: Luba-Katanga
+    lg: Luganda
+    mk: Makedonska
+    mh: Marshallesiska
+    ml: Malayalam
+    mi: Maori
+    mr: Marathi
+    ms: Malajiska
+    mg: Malagasy
+    mt: Maltesiska
+    mo: Moldaviska
+    mn: Mongoliska språk
+    na: Nauruanska
+    nv: Navaho
+    nr: Ndebele, syd
+    nd: Ndebele, nord
+    ng: Ndonga
+    ne: Nepalesiska
+    nn: Nynorsk
+    nb: Norwegian Bokmål
+    no: Norska
+    ny: Nyanja
+    oc: Langue d'oc
+    oj: Odjibwa (chippewa)
+    or: Oriya
+    om: Oromo
+    os: Ossetiska
+    pa: Punjabi
+    fa: Persiska
+    pi: Pali
     pl: Polska
     pt: Portugisiska
+    ps: Pashto
+    qu: Quechua
+    rm: Romani
     ro: Rumänska
+    rn: Rundi
     ru: Ryska
+    sg: Sango
+    sa: Sanskrit
+    si: Singalesiska
     sk: Slovakiska
     sl: Slovenska
+    se: Nordsamiska
+    sm: Samoanska
+    sn: Shona
+    sd: Sindhi
+    so: Somaliska
+    st: Sesotho
+    es: Spanska
+    sc: Sardiska
+    sr: Serbiska
+    ss: Swazi
+    su: Sundanesiska
+    sw: Swahili
     sv: Svenska
+    ty: Tahitiska
+    ta: Tamil
+    tt: Tatariska
+    te: Telugo
+    tg: Tadzjikiska
+    tl: Tagalog
+    th: Thailändska
+    bo: Tibetanska
+    ti: Tigrinja
+    to: Tonganska
+    tn: Setswana
+    ts: Tsonga
+    tk: Turkmeniska
     tr: Turkiska
+    tw: Twi
+    ug: Uiguriska
     uk: Ukrainska
+    ur: Urdu
+    uz: Uzbekiska
+    ve: Venda
+    vi: Vietnamesiska
+    vo: Volapyk
+    cy: Kymriska
+    wa: Vallonska
+    wo: Wolof
+    xh: Xhosa
+    yi: Jiddisch
+    yo: Yoruba
+    za: Zhuang
+    zu: Zulu

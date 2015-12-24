@@ -1,0 +1,233 @@
+---
+# Swahili
+# Kiswahili
+sw:
+  date:
+    abbr_daynames:
+    - J2
+    - J3
+    - J4
+    - J5
+    - Al
+    - Ij
+    - J1
+    abbr_monthnames:
+    - Jan
+    - Feb
+    - Mac
+    - Apr
+    - Mei
+    - Jun
+    - Jul
+    - Ago
+    - Sep
+    - Okt
+    - Nov
+    - Des
+    daynames:
+    - Jumapili
+    - Jumatatu
+    - Jumanne
+    - Jumatano
+    - Alhamisi
+    - Ijumaa
+    - Jumamosi
+    monthnames:
+    - Mwezi wa kwanza
+    - Mwezi wa pili
+    - Mwezi wa tatu
+    - Mwezi wa nne
+    - Mwezi wa tano
+    - Mwezi wa sita
+    - Mwezi wa saba
+    - Mwezi wa nane
+    - Mwezi wa tisa
+    - Mwezi wa kumi
+    - Mwezi wa kumi na moja
+    - Mwezi wa kumi na mbili
+  lang:
+    aa: Afar
+    ab: Kiabkhazi
+    af: Afrikaans
+    ak: Akan
+    sq: Kialbania
+    am: Kiamhara
+    ar: kiarabu
+    an: Kiswahili
+    hy: Kiarmenia
+    as: Kiassam
+    av: Avaric
+    ae: Avestan
+    ay: Aymara
+    az: Azerbaijani
+    ba: Bashkir
+    bm: Kibambara
+    eu: Kibaski
+    be: Kibelarus
+    bn: Kibungala
+    bh: Lugha Bihari
+    bi: Bislama
+    bs: Kibosnia
+    br: Breton
+    bg: Kibulgaria
+    my: Kiburma
+    ca: Kikatalan
+    ch: Chamorro
+    ce: Chechen
+    zh: Kichina
+    cu: Church Slavic
+    cv: Chuvash
+    kw: Cornish
+    co: Kikosikani
+    cr: Cree
+    cs: Kicheki
+    da: Kideni
+    dv: Divehi
+    nl: Kiholanzi
+    dz: Kizongkha
+    en: Kiingereza
+    eo: kiesperanto
+    et: Kiestonia
+    ee: Kiwe
+    fo: Faroese
+    fj: Fijian
+    fi: Kifinlandia
+    fr: Kifaransa
+    fy: Western Frisian
+    ff: Fulah
+    ka: Georgian
+    de: Kijerumani
+    gd: Gaelic
+    ga: Kiairish
+    gl: Galician
+    gv: Manx
+    el: Kigiriki
+    gn: Guarani
+    gu: Kigujarati
+    ht: Kihaiti
+    ha: Kihausa
+    he: Kiebrania
+    hz: Herero
+    hi: Kihindi
+    ho: Hiri Motu
+    hr: Kikroatia
+    hu: Kihungaria
+    ig: Igbo
+    is: Kiaisilandi
+    io: Ido
+    ii: Sichuan Yi
+    iu: Inuktitut
+    ie: Interlingue
+    ia: Interlingua
+    id: Kiindonesia
+    ik: Inupiaq
+    it: Kiitalia
+    jv: Javanese
+    ja: Kijapani
+    kl: Kalaallisut
+    kn: Kikannada
+    ks: Kashmiri
+    kr: Kanuri
+    kk: Kikazaki
+    km: Kati Khmer
+    ki: Kikuyu
+    rw: Kinyarwanda
+    ky: Kikirigizi
+    kv: Komi
+    kg: Kongo
+    ko: Kikorea
+    kj: Kuanyama
+    ku: Kurdish
+    lo: Lao
+    la: Kilatini
+    lv: Kilatvia
+    li: Limburgan
+    ln: Kilingala
+    lt: Kilithuania
+    lb: Kitatari
+    lu: Luba-Katanga
+    lg: Ganda
+    mk: Macedonian
+    mh: Marshallese
+    ml: Malayalam
+    mi: Maori
+    mr: Marathi
+    ms: Kimalasia
+    mg: Kibukini
+    mt: Maltese
+    mo: Moldavian
+    mn: Kimongolia
+    na: Nauru
+    nv: Kinavaho
+    nr: South Ndebele
+    nd: North Ndebele
+    ng: Ndonga
+    ne: Kinepali
+    nn: Norwegian Nynorsk
+    nb: Norwegian Bokmål
+    no: Norwegian
+    ny: Chichewa
+    oc: Kiositani
+    oj: Ojibwa
+    or: Kioriya
+    om: Oromo
+    os: Ossetian
+    pa: Panjabi
+    fa: Kiajemi
+    pi: Pali
+    pl: Kipoland
+    pt: Kireno
+    ps: Pushto
+    qu: Quechua
+    rm: Kiromanshi
+    ro: Kiromania
+    rn: Kirundi
+    ru: kirusi
+    sg: Sango
+    sa: Kisanskrit
+    si: Sinhala
+    sk: Kislovakia
+    sl: Kislovenia
+    se: Kisami cha
+    sm: Kisamoa
+    sn: Shona
+    sd: Msindhi
+    so: Kisomali
+    st: Kisotho cha Kusini
+    es: Kihispania
+    sc: Sardinian
+    sr: Kiserbia
+    ss: Kiswazi
+    su: Kisundani
+    sw: Kiswahili
+    sv: Kiswidi
+    ty: Kitahiti
+    ta: Kitamil
+    tt: Tatar
+    te: Telugu
+    tg: Kitajiki
+    tl: Kitagalog
+    th: Kithai
+    bo: Kitibeti
+    ti: Kitigrinya
+    to: Tonga
+    tn: Kitswana
+    ts: Tsonga
+    tk: Kiturukimeni
+    tr: Kituruki
+    tw: Twi
+    ug: Uighur
+    uk: Kikraini
+    ur: Kiurdu
+    uz: Kizibeki
+    ve: Venda
+    vi: Kivietinamu
+    vo: Volapük
+    cy: Kiwelisi
+    wa: Walloon
+    wo: Kiwolofu
+    xh: Xhosa
+    yi: Yiddish
+    yo: Kiyoruba
+    za: Zhuang
+    zu: Kizulu

@@ -1,0 +1,233 @@
+---
+# Irish
+# Gaeilge
+ga:
+  date:
+    abbr_daynames:
+    - Domhnach
+    - Luan
+    - Máirt
+    - Céadaoin
+    - Déardaoin
+    - Aoine
+    - Satharn
+    abbr_monthnames:
+    - Ean
+    - Fea
+    - Mar
+    - Aib
+    - Bea
+    - Mei
+    - Iúi
+    - Lún
+    - MFO
+    - DFO
+    - Sam
+    - Nol
+    daynames:
+    - Domhnach
+    - Luan
+    - Máirt
+    - Céadaoin
+    - Déardaoin
+    - Aoine
+    - Satharn
+    monthnames:
+    - Mí Eanair
+    - Mí Feabhra
+    - Mí Márta
+    - Mí Aibreán
+    - Mí Bealtaine
+    - Mí Meitheamh
+    - Mí Iúil
+    - Mí Lúnasa
+    - Mí Meán Fomhair
+    - Mí Deireadh Fomhair
+    - Mí na Samhna
+    - Mí na Nollag
+  lang:
+    aa: Afárais
+    ab: Abcáisis
+    af: Afracáinis
+    ak: Acáinis
+    sq: Albáinis
+    am: Amáiris
+    ar: Araibis
+    an: Aragóinis
+    hy: Airméinis
+    as: Asaimis
+    av: Avairis
+    ae: Aivéistis
+    ay: Aidhmiris
+    az: Asarbaiseáinis
+    ba: Baiscíris
+    bm: Bambáiris
+    eu: Bascais
+    be: Bealarúisis
+    bn: Beangáilis
+    bh: Teangacha Bihairis
+    bi: Bioslamais
+    bs: Boisnis
+    br: Briotáinis
+    bg: Bulgáiris
+    my: Burmais
+    ca: Catalóinis
+    ch: Seamóróis
+    ce: Seisnis
+    zh: Sínis
+    cu: Church Slavonic
+    cv: Suvaisis
+    kw: Coirnis
+    co: Corsaicis
+    cr: Craíais
+    cs: Seicis
+    da: Danmhairgis
+    dv: Divéihis
+    nl: Ollainnis
+    dz: Seoinicis
+    en: Béarla
+    eo: Esperanto
+    et: Eastóinis
+    ee: Éivéis
+    fo: Faróis
+    fj: Fidsis
+    fi: Fionlainnis
+    fr: Fraincis
+    fy: Freaslainnis Iartharach
+    ff: Fulfuildis
+    ka: Seoirsis
+    de: Gearmáinis
+    gd: Gaeilge na hAlban
+    ga: Gaeilge
+    gl: Gailísis
+    gv: Manainnis
+    el: Gréigis Nua-Aimseartha
+    gn: Guaráinis
+    gu: Gúisearáitis
+    ht: Criól Háítíoch
+    ha: Hásais
+    he: Eabhrais
+    hz: Heiréiróis
+    hi: Hiondúis
+    ho: Hírí-Mótúis
+    hr: Cróitis
+    hu: Ungáiris
+    ig: Íogbóis
+    is: Íoslainnis
+    io: Ido
+    ii: Íais Shisiuánach
+    iu: Ionúitis
+    ie: Idirtheanga iartharach
+    ia: Idirtheanga
+    id: Indinéisis
+    ik: Iniúipiaicis
+    it: Iodáilis
+    jv: Iávais
+    ja: Seapáinis
+    kl: Graonlainnis
+    kn: Cannadais
+    ks: Caismíris
+    kr: Canúiris
+    kk: Casaicis
+    km: Ciméiris Láir
+    ki: Ciocúis
+    rw: Cinearuáindis
+    ky: Cirgisis
+    kv: Coimí
+    kg: Congóis
+    ko: Cóiréis
+    kj: Cuainiáimis
+    ku: Coirdis
+    lo: Láóis
+    la: Laidin
+    lv: Laitvis
+    li: Limbuirgis
+    ln: Liongáilis
+    lt: Liotuáinis
+    lb: Lucsambuirgis
+    lu: Lúba-Cataingis
+    lg: Gandais
+    mk: Macadóinis
+    mh: Marascailis
+    ml: Mailéalaimis
+    mi: Maorais
+    mr: Maraitis
+    ms: Malaeis
+    mg: Malagáisis
+    mt: Máltais
+    mo: Moldávais
+    mn: Mongóilis
+    na: Nárúis
+    nv: Navachóis
+    nr: Ndebele Theas
+    nd: Ndebele Thuaidh
+    ng: Ndongais
+    ne: Neipeailis
+    nn: Ioruais Nynorsk
+    nb: Ioruais Bokmål
+    no: Ioruais
+    ny: Siséivis
+    oc: Ocatáinis
+    oj: Óisibvis
+    or: Oirísis
+    om: Oraimis
+    os: Óiséitis
+    pa: Puinseáibis
+    fa: Peirsis
+    pi: Páilis
+    pl: Polainnis
+    pt: Portaingéilis
+    ps: Paistis
+    qu: Ceatsuais
+    rm: Rómainis
+    ro: Rómáinis
+    rn: Rundi
+    ru: Rúisis
+    sg: Sangóis
+    sa: Sanscrait
+    si: Siolóinis
+    sk: Slóvaicis
+    sl: Slóivéinis
+    se: Sáimis Thuaidh
+    sm: Samóis
+    sn: Seoinis
+    sd: Sindis
+    so: Somáilis
+    st: Sótó Theas
+    es: Spáinnis
+    sc: Sairdínis
+    sr: Seirbis
+    ss: Suaisis
+    su: Sundais
+    sw: Svahaílis
+    sv: Sualainnis
+    ty: Taihítis
+    ta: Tamailis
+    tt: Tatairis
+    te: Teileagúis
+    tg: Táidsícis
+    tl: Tagálaigis
+    th: Téalainnis
+    bo: Tibéidis
+    ti: Tigrínis
+    to: Tongais
+    tn: Suáinis
+    ts: Songais
+    tk: Tuircméinis
+    tr: Tuircis
+    tw: Tiuíais
+    ug: Úígiúiris
+    uk: Úcráinis
+    ur: Urdúis
+    uz: Úisbéicis
+    ve: Veindis
+    vi: Vítneamais
+    vo: Volapük
+    cy: Breatnais
+    wa: Vallúnais
+    wo: Volaifis
+    xh: Cóisis
+    yi: Giúdais
+    yo: Iarúibis
+    za: Siuáingis
+    zu: Súlúis
