@@ -5,7 +5,8 @@ module Jekyll
   class LanguageCollectionReader < CollectionReader
     def read
       site.collections.each do |_, collection|
-        collection.read unless SPECIAL_COLLECTIONS.include?(collection.label)
+        next if SPECIAL_COLLECTIONS.include?(collection.label)
+        collection.read
         collection.docs = collection.docs.flat_map do |document|
           ldocuments = []
           ldocument = LanguageDocument.new(document.path, { site: @site, collection: collection })
