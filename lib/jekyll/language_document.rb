@@ -14,10 +14,7 @@ module Jekyll
     end
 
     def url_placeholders
-      url_placeholders_orig.merge!({
-        language: language,
-        subset: subset
-      })
+      @url_placeholders ||= Drops::LanguageUrlDrop.new(self)
     end
   end
 end

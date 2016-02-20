@@ -2,4 +2,4 @@
 # Encoding: utf-8
 
 require_relative 'patches/jekyll/site'
-require_relative 'patches/jekyll/url'
+require_relative 'patches/jekyll/renderer'
